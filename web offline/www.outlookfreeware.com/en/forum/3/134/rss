@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Remove Re: Fw: From Subject: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/134</link>
+    <description><![CDATA[New posts in the topic "Remove Re: Fw: From Subject" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:04:18 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Remove Re: Fw: From Subject]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/134/234/#post234</link>
+      <description><![CDATA[<b>Ferdinand</b>, are you sure you selected the right folders with emails to remove subject prefixes? Or you're expecting the automatic subject processing?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Re: Fw: From Subject]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:234</guid>
+      <pubDate>Sat, 06 Aug 2011 16:59:31 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Remove Re: Fw: From Subject]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/134/233/#post233</link>
+      <description><![CDATA[I have downloaded this utility and it seems to run just fine giving me a yellow smiley face with the words 'completed'  'However nothing has changed.  I am using Outlook 2010. I have ticked and ticked the 'Delete all subject prefixes' block with no difference]]></description>
+      <author><![CDATA[Ferdinand Smith]]></author>
+      <category><![CDATA[Remove Re: Fw: From Subject]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:233</guid>
+      <pubDate>Fri, 05 Aug 2011 16:11:51 UT</pubDate>
+    </item>
+  </channel>
+</rss>

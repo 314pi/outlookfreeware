@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Import from Thunderbird: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/154</link>
+    <description><![CDATA[New posts in the topic "Import from Thunderbird" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:58:54 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Import from Thunderbird]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/154/1209/#post1209</link>
+      <description><![CDATA[Hi, <b>OutlookFreeware.com MBOX to PST Converter</b> is a great choice to export Thunderbird mail to Outlook 2019. First of all you have to export Thunderbird emails to MBOX file. After that you need to install the above tool to convert mbox to pst file. This application is an ultimate solution for mbox to pst conversion. The tool maintains the meta properties and key elements of emails. Hence no data omission or modification will take place.]]></description>
+      <author><![CDATA[Rosie swift]]></author>
+      <category><![CDATA[Import from Thunderbird]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1209</guid>
+      <pubDate>Sat, 16 Mar 2019 10:33:31 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import from Thunderbird]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/154/1203/#post1203</link>
+      <description><![CDATA[For importing Thunderbird to Outlook here are two steps Manual process and use of third party tool. In Manual process it takes time and there is always a risk of losing data and data corruption. If you are not technical then it will be a disaster for you. So, I will strongly recommend you to use <b>OutlookFreeware.com MBOX to PST Converter tool</b> for Thunderbird to Outlook migration Process.]]></description>
+      <author><![CDATA[Karsyn Camren]]></author>
+      <category><![CDATA[Import from Thunderbird]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1203</guid>
+      <pubDate>Tue, 05 Mar 2019 09:32:21 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import from Thunderbird]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/154/606/#post606</link>
+      <description><![CDATA[nobody special,<br />
+<br />
+You are right. Unfortunately, we are not interested to write something for Thunderbird.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Import from Thunderbird]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:606</guid>
+      <pubDate>Mon, 02 Dec 2013 16:06:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import from Thunderbird]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/154/605/#post605</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>Outlook Freeware:<br />
+ trying to import my Thunderbird emails and contacts into Outlook 2010, but can't seem to find the right source folders.</td></tr></table><br />
+<br />
+Thanks for this.<br />
+<br />
+Exporting the Thunderbird .mbx folders to .eml seems like a good idea, and I was reading that each .eml file contains a single email.<br />
+<br />
+Given that I have a 50 root folders in TB, each with 20-30 sub folders, each sometimes with additional sub folders, totaling a lot of emails and complexity,  actually doing this is far easier said than done.  <br />
+I don't see a utility from within TB that will export all to an appropriate directory structure.<br />
+<br />
+But it seems to me that with your expertise, it wouldn't be hard for you to parse an entire TB directory structure for valid email files, and import that directly into outlook 2010.<br />
+<br />
+That being said, I haven't paid anything for your programs, so I'm not really expecting much in the way of getting this problem solved, as it seems to be a TB problem , not a OF problem.<br />
+<br />
+I've used your msg duplicate finder and it worked really well for me.<br />
+<br />
+Dean (an American living in Lviv)]]></description>
+      <author><![CDATA[nobody special]]></author>
+      <category><![CDATA[Import from Thunderbird]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:605</guid>
+      <pubDate>Mon, 02 Dec 2013 08:45:58 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import from Thunderbird]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/154/446/#post446</link>
+      <description><![CDATA[<b>Norman</b>, as for emails: you can just export them to EML format and then import to Outlook by using our <!--noindex--><a href="/en/products/all/OutlookMessagesImportEML/" rel="nofollow">Import Messages from EML Format</a><!--/noindex--> tool.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import from Thunderbird]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:446</guid>
+      <pubDate>Thu, 20 Sep 2012 16:56:05 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Import from Thunderbird]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/154/445/#post445</link>
+      <description><![CDATA[I'm trying to import my Thunderbird emails and contacts into Outlook 2010, but can't seem to find the right source folders.]]></description>
+      <author><![CDATA[Norman Durment]]></author>
+      <category><![CDATA[Import from Thunderbird]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:445</guid>
+      <pubDate>Wed, 19 Sep 2012 01:50:01 UT</pubDate>
+    </item>
+  </channel>
+</rss>

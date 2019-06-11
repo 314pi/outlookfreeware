@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Mark Duplicate Outlook Items: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/84</link>
+    <description><![CDATA[New posts in the topic "Mark Duplicate Outlook Items" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:24:47 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/829/#post829</link>
+      <description><![CDATA[<b>Tiger,</b><br />
+<br />
+Please check what exactly utility you are using.<br />
+We have different utilities for different actions:<br />
+<!--noindex--><a href="/en/products/all/OutlookReportDuplicates" rel="nofollow">Duplicate Outlook Items Report</a><!--/noindex--> - will show number of duplicates only,<br />
+<!--noindex--><a href="/en/products/all/OutlookMessagesMarkDuplicates" rel="nofollow">Find Duplicate Messages</a><!--/noindex--> - will flag duplicates with flag or assign a category, you will need to delete them manually,<br />
+<!--noindex--><a href="/en/products/all/OutlookMessagesRemoveDuplicates" rel="nofollow">Remove Duplicate Messages</a><!--/noindex--> - will remove duplicates to deleted folder for you (the operation can be reversed using Merge folders utility)]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:829</guid>
+      <pubDate>Thu, 14 May 2015 16:49:47 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/828/#post828</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, Yeah so I downloaded and ran the program and it scanned all my files in outlook but then my only option was to save or exit. I wanted a program that would flag all my dups in my contacts (icloud) and allow me to eliminate them quickly and easily. Can this program do that? If so what am I doing wrong? Thanks]]></description>
+      <author><![CDATA[Tiger]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:828</guid>
+      <pubDate>Thu, 14 May 2015 04:39:35 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/585/#post585</link>
+      <description><![CDATA[<b>bmn2013,</b><br />
+<br />
+Yes, the Mark Duplicates utility marks all duplicates and do not mark the original message.<br />
+There will be the original message somewhere in your folders after marked duplicates removal.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:585</guid>
+      <pubDate>Fri, 25 Oct 2013 15:41:19 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/581/#post581</link>
+      <description><![CDATA[Celeste,<br />
+<br />
+what type of duplicate items do you trying to mark?<br />
+<br />
+If you are running Remove Duplicate Calendar Items then there is no Flag field shown under any of default views.<br />
+If you are assigning a category, please make sure that you have entered the exact category name in the option.<br />
+Select List view in the Calendar to see Categories.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:581</guid>
+      <pubDate>Mon, 07 Oct 2013 15:47:39 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/580/#post580</link>
+      <description><![CDATA[I have the same issues.  I see no marks flags or categories  although I configured it that way.  I am running from inside of Office Outlook 2010 on my PC.  I have attempted to save the configuration and then to run but I still have no visible flags or categories after running.]]></description>
+      <author><![CDATA[Celeste Wood]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:580</guid>
+      <pubDate>Sat, 05 Oct 2013 01:42:34 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/423/#post423</link>
+      <description><![CDATA[<b>looking0101</b>, how do you run the tool? In your Outlook or using a standalone launcher application (via Windows' Start Menu)?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:423</guid>
+      <pubDate>Thu, 28 Jun 2012 22:21:41 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/422/#post422</link>
+      <description><![CDATA[hello trying to use the &quot;Mark Duplicate Outlook Items&quot; and it says 8 marked but nothing is marked.?? Also everytime I run it says I must configure each time.  Is this normal?<br />
+ any help is appreciated.<br />
+Thanks in advance]]></description>
+      <author><![CDATA[looking0101]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:422</guid>
+      <pubDate>Thu, 28 Jun 2012 08:12:01 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Mark Duplicate Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/84/84/#post84</link>
+      <description><![CDATA[Discuss all duplicate markers here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Mark Duplicate Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:84</guid>
+      <pubDate>Thu, 28 Oct 2010 02:00:32 UT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Remove Duplicate Oulook Items: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/28</link>
+    <description><![CDATA[New posts in the topic "Remove Duplicate Oulook Items" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:24:57 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/1120/#post1120</link>
+      <description><![CDATA[<b>Mark Phillips</b>, <br />
+<br />
+Did you try to run Remove Duplicates Messages utility with and without 'Use custom fields to compare' option? If the Duplicate Items report finds them, the Remove utility should delete them with the same configuration.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1120</guid>
+      <pubDate>Mon, 17 Sep 2018 11:20:45 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/1119/#post1119</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+<br />
+Hi, I'm trying to deduplicate outlook messages for a friend after an accidental import duplicated everything in her inbox. However although there are clearly about 20,000 duplicated messages the Outlook Duplicate Message remover can't see them. The Duplicate Items report finds them, though. <br />
+<br />
+The paid-for version can find them if the match criteria are less stringent.<br />
+<br />
+Is there any way to dedupe her without paying for a one-off use of a tool? <br />
+<br />
+Thanks <br />
+<br />
+Mark]]></description>
+      <author><![CDATA[Mark Phillips]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1119</guid>
+      <pubDate>Fri, 14 Sep 2018 18:23:19 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/1001/#post1001</link>
+      <description><![CDATA[<b>Alex</b>, <br />
+<br />
+IMAP stores all messages on server and can re-download them. Probably the best way will be to create a new data file (PST), copy there all folders and then delete the OST file of IMAP mailbox. Outlook will re-create it after restart and re-download all messages from the server. Mailbox should become normal after that. But some messages could be only in the PST. You can remove duplicates in PSTa тв leave it as Archive. <br />
+Using <!--noindex--><a href="https://www.ReliefJet.com/Essentials/Features/OutlookMessagesMarkDuplicates?src=fw" rel="nofollow">the Advanced version</a><!--/noindex--> of the utility you can run deduplicate utility across both stores and select IMAP store as High priority folder. Then it will mark/remove duplicates from PST and leave originals in the IMAP.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1001</guid>
+      <pubDate>Tue, 20 Jun 2017 11:25:41 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/1000/#post1000</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>Outlook Freeware:<br />
+<b>Alex</b>, <br />
+<br />
+You can clear the category before first run also.<br />
+<br />
+You can delete duplicates (not permanently), look at them in deleted items folder and then try to find the same item in the original folders using Outlook search for example.</td></tr></table><br />
+<br />
+I run a test with some mail where both were tagged duplicate(assuming there is and original) and to my surprise one was the original and the other the dup. Lucky me that I made a backup of the container.<br />
+Then I jump to run selecting all to delete them all tagged duplicate and after some seconds mails are coming back to the folder. <br />
+What under your knowledge is going on. <br />
+Will help you to know that I am using imap.?<br />
+<br />
+I run the clear tool and still have the Duplicate this is turning to me a mess need help on this matter or someone to access remotely and see what is going on.<br />
+<br />
+<br />
+Please advice or can this address to a remote access to my computer to see what is going on?<br />
+This is making me crazy and I need  to clean this account and move forward cant go mail by mail deleting one by one.<br />
+Please give me a hand on this matter.<br />
+<br />
+How I Upload screens to show what is going on]]></description>
+      <author><![CDATA[Alex]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1000</guid>
+      <pubDate>Mon, 19 Jun 2017 20:51:20 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/999/#post999</link>
+      <description><![CDATA[<b>Alex</b>, <br />
+<br />
+You can clear the category before first run also.<br />
+<br />
+You can delete duplicates (not permanently), look at them in deleted items folder and then try to find the same item in the original folders using Outlook search for example.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:999</guid>
+      <pubDate>Mon, 19 Jun 2017 15:59:55 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/998/#post998</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>Outlook Freeware:<br />
+<b>Alex Brandt</b>, <br />
+<br />
+The utility mark duplicates with &quot;Duplicate&quot; category. It doesn't mark original message with the category. But it doesn't remove it also. You can use <!--noindex--><a href="/en/products/all/OutlookItemsCategorize/" rel="nofollow">Categorize Outlook items</a><!--/noindex--> utility to remove the category before the another search.</td></tr></table><b>Outlook Freeware</b>, <br />
+<br />
+Thank for your answer but how surely i will know that once I select all duplicate mail I am not deleting the original.<br />
+I have about 19k that 1500 are the good mail the rest are dups. so i can select all mails marked duplicate and delete them all without deleting one the first or original. then run the cleaner of the tag and ready for another run.<br />
+I run a test with some mail where both were tagged duplicate(assuming there is and original) and to my surprise one was the original and the other the dup. Lucky me that I made a backup of the container.<br />
+Then I jump to run selecting all to delete them all tagged duplicate and after some seconds mails are coming back to the folder. <br />
+What under your knowledge is going on. <br />
+Will help you to know that I am using imap.?<br />
+Please advice or can this address to a remote access to my computer to see what is going on?<br />
+This is making me crazy and I need  to clean this account and move forward cant go mail by mail deleting one by one.<br />
+Please give me a hand on this matter.]]></description>
+      <author><![CDATA[Alex]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:998</guid>
+      <pubDate>Mon, 19 Jun 2017 14:32:56 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/997/#post997</link>
+      <description><![CDATA[<b>Alex Brandt</b>, <br />
+<br />
+The utility mark duplicates with &quot;Duplicate&quot; category. It doesn't mark original message with the category. But it doesn't remove it also. You can use <!--noindex--><a href="/en/products/all/OutlookItemsCategorize/" rel="nofollow">Categorize Outlook items</a><!--/noindex--> utility to remove the category before the another search.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:997</guid>
+      <pubDate>Mon, 19 Jun 2017 11:55:58 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/996/#post996</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+Hi,<br />
+I am running your current version remove duplicate mails tool under outlook 2016 and after searching and ending finds x amount of duplicates that are tag. Can't find those or where the tool store or tag them.<br />
+Please advice.<br />
+<br />
+After searching on any change to mails i found out that in outlook 2016 you tool add a tag &quot;Duplicate&quot; to the header of the mail but it came to my attention that when you tag the dups you are not keeping the one the is a good mail. <br />
+So if I have to go and delete all dups i will loose all including the original.<br />
+Please advice how I can have only de dups and keep the original even though i will delete that one later for any particular reason]]></description>
+      <author><![CDATA[Alex Brandt]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:996</guid>
+      <pubDate>Sat, 17 Jun 2017 19:11:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/995/#post995</link>
+      <description><![CDATA[<b>N M</b>, <br />
+<br />
+It is 100% compatible with Outlook 2016.<br />
+Runtime has nothing with Outlook or Windows versions.<br />
+You can always download the latest version of <!--noindex--><a href="/download/OutlookFreewareSetup.exe" rel="nofollow">OutlookFreeware.com runtime</a><!--/noindex--> from our website.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:995</guid>
+      <pubDate>Wed, 31 May 2017 11:12:45 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/994/#post994</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+<br />
+It says it supports Outlook 2016 however, after installing and running, it says that Installed Runtime version is incompatible with this utility.]]></description>
+      <author><![CDATA[N M]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:994</guid>
+      <pubDate>Wed, 31 May 2017 03:36:38 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/944/#post944</link>
+      <description><![CDATA[Dear Liona, thank you very much for you kind words! We do our best to make our products as good as possible.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:944</guid>
+      <pubDate>Fri, 21 Oct 2016 23:40:37 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/943/#post943</link>
+      <description><![CDATA[5 out of 5 stars for this only program. Others are definitely not recommended. Try it to believe it. It deletes everything duplicate.]]></description>
+      <author><![CDATA[liona jackson]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:943</guid>
+      <pubDate>Fri, 21 Oct 2016 22:28:43 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/927/#post927</link>
+      <description><![CDATA[<b>Daniel Kelsh,</b><br />
+<br />
+Yes, it is possible that there is difference in some field that you can't find.<br />
+You can ZIP a pair of &quot;duplicates&quot; and send them to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>. We will say, what differences are between them.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:927</guid>
+      <pubDate>Mon, 08 Aug 2016 16:22:47 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/926/#post926</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+Remove Duplicate Contacts did not remove any. Is it possible there is some minor field that is different that I am not seeing?]]></description>
+      <author><![CDATA[Daniel Kelsh]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:926</guid>
+      <pubDate>Sat, 06 Aug 2016 20:44:48 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/925/#post925</link>
+      <description><![CDATA[<b>Michael Buro</b>, <br />
+<br />
+The utility tries to compare messageID if available.<br />
+You can select 'Use custom fields to compare'. Then the utility will use Subject, Message Text, Sender, Recipients and Attachments fields for comparision.<br />
+<br />
+In the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesRemoveDuplicates" rel="nofollow">Advanced version of the utility,</a><!--/noindex--> it is possible to select fields for compare.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:925</guid>
+      <pubDate>Wed, 13 Jul 2016 21:01:13 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/924/#post924</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, I can clearly see duplicated emails when i sort by email address but the utility doesnt find them. What is being used as the compare? Name? Email?]]></description>
+      <author><![CDATA[Michael Buro]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:924</guid>
+      <pubDate>Wed, 13 Jul 2016 20:49:50 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/912/#post912</link>
+      <description><![CDATA[<b>Marc Lalancette,</b><br />
+<br />
+In the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesRemoveDuplicates" rel="nofollow">Advanced version of the utility,</a><!--/noindex--> this option allows you to select fields for compare.<br />
+<br />
+In the OutlookFreeware.com version it uses predefined fields such as Subject, Message Text, Sender, Recipients and Attachments. With this option disabled the utility tries to compare messageID if available.<br />
+So, it it better to run the utility with this option disabled first. If you still can see duplicates then enable this option and run utility again. The program can find additional duplicates. <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesRemoveDuplicates" rel="nofollow">Advanced version</a><!--/noindex--> allows to select fields. This allows to find duplicates in more complex situations.<br />
+<br />
+We are trying to make OutlookFreeware.com utilities more automate and easier to use by remove redundant options. But make advanced versions to solve any complex issues. We constantly add new video tutorials to out utilities for both <!--noindex--><a href="https://www.youtube.com/channel/UCuiTYioX4FNqioeszlpVArA" rel="nofollow">OutlookFreware.com videos</a><!--/noindex--> and <!--noindex--><a href="https://www.youtube.com/channel/UCSQF-4x9mSsD0Lhh5YJg9Gg" rel="nofollow">advanced versions videos</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:912</guid>
+      <pubDate>Tue, 14 Jun 2016 17:17:55 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/911/#post911</link>
+      <description><![CDATA[Hi,<br />
+I couldn't find a description for the only option: &quot;Use custom fields to compare&quot;.  Can you explain?  I would highly recommend adding some help in the program (e.g. longer description, tool-tip description, help page).  Thanks!]]></description>
+      <author><![CDATA[Marc Lalancette]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:911</guid>
+      <pubDate>Tue, 14 Jun 2016 05:11:53 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/879/#post879</link>
+      <description><![CDATA[I think the issue might have been the connection because of the number of emails that were trying to be processed. The total in the inbox was almost 200,000, and even after running through a few times where it moved a lot to the duplicate items folder in the Deleted Items folder I would get a message saying Outlook was trying to contact the server when trying to empty that folder.<br />
+<br />
+I did one last run at night and it managed to get through everything and I did another in the morning which went through 100% probably since it was cleaned up from the previous scan.<br />
+<br />
+Thank you for the help and the great tool.]]></description>
+      <author><![CDATA[mpitt1]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:879</guid>
+      <pubDate>Fri, 13 Nov 2015 21:08:42 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Duplicate Oulook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/28/878/#post878</link>
+      <description><![CDATA[<b>mpitt1,</b><br />
+<br />
+Are you using Exchange?<br />
+Is it an online mode?<br />
+<br />
+Such behavior can occur when some packets are lost in the network (not stable Internet connection).<br />
+You can try to switch to cached mode. Then utility will work mostly with items cached in OST without network connection. Outlook will sync items with the server.<br />
+<br />
+We can also try to help using logs from your side. Please contact the support via email.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Remove Duplicate Oulook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:878</guid>
+      <pubDate>Thu, 12 Nov 2015 16:36:55 UT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Remove "Categories:": New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/133</link>
+    <description><![CDATA[New posts in the topic "Remove "Categories:"" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:04:24 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Remove "Categories:"]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/133/226/#post226</link>
+      <description><![CDATA[<b>Jim</b>, can you please be more specific? Where do you want us to remove the mentioned word?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove "Categories:"]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:226</guid>
+      <pubDate>Fri, 08 Jul 2011 03:49:28 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Remove "Categories:"]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/133/225/#post225</link>
+      <description><![CDATA[Remove the word &quot;Categories:&quot; before my categories when sorted by categories]]></description>
+      <author><![CDATA[Jim]]></author>
+      <category><![CDATA[Remove "Categories:"]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:225</guid>
+      <pubDate>Fri, 08 Jul 2011 00:48:28 UT</pubDate>
+    </item>
+  </channel>
+</rss>

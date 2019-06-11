@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Duplicate Outlook email finder: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/169</link>
+    <description><![CDATA[New posts in the topic "Duplicate Outlook email finder" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:43 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Duplicate Outlook email finder]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/169/601/#post601</link>
+      <description><![CDATA[Yes, this utility is only to get a report.<br />
+You need to use another utility if you want to delete duplicates.<br />
+You can run Remove duplicate messages utility without Report Duplicates.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Duplicate Outlook email finder]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:601</guid>
+      <pubDate>Wed, 20 Nov 2013 15:38:26 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate Outlook email finder]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/169/600/#post600</link>
+      <description><![CDATA[<b>Richard Stock</b>, <br />
+<br />
+Hi, Jouri,<br />
+No, I don't have &quot;show diagnostic information&quot; checked, only &quot;search duplicates across folders&quot;.<br />
+<br />
+Also, once it reports my duplicates, why don't I have an option to delete all but one of each set? Is this only to get a report?<br />
+<br />
+<br />
+Thanks<br />
+Richard]]></description>
+      <author><![CDATA[Richard Stock]]></author>
+      <category><![CDATA[Duplicate Outlook email finder]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:600</guid>
+      <pubDate>Wed, 20 Nov 2013 01:51:21 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate Outlook email finder]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/169/594/#post594</link>
+      <description><![CDATA[Dear Richard,<br />
+<br />
+It looks like you have 'Show diagnostic information' option selected.<br />
+The utility report has only two columns without it.<br />
+Diagnostic information is needed to find out why items are not duplicates mostly.<br />
+And it is recommended to copy it (or save) to Microsoft Excel and analyze it there.<br />
+<br />
+If you need to copy duplicates to another folder then you need to download and run another utility:<br />
+<!--noindex--><a href="/en/products/all/OutlookMessagesRemoveDuplicates/" rel="nofollow">Removes duplicate messages</a><!--/noindex--><br />
+<br />
+There is option an option called 'Move duplicates to folder'.<br />
+Please note that 'Delete duplicates permanently' options should not be selected.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Duplicate Outlook email finder]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:594</guid>
+      <pubDate>Fri, 15 Nov 2013 18:52:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Duplicate Outlook email finder]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/169/593/#post593</link>
+      <description><![CDATA[The report after scanning hundreds of emails is very much spread across the report box. Email addresses are listed in the first column on the far left margin of the box and everything else are in columns on the FAR right side of the box and I cannot drag those columns to the left to be viewed all together. I tried dragging the vertical bars in each column but they won't &quot;stick&quot;. So far the results are rather disappointing and useless in this form. Can you assist?<br />
+<br />
+Also, I don't see the option to create another folder to put the deleted emails in as a back up. Where?<br />
+<br />
+thank you<br />
+Richard<br />
+los angeles]]></description>
+      <author><![CDATA[Richard Stock]]></author>
+      <category><![CDATA[Duplicate Outlook email finder]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:593</guid>
+      <pubDate>Fri, 15 Nov 2013 12:07:12 UT</pubDate>
+    </item>
+  </channel>
+</rss>

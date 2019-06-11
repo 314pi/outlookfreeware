@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Import Outlook Items from MSG Format: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/27</link>
+    <description><![CDATA[New posts in the topic "Import Outlook Items from MSG Format" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:25:53 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/993/#post993</link>
+      <description><![CDATA[<b>crankcase</b>, <br />
+<br />
+Unfortunately, we have no such utiity.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:993</guid>
+      <pubDate>Fri, 19 May 2017 11:08:37 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/992/#post992</link>
+      <description><![CDATA[Thanks for the confirmation. I did look through the feature comparison, but didn't see a mention of the folder structure, so I was hoping it's available in the free version as well.<br />
+<br />
+Another question: Is there a way to import my message filters/rules from Thunderbird into Outlook?<br />
+<br />
+Thanks]]></description>
+      <author><![CDATA[crankcase]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:992</guid>
+      <pubDate>Fri, 19 May 2017 02:26:36 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/991/#post991</link>
+      <description><![CDATA[<b>crankcase</b>, <br />
+<br />
+Unfortunately, retain the original folder structure option is only available in the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesImportMSG?src=fw" rel="nofollow">Advanced version of the utility</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:991</guid>
+      <pubDate>Thu, 18 May 2017 11:14:11 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/988/#post988</link>
+      <description><![CDATA[I am finally moving to Outlook 2013 after nearly 20 years of using Netscape Mail / Thunderbird. I used your utility to Convert MBOX files to MSG, and then the other utility to Import messages from MBOX files.<br />
+<br />
+First off, many thanks for your free utilities!<br />
+<br />
+Unfortunately neither of these seems to be recreating the folder structure, which is mentioned as one of the features. <br />
+<br />
+So when exporting Thunderbird data to MSG, the messages from all folders are extracted to a single target folder, and further subfolders are not recursively converted.<br />
+When importing the converted MSG files into Outlook, all messages are put into a single target folder, and sub folders are not imported.<br />
+<br />
+Is there any way to enable this in the free version?<br />
+<br />
+Many thanks for your help.]]></description>
+      <author><![CDATA[crankcase]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:988</guid>
+      <pubDate>Wed, 17 May 2017 18:35:49 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/857/#post857</link>
+      <description><![CDATA[<b>Brian Bosley,</b><br />
+<br />
+<!--noindex--><a href="/en/products/all/OutlookContactsImportMSG/" rel="nofollow">Import Contacts from MSG</a><!--/noindex--> allows to import exported Contacts.<br />
+You need to use <!--noindex--><a href="/en/products/all/OutlookMessagesImportMSG/" rel="nofollow">Import Messages from MSG Files</a><!--/noindex--> to import messages.<br />
+After that you can use <!--noindex--><a href="/en/products/all/OutlookMessagesEmailSaveFolder/" rel="nofollow">Save Email Addresses from Messages to Contact Folder</a><!--/noindex-->.<br />
+Then you can use <!--noindex--><a href="/en/products/all/OutlookAutoCompleteExportContacts/" rel="nofollow">Export Contacts to Auto-Complete Files</a><!--/noindex--> and <!--noindex--><a href="/en/products/all/OutlookAutoCompleteImport/" rel="nofollow">Import Auto-Complete List</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:857</guid>
+      <pubDate>Tue, 25 Aug 2015 16:15:19 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/856/#post856</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, I am using Outlook 2013 (32bit) and an IMAP connection to my email and I had to delete my .ost file due to other issues.  Along the way I now have lost my auto-complete entries.  My email is redownloaded and a new .ost file was created.  I used the &quot;Export message to .msg files&quot; tool to export all of my email and then I am trying to use the &quot;Import Contacts from MSG&quot; tool.  It processes all of the .msg files in a folder but it skips everyone and no contacts are created.  Any thoughts on the issue?  Thanks, Brian]]></description>
+      <author><![CDATA[Brian Bosley]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:856</guid>
+      <pubDate>Mon, 24 Aug 2015 21:01:49 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/281/#post281</link>
+      <description><![CDATA[<b>Ruben</b>, what Outlook version do you use (including Service Pack)?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:281</guid>
+      <pubDate>Tue, 11 Oct 2011 05:29:29 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/280/#post280</link>
+      <description><![CDATA[I have the same problem and I have already installed Win XP SP3. Thaks a Lot for any suggestions. rub&#233;n]]></description>
+      <author><![CDATA[Ruben Martinez]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:280</guid>
+      <pubDate>Tue, 11 Oct 2011 02:52:28 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/177/#post177</link>
+      <description><![CDATA[<b>hugo aaaa</b>, please make sure you have the latest Service Pack installed for your Microsoft Outlook/Office and Windows.<br />
+Also look here: <!--noindex--><a href="http://support.microsoft.com/kb/323299" rel="nofollow">http://support.microsoft.com/kb/323299</a><!--/noindex-->]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:177</guid>
+      <pubDate>Mon, 11 Apr 2011 19:02:05 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/176/#post176</link>
+      <description><![CDATA[I have another problem...<br />
+<br />
+i i start importing e-mails an Error occurs:<br />
+System(-2147286960): Message Loader (create message from msg): failed open storage with code[0x80030050]<br />
+<br />
+any suggestions how to solve this? some e-mails too large?]]></description>
+      <author><![CDATA[hugo aaaa]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:176</guid>
+      <pubDate>Wed, 06 Apr 2011 19:24:39 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Import Outlook Items from MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/27/27/#post27</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Outlook Items from MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:27</guid>
+      <pubDate>Fri, 01 Oct 2010 19:55:22 UT</pubDate>
+    </item>
+  </channel>
+</rss>

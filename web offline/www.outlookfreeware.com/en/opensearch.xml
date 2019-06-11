@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>OutlookFreeware</ShortName>
+	<Description>Search OutlookFreeware</Description>
+	<Url type="text/html" method="get" template="https://www.outlookfreeware.com/en/search.aspx?q={searchTerms}"/>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://www.outlookfreeware.com/favicon.ico</Image>
+	<Language>en</Language>
+</OpenSearchDescription>

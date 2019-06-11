@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Feature request: Rename attachments in Message Composition window: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/157</link>
+    <description><![CDATA[New posts in the topic "Feature request: Rename attachments in Message Composition window" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:00:18 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Feature request: Rename attachments in Message Composition window]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/157/464/#post464</link>
+      <description><![CDATA[<b>Troy</b>, thank you for your suggestion! We'll consider to implement this feature in one of the next versions.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Feature request: Rename attachments in Message Composition window]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:464</guid>
+      <pubDate>Thu, 08 Nov 2012 14:56:36 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Feature request: Rename attachments in Message Composition window]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/157/463/#post463</link>
+      <description><![CDATA[Many times I want to forward an email with an attachment, but I may want to rename the attachment depending on the audience.  There is no way to do this in the Outlook Message composition window.  I would like a feature that maybe opened a window that lists the attachment names in text fields that allows the user to rename the attachments (at least the filename portion and not the extension).]]></description>
+      <author><![CDATA[Troy Gwartney]]></author>
+      <category><![CDATA[Feature request: Rename attachments in Message Composition window]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:463</guid>
+      <pubDate>Wed, 07 Nov 2012 05:17:04 UT</pubDate>
+    </item>
+  </channel>
+</rss>

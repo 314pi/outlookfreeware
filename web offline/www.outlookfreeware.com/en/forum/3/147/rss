@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Hide Outlook option to "Open" attachments?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/147</link>
+    <description><![CDATA[New posts in the topic "Hide Outlook option to "Open" attachments?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:00:55 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Hide Outlook option to "Open" attachments?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/147/408/#post408</link>
+      <description><![CDATA[<b>Alex</b>, the method of blocking all attachments and using our tool to save them gives users the ability to easily save any attachments, but locks the ability to open them.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Hide Outlook option to "Open" attachments?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:408</guid>
+      <pubDate>Wed, 23 May 2012 17:21:01 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Hide Outlook option to "Open" attachments?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/147/407/#post407</link>
+      <description><![CDATA[I'm not looking to block certain attachments, I'm looking to block all attachments from being opened, and only allowing people to save the documents. As in, be prompted to save it when they have an attachment. This should prevent people opening the file and having a copy in the users temporary files, that they may work on when the file should be saved in their My Documents folder, or other, to work on.<br />
+<br />
+Or, do you mean that by installing and configuring the attachments tool, i can block docx files etc, from being opened and they only have the option to save them?]]></description>
+      <author><![CDATA[Alex  Mathewson]]></author>
+      <category><![CDATA[Hide Outlook option to "Open" attachments?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:407</guid>
+      <pubDate>Wed, 23 May 2012 09:01:55 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Hide Outlook option to "Open" attachments?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/147/406/#post406</link>
+      <description><![CDATA[<b>Alex</b>, you can easily achieve this by installing our <!--noindex--><a href="/en/products/all/OutlookAttachmentsSave/" rel="nofollow">Save Attachments</a><!--/noindex--> tool and configuring it as a favorite in message context menu and on message window toolbar/ribbon. After that just block access to attachments of desired types (.docx, *.xlsx, and others).]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Hide Outlook option to "Open" attachments?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:406</guid>
+      <pubDate>Tue, 22 May 2012 23:44:55 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hide Outlook option to "Open" attachments?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/147/405/#post405</link>
+      <description><![CDATA[I'm wondering if any of the Attachment processing 'Save Attachments' plugins can disable or hide the option to open attachments, and just give the user the save option?<br />
+<br />
+Far too many people are opening documents, editing it and saving it in a temp file and not using it on a saved document in their own drive/folders.<br />
+<br />
+Thanks in Advance.]]></description>
+      <author><![CDATA[Alex  Mathewson]]></author>
+      <category><![CDATA[Hide Outlook option to "Open" attachments?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:405</guid>
+      <pubDate>Tue, 22 May 2012 12:50:47 UT</pubDate>
+    </item>
+  </channel>
+</rss>

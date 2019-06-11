@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Copy or Move Outlook Items: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/184</link>
+    <description><![CDATA[New posts in the topic "Copy or Move Outlook Items" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:22:12 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Copy or Move Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/184/740/#post740</link>
+      <description><![CDATA[Understood. You may wish to update the product description, then:<br />
+<br />
+Version: 3.2<br />
+Copies or moves Outlook items to the selected Outlook folder. <b>Date range can be specified.</b>]]></description>
+      <author><![CDATA[dansajd]]></author>
+      <category><![CDATA[Copy or Move Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:740</guid>
+      <pubDate>Fri, 20 Jun 2014 02:57:59 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Copy or Move Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/184/738/#post738</link>
+      <description><![CDATA[<b>dansajd</b>, this option is only available in the <!--noindex--><a href="http://www.ReliefJet.com/Essentials/Features/OutlookItemsCopy?src=fw" rel="nofollow">advanced version of the utility</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Copy or Move Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:738</guid>
+      <pubDate>Fri, 20 Jun 2014 01:31:03 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Copy or Move Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/184/737/#post737</link>
+      <description><![CDATA[Hello! Why can you no longer specify a date range? The option is missing even though it says it should be there.]]></description>
+      <author><![CDATA[dansajd]]></author>
+      <category><![CDATA[Copy or Move Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:737</guid>
+      <pubDate>Thu, 19 Jun 2014 23:00:45 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Copy or Move Outlook Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/184/691/#post691</link>
+      <description><![CDATA[Discuss the utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Copy or Move Outlook Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:691</guid>
+      <pubDate>Wed, 02 Apr 2014 02:01:32 UT</pubDate>
+    </item>
+  </channel>
+</rss>

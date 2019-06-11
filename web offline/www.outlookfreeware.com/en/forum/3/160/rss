@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Hotmail to Outlook: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/160</link>
+    <description><![CDATA[New posts in the topic "Hotmail to Outlook" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:49:14 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Hotmail to Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/160/1238/#post1238</link>
+      <description><![CDATA[<b>Madyson swift</b>, <br />
+<br />
+You are right. You can use <!--noindex--><a href="/en/products/all/OutlookMessagesExportMSG/" rel="nofollow">Export Outlook to PST</a><!--/noindex--> utility to export Hotmail data to PST.<br />
+But instead of manual drag and drop, we recommend using <!--noindex--><a href="/en/products/all/OutlookFolderMerge" rel="nofollow">Merge Folders</a><!--/noindex--> utility to copy items from PST to Outlook.com IMAP account.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Hotmail to Outlook]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1238</guid>
+      <pubDate>Thu, 28 Mar 2019 18:36:40 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Hotmail to Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/160/1237/#post1237</link>
+      <description><![CDATA[Hey Hi <br />
+<br />
+if you are planning to move your entire Hotmail data to Outlook.com so you just need to download your Hotmail entire Backup. Because there is no direct way to migrate your Hotmail to Outlook.com so in this case you need to configure your account to any email client or wait to download your Hotmail data to your system in this process its take much time or sometimes data gets corrupted too. So I won't recommend you to use manual process just try some third party tool like OutlookFreeware.com Export Outlook to PST which easily migrate your Hotmail entire backup to PST file format. Now you have to configure your Outlook.com account to Outlook with the help of IMAP protocol. Now import PST file to Outlook and then use drag and drop process to move pst to outlook.com mail account. Finally your Conversion is complete.]]></description>
+      <author><![CDATA[Madyson swift]]></author>
+      <category><![CDATA[Hotmail to Outlook]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1237</guid>
+      <pubDate>Thu, 28 Mar 2019 14:13:01 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Hotmail to Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/160/522/#post522</link>
+      <description><![CDATA[<b>Henk</b>, if you want to use our utilities to perform migration, you will need to add both of your accounts to Outlook. The you'll be able to export all messages from one account by using <!--noindex--><a href="/en/products/all/OutlookMessagesExportMSG/" rel="nofollow">Export Messages to MSG Format</a><!--/noindex--> utility and then <!--noindex--><a href="/en/products/all/OutlookMessagesImportMSG/" rel="nofollow">Import Messages from MSG Format</a><!--/noindex--> back. Or just copy folders manually.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Hotmail to Outlook]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:522</guid>
+      <pubDate>Thu, 28 Feb 2013 15:51:39 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Hotmail to Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/160/510/#post510</link>
+      <description><![CDATA[No I think you misunderstand me I have a hotmail account because <script type="text/javascript">document.write('<a href="mailto:'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'h'+'e'+'n'+'k'+'@'+'h'+'o'+'t'+'m'+'a'+'i'+'l'+'.'+'c'+'o'+'m'+'">'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'h'+'e'+'n'+'k'+'@'+'h'+'o'+'t'+'m'+'a'+'i'+'l'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> and I do not want to use <script type="text/javascript">document.write('<a href="mailto:'+'h'+'e'+'n'+'b'+'k'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'.'+'c'+'o'+'m'+'">'+'h'+'e'+'n'+'b'+'k'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> I want to use, and now I want all folders that are moving <script type="text/javascript">document.write('<a href="mailto:'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'h'+'e'+'n'+'k'+'@'+'h'+'o'+'t'+'m'+'a'+'i'+'l'+'.'+'c'+'o'+'m'+'">'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'h'+'e'+'n'+'k'+'@'+'h'+'o'+'t'+'m'+'a'+'i'+'l'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> to <script type="text/javascript">document.write('<a href="mailto:'+'h'+'e'+'n'+'k'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'.'+'c'+'o'+'m'+'">'+'h'+'e'+'n'+'k'+'v'+'a'+'n'+'b'+'o'+'v'+'e'+'n'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>.]]></description>
+      <author><![CDATA[Henk van Boven]]></author>
+      <category><![CDATA[Hotmail to Outlook]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:510</guid>
+      <pubDate>Sun, 24 Feb 2013 01:52:32 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Hotmail to Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/160/509/#post509</link>
+      <description><![CDATA[<b>Henk</b>, as far as we know, it is done automatically when you switch to outlook.com in your hotmail account.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Hotmail to Outlook]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:509</guid>
+      <pubDate>Sat, 23 Feb 2013 01:36:38 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hotmail to Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/160/505/#post505</link>
+      <description><![CDATA[Is it possible to a hotmail account to transfer everything to a new outlook.com account, including folders. <br />
+<br />
+<b><u>example:</u></b> test.hotmail.com to <script type="text/javascript">document.write('<a href="mailto:'+'b'+'e'+'g'+'i'+'n'+'n'+'e'+'r'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'.'+'c'+'o'+'m'+'">'+'b'+'e'+'g'+'i'+'n'+'n'+'e'+'r'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>]]></description>
+      <author><![CDATA[Henk van Boven]]></author>
+      <category><![CDATA[Hotmail to Outlook]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:505</guid>
+      <pubDate>Thu, 21 Feb 2013 00:20:27 UT</pubDate>
+    </item>
+  </channel>
+</rss>

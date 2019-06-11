@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Duplicate Outlook Items Report: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/124</link>
+    <description><![CDATA[New posts in the topic "Duplicate Outlook Items Report" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:22:35 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Duplicate Outlook Items Report]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/124/843/#post843</link>
+      <description><![CDATA[Few days ago i have faced that type of problem, i have used the tool to permanently remove all Outlook duplicate items without any original data loss.]]></description>
+      <author><![CDATA[ben cutting]]></author>
+      <category><![CDATA[Duplicate Outlook Items Report]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:843</guid>
+      <pubDate>Fri, 19 Jun 2015 20:44:10 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate Outlook Items Report]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/124/210/#post210</link>
+      <description><![CDATA[<b>DK Riese</b>, please ask your questions that are not related to the specific utility in <!--noindex--><a href="/en/forum/3/" rel="nofollow">General Quiestions</a><!--/noindex--> forum next time. Your question is not related to <!--noindex--><a href="/en/products/all/OutlookReportDuplicates/" rel="nofollow">Duplicate Outlook Items Report</a><!--/noindex-->.<br />
+As for you question: you can use our <!--noindex--><a href="/en/products/all/OutlookMessagesExportMSG/" rel="nofollow">Export Messages to MSG Format</a><!--/noindex--> tool. After installing it you will be able to select required messages and export them to any folder by right-clicking those messages and selecting <i>OutlookFreeware.com -&gt; Run...</i> in context menu. You can also customize this menu to be able to do it in one click. Just select <i>Customize...</i> and mark <b>Export Messages to MSG Format</b> utility as a <b>Favorite</b> (with a blue star). After that you will find this tool right above the <i>Run...</i> context menu item.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Duplicate Outlook Items Report]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:210</guid>
+      <pubDate>Tue, 14 Jun 2011 22:39:02 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate Outlook Items Report]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/124/209/#post209</link>
+      <description><![CDATA[I need to be able to search messages by client name and save them to their respective folders, can I do this?  I tried?<br />
+ or<br />
+the ability to select the messages I need and export only those in msg format, would work for me]]></description>
+      <author><![CDATA[DK Riese]]></author>
+      <category><![CDATA[Duplicate Outlook Items Report]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:209</guid>
+      <pubDate>Tue, 14 Jun 2011 22:07:51 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Duplicate Outlook Items Report]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/124/208/#post208</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Duplicate Outlook Items Report]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:208</guid>
+      <pubDate>Mon, 13 Jun 2011 22:24:09 UT</pubDate>
+    </item>
+  </channel>
+</rss>

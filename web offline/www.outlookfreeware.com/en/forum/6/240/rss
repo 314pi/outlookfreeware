@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Configure Folder Permissions: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/240</link>
+    <description><![CDATA[New posts in the topic "Configure Folder Permissions" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:22:30 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Configure Folder Permissions]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/240/945/#post945</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Configure Folder Permissions]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:945</guid>
+      <pubDate>Fri, 18 Nov 2016 00:00:34 UT</pubDate>
+    </item>
+  </channel>
+</rss>

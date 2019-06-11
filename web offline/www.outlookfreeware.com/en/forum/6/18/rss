@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Merge Folders: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/18</link>
+    <description><![CDATA[New posts in the topic "Merge Folders" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:07 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Merge Folders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/18/374/#post374</link>
+      <description><![CDATA[<b>Mohammed</b>, this feature is planned for the next version of the utility.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Merge Folders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:374</guid>
+      <pubDate>Tue, 03 Apr 2012 02:23:50 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Merge Folders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/18/373/#post373</link>
+      <description><![CDATA[I was looking for a utility to merge all emails to a single folder.  This utility replicates the folder structure from the source.  Is there a utility that I can use to do this to get rid of all of my folders?]]></description>
+      <author><![CDATA[Mohammed Nawaz]]></author>
+      <category><![CDATA[Merge Folders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:373</guid>
+      <pubDate>Tue, 03 Apr 2012 00:45:19 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Merge Folders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/18/302/#post302</link>
+      <description><![CDATA[<b>Beaker Bunsen</b>, thank you very much for your detailed report. We just found the cause of the issue. The fixed version will be available tomorrow. I'll post the update here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Merge Folders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:302</guid>
+      <pubDate>Mon, 21 Nov 2011 19:54:01 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Merge Folders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/18/301/#post301</link>
+      <description><![CDATA[After selecting the source folder, destination folder, and date range, I got the following error message after I clicked on Run:<br />
+<br />
+System(-2147219956): Exception formatting data:({0}:failed copy[{1}] messages[{2}] witch code [0x{3:X8}])<br />
+<br />
+It didn't matter if it was running as an Outlook plugin or as a stand-alone app. I got the same error message time and time again. The app will work on some folders but not on everything.]]></description>
+      <author><![CDATA[Beaker Bunsen]]></author>
+      <category><![CDATA[Merge Folders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:301</guid>
+      <pubDate>Sun, 20 Nov 2011 00:31:04 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Merge Folders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/18/18/#post18</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Merge Folders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:18</guid>
+      <pubDate>Fri, 01 Oct 2010 19:52:09 UT</pubDate>
+    </item>
+  </channel>
+</rss>

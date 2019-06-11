@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Add-In dont work in Outllok 2013 64 bits: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/180</link>
+    <description><![CDATA[New posts in the topic "Add-In dont work in Outllok 2013 64 bits" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:20 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Add-In dont work in Outllok 2013 64 bits]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/180/677/#post677</link>
+      <description><![CDATA[<b>Titi,</b><br />
+<br />
+There should a window be opened with add-ins.<br />
+Please try to use an instruction from Microsoft How to enable inactive add-ins:<br />
+<!--noindex--><a href="http://office.microsoft.com/fr-fr/outlook-help/activer-ou-desactiver-des-complements-dans-des-programmes-microsoft-office-HA010034127.aspx" rel="nofollow">http://office.microsoft.com/fr-fr/out...34127.aspx</a><!--/noindex-->]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Add-In dont work in Outllok 2013 64 bits]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:677</guid>
+      <pubDate>Mon, 03 Mar 2014 15:39:28 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Add-In dont work in Outllok 2013 64 bits]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/180/673/#post673</link>
+      <description><![CDATA[Hello,<br />
+Thank you for the information but when I clic to &quot;Atteindre&quot;. <br />
+A window opens at: <br />
+C: \ Users \ Thierry \ AppData \ Roaming \ Microsoft \ AddIns <br />
+And then there is no file. <br />
+It is where the file to select? <br />
+Thank you in advance, <br />
+Thierry]]></description>
+      <author><![CDATA[Titi]]></author>
+      <category><![CDATA[Add-In dont work in Outllok 2013 64 bits]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:673</guid>
+      <pubDate>Sat, 01 Mar 2014 01:51:59 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Add-In dont work in Outllok 2013 64 bits]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/180/670/#post670</link>
+      <description><![CDATA[Thierry CONTI,<br />
+<br />
+It is visible on the first picture that the add-in is inactive. You need to enable it. To do this press the Atteindre... button on the bottom of the page, select the add-in and press Ok button.<br />
+<br />
+The 2 and 3 means that you have installed Outlook 2013 Click-To-Run version. Please use the add-in from Outlook or install a full version of Office 2013.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Add-In dont work in Outllok 2013 64 bits]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:670</guid>
+      <pubDate>Fri, 28 Feb 2014 15:34:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Add-In dont work in Outllok 2013 64 bits]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/180/668/#post668</link>
+      <description><![CDATA[Hello,<br />
+I have installed OutlookFreeware Outllok 2013 for 64-bit. <br />
+Purpose they dont work. <br />
+In &quot;complements&quot; i have no &quot;emplacement. (File 1) <br />
+And in &quot;OutllokFreeware.com Utilities&quot; i have one indication. (File 2 and 3) <br />
+How so that it works? <br />
+Thanks,<br />
+Thierry<br />
+File 1 : <!--noindex--><a href="http://www.locades.com/1.png" rel="nofollow">1</a><!--/noindex--><br />
+File 2 : <!--noindex--><a href="http://www.locades.com/2.png" rel="nofollow">2</a><!--/noindex--><br />
+File 3 : <!--noindex--><a href="http://www.locades.com/3.png" rel="nofollow">3</a><!--/noindex-->]]></description>
+      <author><![CDATA[Thierry CONTI]]></author>
+      <category><![CDATA[Add-In dont work in Outllok 2013 64 bits]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:668</guid>
+      <pubDate>Thu, 27 Feb 2014 02:36:20 UT</pubDate>
+    </item>
+  </channel>
+</rss>

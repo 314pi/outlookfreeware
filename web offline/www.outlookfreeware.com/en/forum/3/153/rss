@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[iCloud: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/153</link>
+    <description><![CDATA[New posts in the topic "iCloud" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:00:27 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: iCloud]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/153/440/#post440</link>
+      <description><![CDATA[Our product supports any folders that Outlook supports. If you can synchronize Outlook and iCloud then yes. If not, then not.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[iCloud]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:440</guid>
+      <pubDate>Tue, 28 Aug 2012 00:30:21 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[iCloud]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/153/439/#post439</link>
+      <description><![CDATA[Do your products support iCloud folders? I just tried to clean up my calendar (in iCloud) for dupes and it failed. Maybe revert back to Outlook calendar and then restablish iCloud? Not sure if that will work though; that's how I think I got all of these dupes :(]]></description>
+      <author><![CDATA[gw1099@yahoo.com]]></author>
+      <category><![CDATA[iCloud]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:439</guid>
+      <pubDate>Sat, 25 Aug 2012 03:32:46 UT</pubDate>
+    </item>
+  </channel>
+</rss>

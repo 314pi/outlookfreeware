@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Stand-Alone App for USB Keys: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/168</link>
+    <description><![CDATA[New posts in the topic "Stand-Alone App for USB Keys" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:00:04 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Stand-Alone App for USB Keys]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/168/590/#post590</link>
+      <description><![CDATA[<b>Stephen</b>, yes it is possible. Just copy all installation folder's content (you can see it in standalone launcher shortcut's properties) to your flash drive. Please note that you'll need to have Outlook installed on target machines in order the product to work.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Stand-Alone App for USB Keys]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:590</guid>
+      <pubDate>Wed, 06 Nov 2013 02:03:40 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Stand-Alone App for USB Keys]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/168/588/#post588</link>
+      <description><![CDATA[Is there a way to run this as a stand-alone application from a USB drive?]]></description>
+      <author><![CDATA[Stephen Davis]]></author>
+      <category><![CDATA[Stand-Alone App for USB Keys]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:588</guid>
+      <pubDate>Wed, 06 Nov 2013 01:41:45 UT</pubDate>
+    </item>
+  </channel>
+</rss>

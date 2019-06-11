@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Reports on Outlook Folders and Items: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/112</link>
+    <description><![CDATA[New posts in the topic "Reports on Outlook Folders and Items" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:03 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Reports on Outlook Folders and Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/112/123/#post123</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Reports on Outlook Folders and Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:123</guid>
+      <pubDate>Fri, 19 Nov 2010 23:36:24 UT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[dowvload AddIn: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/189</link>
+    <description><![CDATA[New posts in the topic "dowvload AddIn" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:08 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: dowvload AddIn]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/189/714/#post714</link>
+      <description><![CDATA[<b>Rob Jongstra,</b><br />
+<br />
+First, you need to register and log in on the site.<br />
+After then you will need to select needed <!--noindex--><a href="/en/products/export-import/" rel="nofollow">utilities for import/export.</a><!--/noindex--><br />
+For example, <!--noindex--><a href="/en/products/all/OutlookMessagesExportMSG/" rel="nofollow">Export messages to the MSG format.</a><!--/noindex--><br />
+There will be link to download the utility <u>Download &quot;Export Messages to MSG Format&quot;</u>.<br />
+Click it to download.<br />
+You also will need OutlookFreeware.com Runtime which you can download <!--noindex--><a href="/en/runtime.aspx" rel="nofollow">here.</a><!--/noindex--><br />
+<br />
+You can also download all utilities in one package in our commercial utility <!--noindex--><a href="http://www.reliefjet.com/Download" rel="nofollow">ReliefJet Essentials for Outlook</a><!--/noindex-->.<br />
+<br />
+You can watch our video on how to <!--noindex--><a href="http://www.youtube.com/watch?v=6HlnertC6VQ" rel="nofollow">Import and Export EML Files in Outlook</a><!--/noindex--> using our utilities.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[dowvload AddIn]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:714</guid>
+      <pubDate>Thu, 15 May 2014 15:45:23 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[dowvload AddIn]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/189/713/#post713</link>
+      <description><![CDATA[Hi,<br />
+<br />
+I have looked around at the website but I could not find the link the download of the AddIn for the Export/Import.<br />
+Can anyone assist?<br />
+<br />
+Also : once downloaded the AddIn -&gt; how to activate within Outlook?<br />
+<br />
+regards,<br />
+Rob]]></description>
+      <author><![CDATA[Rob Jongstra]]></author>
+      <category><![CDATA[dowvload AddIn]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:713</guid>
+      <pubDate>Wed, 14 May 2014 21:59:32 UT</pubDate>
+    </item>
+  </channel>
+</rss>

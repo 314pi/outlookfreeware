@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Change naming when saving attachment files from .msg files: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/266</link>
+    <description><![CDATA[New posts in the topic "Change naming when saving attachment files from .msg files" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:59:28 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Change naming when saving attachment files from .msg files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/266/1016/#post1016</link>
+      <description><![CDATA[<b>Ricky Yates</b>, <br />
+<br />
+No, attachments are saved with their original file names.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Change naming when saving attachment files from .msg files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1016</guid>
+      <pubDate>Fri, 22 Sep 2017 15:35:27 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Change naming when saving attachment files from .msg files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/266/1015/#post1015</link>
+      <description><![CDATA[Is there a way to format the name of the saved attachment file when extracting attachments from .msg files]]></description>
+      <author><![CDATA[Ricky Yates]]></author>
+      <category><![CDATA[Change naming when saving attachment files from .msg files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1015</guid>
+      <pubDate>Thu, 21 Sep 2017 16:52:32 UT</pubDate>
+    </item>
+  </channel>
+</rss>

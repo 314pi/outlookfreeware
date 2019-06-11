@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[How to keep folder structure when exporting to eml files: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/246</link>
+    <description><![CDATA[New posts in the topic "How to keep folder structure when exporting to eml files" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:01:17 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: How to keep folder structure when exporting to eml files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/246/957/#post957</link>
+      <description><![CDATA[OK, it was to good to be true.<br />
+However, free version is a great tool.<br />
+Thanks for your quick answer.<br />
+regards]]></description>
+      <author><![CDATA[LAX]]></author>
+      <category><![CDATA[How to keep folder structure when exporting to eml files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:957</guid>
+      <pubDate>Tue, 27 Dec 2016 14:19:38 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: How to keep folder structure when exporting to eml files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/246/956/#post956</link>
+      <description><![CDATA[<b>Loic AXILAIS</b>, <br />
+<br />
+This feature is available in the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesExportEML?src=fw" rel="nofollow">Advanced version</a><!--/noindex--> of the utility only.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[How to keep folder structure when exporting to eml files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:956</guid>
+      <pubDate>Tue, 27 Dec 2016 14:04:04 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to keep folder structure when exporting to eml files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/246/955/#post955</link>
+      <description><![CDATA[Hi<br />
+<br />
+I use OutlookFreeware v4.3.0<br />
+<br />
+When I choose &quot;Export Messages to EML files&quot;, tool say &quot;It is possible to retain the original folder structure&quot;.<br />
+<br />
+When I export messages, all files are put at the root of the &quot;folder for messages in .EML format&quot; and the folder structure is lost.<br />
+<br />
+Is there a way to configure sub-folder creation to keep original structure ?<br />
+<br />
+Regards]]></description>
+      <author><![CDATA[Loic AXILAIS]]></author>
+      <category><![CDATA[How to keep folder structure when exporting to eml files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:955</guid>
+      <pubDate>Tue, 27 Dec 2016 10:46:14 UT</pubDate>
+    </item>
+  </channel>
+</rss>

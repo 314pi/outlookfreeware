@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Set Header Value: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/126</link>
+    <description><![CDATA[New posts in the topic "Set Header Value" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:46 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Set Header Value]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/126/212/#post212</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Set Header Value]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:212</guid>
+      <pubDate>Tue, 21 Jun 2011 17:49:57 UT</pubDate>
+    </item>
+  </channel>
+</rss>

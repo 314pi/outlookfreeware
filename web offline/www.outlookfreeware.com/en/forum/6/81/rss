@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Most Frequently Used Categories: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/81</link>
+    <description><![CDATA[New posts in the topic "Most Frequently Used Categories" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:44 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Most Frequently Used Categories]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/81/368/#post368</link>
+      <description><![CDATA[<b>Michael</b>, currently this tool reports on <i>message categories</i> only. We're planning to support other Outlook items in the next version.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Most Frequently Used Categories]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:368</guid>
+      <pubDate>Thu, 29 Mar 2012 16:36:22 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Most Frequently Used Categories]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/81/365/#post365</link>
+      <description><![CDATA[When I configure this utility to run on just my contacts folder and its sub-folders, it runs very quickly, and reports that it processed 10 folders. However, I haven't been able to find any output. The runtime doesn't display anything, and there are no files created to contain the information.<br />
+<br />
+Where should I be looking for the results?]]></description>
+      <author><![CDATA[Michael Meyers-Jouan]]></author>
+      <category><![CDATA[Most Frequently Used Categories]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:365</guid>
+      <pubDate>Thu, 29 Mar 2012 06:36:33 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Most Frequently Used Categories]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/81/81/#post81</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Most Frequently Used Categories]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:81</guid>
+      <pubDate>Thu, 28 Oct 2010 01:58:37 UT</pubDate>
+    </item>
+  </channel>
+</rss>

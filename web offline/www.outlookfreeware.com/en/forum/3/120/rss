@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Export Calendar, Contacts?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/120</link>
+    <description><![CDATA[New posts in the topic "Export Calendar, Contacts?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:54:34 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Export Calendar, Contacts?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/120/158/#post158</link>
+      <description><![CDATA[Unfortunatelly we have no such utility for now. But it is possible for it to appear in the future.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Calendar, Contacts?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:158</guid>
+      <pubDate>Mon, 07 Feb 2011 23:58:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Export Calendar, Contacts?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/120/157/#post157</link>
+      <description><![CDATA[Is there a tool to assist in exporting files out of Entourage (Office for Mac 2007) or converting these files to something that can be imported into Outlook 2010?]]></description>
+      <author><![CDATA[chereena]]></author>
+      <category><![CDATA[Export Calendar, Contacts?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:157</guid>
+      <pubDate>Mon, 07 Feb 2011 10:31:50 UT</pubDate>
+    </item>
+  </channel>
+</rss>

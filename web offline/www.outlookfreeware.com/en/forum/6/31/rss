@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Largest Folders: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/31</link>
+    <description><![CDATA[New posts in the topic "Largest Folders" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:06 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Largest Folders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/31/31/#post31</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Largest Folders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:31</guid>
+      <pubDate>Fri, 01 Oct 2010 19:56:53 UT</pubDate>
+    </item>
+  </channel>
+</rss>

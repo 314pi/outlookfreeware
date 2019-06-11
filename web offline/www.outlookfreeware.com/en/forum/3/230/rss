@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/230</link>
+    <description><![CDATA[New posts in the topic "some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:48:53 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/230/1135/#post1135</link>
+      <description><![CDATA[Hey<br />
+<br />
+want to convert PST to Thunderbird. so many solutions are available on the Internet for your query and the good one is OutlookFreeware.com PST to MBOX this is very convenient and safe to use. i will suggest you from my experience you should try it, i am sure you will be quite happy.<br />
+<br />
+Thank you for the excellent program.]]></description>
+      <author><![CDATA[Steel broad]]></author>
+      <category><![CDATA[some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1135</guid>
+      <pubDate>Sat, 03 Nov 2018 15:18:56 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/230/896/#post896</link>
+      <description><![CDATA[<b>Jozef, </b>thank you for the report! This issue is fixed in the upcoming 4.2 version of our utilities.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:896</guid>
+      <pubDate>Wed, 20 Apr 2016 21:49:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/230/895/#post895</link>
+      <description><![CDATA[hello friends,<br />
+<br />
+i try to export emails from outlook to thunderbird, but some messages lose receiving date format...<br />
+<br />
+1 email on outlook don't have sending date on upper right corner.. but rest of emails has date receiving = sending<br />
+2 in header You can see date of receiving, but it's a date of avast.. (x-antivirus: avast! (VPS 150725-1, 2015-07-25)<br />
+3 email on outlook before open has reciving date on column 2015.07.26 22:10 o'clock<br />
+<br />
+what's the reason of it ?<br />
+<br />
+what's a pity that it's possible to attach file to recognize... :(<br />
+<br />
+I attach headers:<br />
+From - Tue Apr 19 22:50:53 2016<br />
+X-Mozilla-Status: 0001<br />
+X-Mozilla-Status2: 00000000<br />
+X-Mozilla-Keys:                                                                                 <br />
+Return-Path: &lt;<script type="text/javascript">document.write('<a href="mailto:'+'b'+'i'+'l'+'e'+'t'+'y'+'@'+'e'+'-'+'p'+'o'+'d'+'r'+'o'+'z'+'n'+'i'+'k'+'.'+'p'+'l'+'">'+'b'+'i'+'l'+'e'+'t'+'y'+'@'+'e'+'-'+'p'+'o'+'d'+'r'+'o'+'z'+'n'+'i'+'k'+'.'+'p'+'l'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>&gt;<br />
+From: &lt;<script type="text/javascript">document.write('<a href="mailto:'+'b'+'i'+'l'+'e'+'t'+'y'+'@'+'e'+'-'+'p'+'o'+'d'+'r'+'o'+'z'+'n'+'i'+'k'+'.'+'p'+'l'+'">'+'b'+'i'+'l'+'e'+'t'+'y'+'@'+'e'+'-'+'p'+'o'+'d'+'r'+'o'+'z'+'n'+'i'+'k'+'.'+'p'+'l'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>&gt;<br />
+To: &lt;&gt;<br />
+Subject: =?utf-8?Q?Bilet_jednorazowy_e-podr=C3=B3=C5=BCnik.pl?=<br />
+Message-ID: &lt;1964441729.39117.1437941408210.JavaMail.tomcat@Helheim-2&gt;<br />
+MIME-Version: 1.0<br />
+Content-Type: multipart/mixed;<br />
+	boundary=&quot;----=_NextPart_000_0683_01D19A79.8A67BDF0&quot;<br />
+X-Mailer: Microsoft Outlook 14.0<br />
+Thread-Index: AQJY3g1EBZI6n3AE0PaJ9+SZGGtw6A==<br />
+x-antivirus: avast! (VPS 150725-1, 2015-07-25), Inbound message<br />
+x-antivirus-status: Clean<br />
+<br />
+This is a multipart message in MIME format.<br />
+<br />
+regards]]></description>
+      <author><![CDATA[jozef back]]></author>
+      <category><![CDATA[some messages *.eml after changes from *.msg (outlook 2010 > thunderbird 38.5) lose receiving dates]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:895</guid>
+      <pubDate>Wed, 20 Apr 2016 04:45:09 UT</pubDate>
+    </item>
+  </channel>
+</rss>

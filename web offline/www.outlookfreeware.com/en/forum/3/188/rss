@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Duplicate reminders: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/188</link>
+    <description><![CDATA[New posts in the topic "Duplicate reminders" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:14 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Duplicate reminders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/188/712/#post712</link>
+      <description><![CDATA[<b>rodehall,</b><br />
+<br />
+Reminders are stored in Outlook items (appointments, tasks, etc.).<br />
+There is no such parameter as reminder change time.<br />
+Our utilities should delete new item duplicate. But, if you remove such duplicate to deleted items folder (delete items permanently option disabled) then the program re-create folders structure (for safety purpose, as this way you can restore duplicates to old places). And reminders set up in deleted item subfolders will continue to show up.<br />
+Also, it is possible that you don't see calendar subfolder in the deleted items folder if you are using Mail view in Outlook.<br />
+<br />
+So, first you need to empty Deleted items folder.<br />
+After that you can try to sync devices and remove duplicates with Deleted permanently option (not safe) or empty Deleted items manually after checking that everything is ok.<br />
+This should remove duplicate appointments including their reminders.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Duplicate reminders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:712</guid>
+      <pubDate>Mon, 05 May 2014 20:37:14 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate reminders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/188/711/#post711</link>
+      <description><![CDATA[Thank you Jouri for your quick and helpful response and apologies for posting the link.<br />
+I understand what you are saying but it seems to be an issue particularly (I believe) with reminders associated with recurring appointments.<br />
+I can delete the appointment and then recreate it, but after synchronisation I often find that I have two reminders. It's as if Outlook remembers the reminder associated with the original appointment which did not really get deleted and it somehow gets activated again when I recreate the appointment creating not one but two reminders. I expect that in normal  operation, on a single Outlook machine this is not a problem. It is because I am using the 3rd party Synchronisation tool. I note that in mobile forums this issue of duplicate reminders seems to crop up quite a lot when mobile devices sync with Outlook. When I use mfcmapi.exe I find it quite difficult to work out which is the &quot;correct&quot; reminder, to be retained and which ones to delete. The only way to be sure is to know the timestamp creation date of the reminder you want to keep and just delete the others. It probably doesn't help that I have been maintaining a calendar in PST which has been growing since 2001 when a bought my first pocket PC Compaq iPaq and I have moved it (exported / imported) it  between a number of computers and devices since then :)<br />
+Thanks again for your input!<br />
+Rod]]></description>
+      <author><![CDATA[rodehall]]></author>
+      <category><![CDATA[Duplicate reminders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:711</guid>
+      <pubDate>Mon, 05 May 2014 19:22:49 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate reminders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/188/710/#post710</link>
+      <description><![CDATA[<b>rodehall,</b><br />
+<br />
+There are no such objects like reminders itself in the Outlook.<br />
+Probably, you have duplicates of appointments or tasks with reminders set.<br />
+If you know exactly what type of Outlook items have reminders (after using mfcmapi.exe) then you can use <!--noindex--><a href="/en/products/all/OutlookTasksRemoveDuplicates" rel="nofollow">Remove duplicate task</a><!--/noindex--> or <!--noindex--><a href="/en/products/all/OutlookAppointmentsRemoveDuplicates" rel="nofollow">Removes duplicate calendar items</a><!--/noindex--> utilities. If you not sure what type of items have reminders you can run <!--noindex--><a href="/en/products/all/OutlookReportDuplicates" rel="nofollow">Duplicate Outlook items report</a><!--/noindex--> utility to find it out.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Duplicate reminders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:710</guid>
+      <pubDate>Mon, 05 May 2014 18:58:44 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Duplicate reminders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/188/708/#post708</link>
+      <description><![CDATA[I synchronise Outlook on two machines using <span style="color: #EE1D24">(please no links to third party sites)</span><br />
+I also synchronise on one of these machines with an Android mobile device.<br />
+I cannot seem to avoid on occasions getting duplicate reminders on the PCs.<br />
+I have successfully eliminated these by using Microsoft mfcmapi.exe but it is quite tedious and difficult scrolling through the .pst dbase to identify the rogue entries and deleting them. Is there an Outlook Freeware Add-in that could help with this?<br />
+Many thanks<br />
+<br />
+Rod]]></description>
+      <author><![CDATA[rodehall]]></author>
+      <category><![CDATA[Duplicate reminders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:708</guid>
+      <pubDate>Mon, 05 May 2014 16:17:10 UT</pubDate>
+    </item>
+  </channel>
+</rss>

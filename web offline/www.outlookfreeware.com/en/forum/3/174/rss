@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[how to open password protected Excel file: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/174</link>
+    <description><![CDATA[New posts in the topic "how to open password protected Excel file" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:25 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: how to open password protected Excel file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/174/640/#post640</link>
+      <description><![CDATA[<b>mex disuza,</b><br />
+<br />
+Our company is specialized on Microsoft Outlook.<br />
+Unfortunately, we don't have utilities for Microsoft Excel.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[how to open password protected Excel file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:640</guid>
+      <pubDate>Tue, 04 Feb 2014 15:32:24 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[how to open password protected Excel file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/174/638/#post638</link>
+      <description><![CDATA[hi<br />
+please suggest me best solution to get back lost excel password]]></description>
+      <author><![CDATA[mex disuza]]></author>
+      <category><![CDATA[how to open password protected Excel file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:638</guid>
+      <pubDate>Tue, 04 Feb 2014 14:11:39 UT</pubDate>
+    </item>
+  </channel>
+</rss>

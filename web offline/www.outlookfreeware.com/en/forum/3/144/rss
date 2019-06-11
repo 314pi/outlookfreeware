@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[synchronize outlook on 3 computer: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/144</link>
+    <description><![CDATA[New posts in the topic "synchronize outlook on 3 computer" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:02:07 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: synchronize outlook on 3 computer]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/144/362/#post362</link>
+      <description><![CDATA[<b>Julien</b>, unfortunately we can only recommend you to search for some kind of third-party solution. We didn't hear of any kind of a good free or cheap Outlook synchronization software. Please note, that synchronization tools manipulate your personal data, so be careful and choose wisely.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[synchronize outlook on 3 computer]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:362</guid>
+      <pubDate>Wed, 28 Mar 2012 16:30:52 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[synchronize outlook on 3 computer]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/144/360/#post360</link>
+      <description><![CDATA[Hello,<br />
+<br />
+since few weeks I'm looking for a solution to synchronize outlook 2010 on different computer.<br />
+I want to have the same folder structure on my 3 outlook, and every time I move a message to a folder it will be done on each other computer.<br />
+<br />
+I found different software which seem to go in this direction, but I'm looking for a cheaper solution!<br />
+any idea?<br />
+<br />
+waiting for your answers<br />
+<br />
+cheers]]></description>
+      <author><![CDATA[Julien Ezri]]></author>
+      <category><![CDATA[synchronize outlook on 3 computer]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:360</guid>
+      <pubDate>Wed, 28 Mar 2012 07:18:56 UT</pubDate>
+    </item>
+  </channel>
+</rss>

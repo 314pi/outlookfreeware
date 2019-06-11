@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Newsgroups reading: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/172</link>
+    <description><![CDATA[New posts in the topic "Newsgroups reading" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:36 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Newsgroups reading]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/172/626/#post626</link>
+      <description><![CDATA[Alessandro Mandelli,<br />
+<br />
+Unfortunately, we don't have any plans for a news reader add-in to Outlook.<br />
+We can recommend to use Windows Mail as a client for Newsgroups.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Newsgroups reading]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:626</guid>
+      <pubDate>Thu, 09 Jan 2014 19:42:33 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Newsgroups reading]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/172/619/#post619</link>
+      <description><![CDATA[Sorry if the question was already asked. I couldn't find any relevant topic. <br />
+Is there already or is it planned to add a news reader add-in to Outlook?<br />
+I'm really missing access to usenet from Outlook.]]></description>
+      <author><![CDATA[Alessandro Mandelli]]></author>
+      <category><![CDATA[Newsgroups reading]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:619</guid>
+      <pubDate>Fri, 03 Jan 2014 07:24:34 UT</pubDate>
+    </item>
+  </channel>
+</rss>

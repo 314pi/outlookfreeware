@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[OutlookFreeware News]]></title>
+    <link>https://www.outlookfreeware.com/en/news/rss</link>
+    <description><![CDATA[OutlookFreeware News]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 04:56:58 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::iblock.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <image>
+      <url>https://www.outlookfreeware.com/upload/iblock/cf9/address_blue.png</url>
+      <title><![CDATA[OutlookFreeware News]]></title>
+      <link>https://www.outlookfreeware.com/en/news/en</link>
+      <width>128</width>
+      <height>128</height>
+    </image>
+    <item>
+      <title><![CDATA[Welcome to version 4.12!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-829</link>
+      <description><![CDATA[
+<p>This update significantly improves the performance and introduces three new utilities:</p>
+ 
+<ul> 
+  <li><a href="/en/products/all/OutlookConvertMSG2PDF" >Convert MSG to PDF</a> and <a href="/en/products/all/OutlookConvertEML2PDF" >Convert EML to PDF</a> transform files from Outlook MSG, EML и EMLX formats to Adobe PDF. These two utilities complement the <a href="/en/products/all/OutlookMessagesExportPDF" >Export Outlook to PDF</a>.</li>
+ 
+  <li><a href="/en/products/all/OutlookAutoCompleteExportMessages" >Export Emails from Messages to Auto-Complete</a> saves email addresses from Outlook messages to NK2 or XML autocomplete list cache files.</li>
+ </ul>
+ 
+<p><a href="https://www.ReliefJet.com/Essentials" >Advanced versions of utilities</a> allow you to take the raw <a href="https://www.ReliefJet.com/Essentials/Help/WorkingWith-Macros.htm#Using_Macros" >macro values</a> enabling you to insert HTML code snippets into message bodies.</p>
+]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:829</guid>
+      <pubDate>Sun, 31 Mar 2019 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[> 150 free Outlook add-ins in the version 4.10]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-821</link>
+      <description><![CDATA[<p>The new big update is fully compatible with Microsoft Office Outlook 2019 and provides eight new utilities:</p>
+ 
+<ul> 
+  <li><a href="/en/products/all/OutlookMessagesExportPDF" >Export Outlook Messages to PDF Files</a> converts Outlook email to Adobe PDF documents, saves attachments and downloads external images if needed. </li>
+
+  <li><a href="/en/products/all/OutlookMergePST" >Merge PST Files</a> combines multiple PST Outlook data files into one and allows you to limit the maximum size of the resulting PST file. </li>
+
+  <li><a href="/en/products/all/OutlookItemsDelete" >Delete Outlook Items</a> permanently removes or moves to &quot;Deleted Items&quot; messages, contacts, appointments, meetings and other items in multiple Outlook folders at once. </li>
+
+  <li><a href="/en/products/all/OutlookSetDefaultFolders" >Set Default Outlook Folders</a> Changes location of Outlook system folders, such as &quot;Archive&quot;, &quot;Contacts&quot;, &quot;Inbox&quot;, etc. And <a href="/en/products/all/OutlookReportStoresDefaultFolders" >Report on Default Outlook Folders</a> shows the list and location of Outlook system folders in the selected mailboxes, PST data files and other Outlook stores. </li>
+
+  <li>Three universal reports <a href="/en/products/all/OutlookReportItemsUniversal" >on Outlook Items</a>, <a href="/en/products/all/OutlookReportFoldersUniversal" >Outlook Folders</a> and <a href="/en/products/all/OutlookReportStoresUniversal" >Outlook mailboxes and PST data files</a> convert emails, contacts, calendars and other Outlook items to CSV files and get the lists of any property and field values of Outlook mailboxes, data files, folders and items. </li>
+</ul>
+ 
+<p>In addition, the <a href="https://www.ReliefJet.com/Essentials" >advanced version</a> provides the command line and enables automatic processing of outgoing messages, adds new macros (STORE, FOLDER, FIELD and BODY), and expands the capabilities of all macros with regular expressions.</p>
+]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:821</guid>
+      <pubDate>Mon, 19 Nov 2018 08:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Version 4.8: three new converters to PST and over 140 tools! ]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-803</link>
+      <description><![CDATA[ 
+<p>Brand new version is on our website: <b>143</b> free add-ins and utilities for Microsoft Outlook!</p>
+ 
+<p>In addition, we'd like to introduce three new utilities for creating PST data files: <a href="/en/products/all/OutlookConvertMSG2PST" >Outlook MSG to PST</a> and <a href="/en/products/all/OutlookConvertEML2PST" >EML to PST</a> converters and <a href="/en/products/all/OutlookConvertMBOX2PST" >MBOX to PST converter</a> supporting Gmail labels and Google Takeout files.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:803</guid>
+      <pubDate>Thu, 15 Feb 2018 08:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New version 4.7 enables support for HTML files]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-793</link>
+      <description><![CDATA[ 
+<p>In the next major update, we added three new utilities that support HTML format for the email message files. In addition, all the utilities on our site now allow you to work with the root folders of your mailboxes and PST data files. We also improved compatibility with the latest Microsoft Outlook updates and fixed all issues found to the moment.</p>
+ 
+<p>The new <a href="/en/products/all/OutlookMessagesExportHTML" >Export Messages to HTML Files</a> utility saves your email messages from Outlook to HTML files retaining original formatting, the <a href="/en/products/all/OutlookConvertMSG2HTML" >Convert Messages from MSG to HTML</a> utility converts Outlook MSG files to HTML files on your disk or network share, and the <a href="/en/products/all/OutlookConvertEML2HTML" >Convert Messages from EML to HTML</a> tool converts email message files from EML and EMLX format to HTML files.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:793</guid>
+      <pubDate>Thu, 02 Nov 2017 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Please meet the updated utilities, version 4.6!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-785</link>
+      <description><![CDATA[ 
+<p>In the update, we improved the compatibility of our utilities with the latest versions of Outlook and Office 365, fixed any bugs found, and added three new utilities to find and remove unused Outlook contacts.</p>
+ 
+<p>The <a href="/en/products/all/OutlookContactsMarkUnused" >Find Unused Contacts</a> utility finds and tags with a category Outlook contacts that are not used in your email conversations, <a href="/en/products/all/OutlookContactsRemoveUnused" >Remove Unused Contacts</a> will help you easily remove these contacts, and <a href="/en/products/all/OutlookReportContactsUnused" >Unused Contacts Report</a> quickly shows you a list of contacts with email addresses you're not using at all.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:785</guid>
+      <pubDate>Tue, 05 Sep 2017 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Version 4.5: we have more than 130 free utilities!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-777</link>
+      <description><![CDATA[
+<p>In the new major update 4.5, we've added five new utilities for extracting and removing attachments of MSG, EML and MBOX files. In addition, we've significantly improved the performance and reliability of all the utilities on our website. Verified on millions of email messages!</p>
+ 
+<p><a href="/en/products/all/OutlookSaveAttachmentsMSG" >Save Attachments from MSG Files</a>, <a href="/en/products/all/OutlookSaveAttachmentsEML" >Save Attachments from EML Files</a> and <a href="/en/products/all/OutlookSaveAttachmentsMBOX" >Save Attachments from MBOX Files</a> utilities extract attachments from MSG, EML and MBOX files saving them to the specified location on your disk or network share. And <a href="/en/products/all/OutlookRemoveAttachmentsMSG" >Remove Attachments from MSG Files</a> and <a href="/en/products/all/OutlookRemoveAttachmentsEML" >Remove Attachments from EML Files</a> delete attachments in MSG and EML files. In general, the utility package is useful for reducing the space occupied by your email archives: save attachments and delete them from message files.</p>
+ 
+<p>And yes, now we have <a href="/en/products" ><strong>more than 130 free utilities</strong></a>, feel free to use them right now!</p>
+]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:777</guid>
+      <pubDate>Thu, 22 Jun 2017 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[More MBOX tools in the new version 4.4]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-764</link>
+      <description><![CDATA[ 
+<p>This major update includes new utilities and features as well as performance and reliability enhancements. All tools for exporting Outlook messages now handle Non-Delivery Reports (NDR) much better. </p>
+ 
+<p>Three new tools for importing and converting MBOX files are now available. <a href="/en/products/all/OutlookMessagesImportMBOX" >Import Outlook Messages from MBOX Files</a> imports email messages from MBOX files into Outlook folders and handles multiple files at once. <a href="/en/products/all/OutlookConvertMBOX2MSG" >Convert MBOX Files to Outlook MSG</a> and <a href="/en/products/all/OutlookConvertMBOX2EML" >Convert MBOX to EML Files</a> utilities convert MBOX files to Outlook's native MSG format and to commonly used EML files.</p>]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:764</guid>
+      <pubDate>Thu, 09 Mar 2017 08:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New utilities and version 4.3]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-757</link>
+      <description><![CDATA[<p>We updated all utilities to version <strong>4.3</strong>. This version improves compatibility with latest Office 365 updates and fixes all issues found to the moment.</p>
+ 
+<p>In addition, please meet three new utilities that simplify Outlook folder permissions setup: <a href="/en/products/all/OutlookFolderPermissionsSet" >Set Folder Permissions</a> and <a href="/en/products/all/OutlookFolderPermissionsDelete" >Delete Folder Permissions</a> configure permissions for specified users on selected folders, and <a href="/en/products/all/OutlookReportFoldersPermissions" >Folder Permissions Report</a> shows all configured permissions in a one single convenient table.</p>
+]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:757</guid>
+      <pubDate>Mon, 21 Nov 2016 08:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[We've launched a new blog about Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-729</link>
+      <description><![CDATA[<p>We are pleased to inform you that a new <a href="/en/blog">blog for all Microsoft Outlook users</a> is on our site up and running! In the blog we write about different aspects of using Outlook, give tips, post walkthroughs for performing various tasks and many more...</p>
+
+<p>We'd love to hear your suggestions and answer your questions, please <a href="/en/contact.aspx">contact us</a>!</p>]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:729</guid>
+      <pubDate>Tue, 16 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Huge update for all utilities, we provide more than 120 of them now!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-715</link>
+      <description><![CDATA[<p>We're happy to announce that all utilities were updated to version <b>4.2</b>. They're now even more faster and easier to use! We also added six new tools.</p>
+ 
+<p><a href="/en/products/all/OutlookMessagesMailMerge" >Mail Merge with Attachments</a> creates mass mailings using your data table. Unlike Microsoft Word Mail Merge feature, our utility allows you to add attachments. <a href="/en/products/all/OutlookFolderExportStructure" >Export Outlook Folder Structure</a> and <a href="/en/products/all/OutlookFolderImportStructure" >Import Outlook Folder Structure</a> saves your folder tree into XML file and allows you to create the same structure in other mailboxes or data files. <a href="/en/products/all/OutlookContactsChangeFields" >Change Contact Fields</a> changes display fields of your Outlook contacts according to your preferences. <a href="/en/products/all/OutlookReportMessagesResponse" >Message Response Time Statistics</a> shows your productivity when working with emails and <a href="/en/products/all/OutlookReportMessages" >Email Message Report</a> creates a list of messages you can save and open in Microsoft Excel.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:715</guid>
+      <pubDate>Mon, 30 May 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Major update and new utilities]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-701</link>
+      <description><![CDATA[ 
+<p>We are pleased to announce that all our products are updated to <b>4.0</b> version. Now all utilities work better, faster and more reliable. As usual, along with update meet new tools!</p>
+ 
+<p>Brand new <a href="/en/products/all/OutlookFolderBackup" >Backup Outlook Folders</a> utility makes a backup copy of your mailboxes and PST data files quickly, in one mouse click. It archives all of your Outlook items from all selected folders. <a href="/en/products/all/OutlookMessagesSend" >Send Outlook Message</a> utility boosts your productivity. It enables you to send an e-mail message in one click. The new <a href="/en/products/all/OutlookStatisticsMessageMonthName" >Message Statistics by Name of Month</a> report complements the group of reports on sent and received emails in Outlook, showing the number and volume of messages grouped by names of the months.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:701</guid>
+      <pubDate>Tue, 29 Sep 2015 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New version = new utility]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-693</link>
+      <description><![CDATA[ 
+<p>We updated all utilities to <b>3.8</b> version. This update improves compatibility with Microsoft Office 365 and resolves all issues found to the moment.</p>
+ 
+<p>In addition to previously published <a href="/en/products/all/OutlookFolderDeleteSubfolders" >Delete Outlook Subfolders</a> and <a href="/en/products/all/OutlookFolderDeleteEmpty" >Delete Empty Outlook Folders</a>, we would like to introduce a new <a href="/en/products/all/OutlookFolderDelete" >Delete Outlook Folders</a> utility that deletes all selected folders at once in a fast and easy way.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:693</guid>
+      <pubDate>Mon, 13 Jul 2015 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[We're now compatible with Windows 10 and Outlook 2016!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-689</link>
+      <description><![CDATA[ 
+<p>We are now announcing full compatibility of all our utilities with preview versions of Windows 10 and Outlook 2016!</p>
+ 
+<p>In addition, we present several new utilities for working with Outlook auto-complete lists (cache), created according to your numerous suggestions. <a href="/en/products/all/OutlookAutoCompleteExportContacts" >Export Contacts to Auto-Complete Files</a> allows you to save contacts from Outlook directly into XML or NK2 auto-complete cache files. <a href="/en/products/all/OutlookAutoCompleteExportAddresses" >Export Addresses to Auto-Complete Files</a> does the same job, but for any Outlook addresses and address books. <a href="/en/products/all/OutlookAutoCompleteImportContacts" >Import Contacts from Auto-Complete Files</a> creates Outlook contacts from auto-complete files. Finally, <a href="/en/products/all/OutlookReportAutoCompleteFiles" >Auto-Complete Files Report</a> will show what auto-complete files used in your system and where they reside.</p>
+]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:689</guid>
+      <pubDate>Tue, 23 Jun 2015 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ReliefJet Tweaker for Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-687</link>
+      <description><![CDATA[ 
+<p>We are glad to present a brand new free product for configuring hidden Microsoft Outlook settings: <a href="/en/products/all/ReliefJetTweakerOutlook" >ReliefJet Tweaker for Outlook</a>.</p>
+ 
+<p>The program can fix broken hyperlinks in your email messages, modify secret message settings, unblock required attachment types and perform other useful tasks.</p>
+]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:687</guid>
+      <pubDate>Tue, 12 May 2015 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Export, import and convert Outlook auto-complete cache lists]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-682</link>
+      <description><![CDATA[ 
+<p>We are glad to present you new utilities for working with Outlook AutoComplete list cache. These tools will help you to backup, edit and transfer your AutoComplete lists to another computer.</p>
+ 
+<p><a href="/en/products/all/OutlookAutoCompleteExport" >Export Auto-Complete Lists</a> will save Outlook 2010 (and above) auto-complete lists to XML format, allowing you to store it or edit with any text editor including Windows Notepad. <a href="/en/products/all/OutlookAutoCompleteImport" >Import Auto-Complete List</a> loads lists from previously stored XML files into your Outlook. <a href="/en/products/all/OutlookAutoCompleteFilesConvert" >Convert Auto-Complete Files</a> allows you to export NK2 and DAT auto-complete cache files of any Outlook versions to XML format as well as to convert these files between formats. Finally, <a href="/en/products/all/OutlookReportAutoComplete" >Auto-Complete Lists Report</a> will show you the contents of all auto-complete lists in your Outlook accounts.</p>
+ 
+<p>In addition, we've updated <a href="/en/products" >all other utilities</a> and the <a href="/en/runtime.aspx" >Runtime</a> to version <b>3.7</b>, fixing all the bugs and improving performance.</p>
+]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:682</guid>
+      <pubDate>Tue, 28 Apr 2015 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New tools for managing Outlook storage properties and 3.6 update]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-664</link>
+      <description><![CDATA[ 
+<p>We added three more utilities for managing properties (fields) of Outlook storages: <a href="/en/products/all/OutlookStoragePropertiesSave" >Save All Storage Properties</a>, <a href="/en/products/all/OutlookStoragePropertiesSet" >Set Storage Property</a> and <a href="/en/products/all/OutlookStoragePropertiesDelete" >Delete Storage Properties</a>. These utilities are similar to <a href="/en/search.aspx?tags=fields" >utilities for processing fields of Outlook folders and items</a> but work with mailboxes, data files (PSTs) and other storages connected to Outlook.</p>
+ 
+<p>We also updated all other utilities to version <strong>3.6</strong>. This update provides many enhancements and recommended to all users of our utilities and add-ins!</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:664</guid>
+      <pubDate>Thu, 13 Nov 2014 08:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3.5 version update and the new utility!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-660</link>
+      <description><![CDATA[ 
+<p>We represent you a new interesting utility: <a href="/en/products/all/OutlookDocumentsImportFiles" >Import Documents and Files</a>. With the help of this tool you can load any documents, images and other files right into Outlook folders.</p>
+ 
+<p>In addition, we've updated and improved lots of other utilities, including <a href="/en/products/duplicates" >tools to find and remove duplicates</a>.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:660</guid>
+      <pubDate>Tue, 07 Oct 2014 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Exclusively on our website! More than 100 free add-ins for Outlook!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-650</link>
+      <description><![CDATA[ 
+<p>We are proud to announce that from now on, more than hundreds of free utilities and add-ins for Microsoft Outlook at your service! In honor of this anniversary, we are pleased to provide all our users a <strong>discount of 20%</strong> on the Personal or Professional Edition of <a href="https://www.ReliefJet.com" >ReliefJet Essentials for Outlook</a>. To get it, <a href="/en/auth.aspx?op=login" >log on to our website</a> and fill in the &quot;Suggest Us&quot; form on the left: &quot;Need a discount on Personal (Professional) Edition&quot;. This offer valid until August 31, 2014.</p>
+ 
+<p>Please note that our website has a new section now: <a href="/en/newsletters" >Newsletters</a>. In it, you will find previous issues of our newsletters. Oh, and don't forget about <a href="https://www.youtube.com/c/OutlookFreeware" >our YouTube channel</a>!</p>
+ 
+<p>Let's talk about new utilities. <a href="/en/products/all/OutlookAttachmentsFindDuplicates" >Find Duplicate Attachments</a> allows you to find messages that contain duplicated attachments and assign them specific categories suitable for manual work with duplicates. You'll find more details soon in the fourth issue of <a href="/en/newsletters/" >our newsletter</a>. <a href="/en/products/all/OutlookAttachmentsRemoveDuplicates" >Remove Duplicate Attachments</a> replaces all duplicate attachments with links, leaving in your mailbox only original instance. A <a href="/en/products/all/OutlookReportDuplicateAttachments" >Duplicate Attachments Report</a> will help you to assess how much space is occupied by duplicate attachments in your Outlook folders.</p>
+ 
+<p>Several unique tools to work with the properties of Outlook folders. <a href="/en/products/all/OutlookFolderPropertiesSave" >Save Folder Properties</a> writes all properties of the selected Outlook folders to a text file. <a href="/en/products/all/OutlookFolderPropertiesSet" >Set Folder Property</a> enables you to set the value of the specified property. <a href="/en/products/all/OutlookFolderPropertiesDelete" >Delete Folder Properties</a> removes specified in Outlook folders.</p>
+ 
+<p>In addition, we updated <a href="/en/products" >all other Outlook utilities</a> and <a href="/en/runtime.aspx" >Runtime</a> to version <b>3.4</b>. This update improves the stability and performance of all of our utilities, and fixes all the bugs that have been discovered so far.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:650</guid>
+      <pubDate>Mon, 25 Aug 2014 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New tools for efficient usage of Outlook AutoArchive feature!]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-630</link>
+      <description><![CDATA[ 
+<p>We're proud to announce that it is now possible lightning fast configuration of AutoArchive settings for Outlook folders in batch mode with the <a href="/en/products/all/OutlookFolderAutoArchive" >Set Folder AutoArchive Settings</a> utility. The same speed and convenience is available for AutoArchive settings and expiration dates in Outlook messages with the <a href="/en/products/all/OutlookMessagesArchiving" >Set Message Archiving Settings</a> utility. Everything with a single click of a mouse!</p>
+ 
+<p>As usual, we provide supplementing <a href="/en/products/all/OutlookReportFoldersAutoArchive" >Folder AutoArchive Report</a> and <a href="/en/products/all/OutlookReportMessagesArchiving" >Message AutoArchive and Expiration Report</a> as well.</p>
+ 
+<p>All other Utilities and Runtime got major update to version <b>3.3</b> that fixes all issues found to the moment and increases product performance.</p>
+ ]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:630</guid>
+      <pubDate>Thu, 17 Jul 2014 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New product video available]]></title>
+      <link>https://www.outlookfreeware.com/en/news/0/news-619</link>
+      <description><![CDATA[Please note that a new video showing how to find, tag and remove duplicate email messages in Microsoft Outlook is <a href="/en/tour.aspx" >available now</a>.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:619</guid>
+      <pubDate>Fri, 25 Apr 2014 07:00:00 UT</pubDate>
+    </item>
+  </channel>
+</rss>

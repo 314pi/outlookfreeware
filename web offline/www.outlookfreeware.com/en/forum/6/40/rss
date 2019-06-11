@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Export Outlook Items to PST Format: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/40</link>
+    <description><![CDATA[New posts in the topic "Export Outlook Items to PST Format" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:25:37 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/854/#post854</link>
+      <description><![CDATA[<b>Peter Restaino,</b><br />
+<br />
+The current version of the runtime on the website is 3.8.<br />
+Please download <!--noindex--><a href="/en/runtime.aspx" rel="nofollow">Runtime</a><!--/noindex--> and re-install.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:854</guid>
+      <pubDate>Fri, 10 Jul 2015 16:22:02 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/853/#post853</link>
+      <description><![CDATA[When I install this utlity it says it is for v3.8, but the runtime is only 3.7 and I can't seem to find a 3.8 runtime]]></description>
+      <author><![CDATA[Peter Restaino]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:853</guid>
+      <pubDate>Fri, 10 Jul 2015 09:11:05 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/682/#post682</link>
+      <description><![CDATA[<b>botond varga,</b><br />
+<br />
+Thank you for your report.<br />
+Please download and install a new version of the <!--noindex--><a href="/en/runtime.aspx" rel="nofollow">runtime</a><!--/noindex-->.<br />
+This should fix the issue.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:682</guid>
+      <pubDate>Fri, 07 Mar 2014 19:04:14 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/681/#post681</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>Outlook Freeware:<br />
+<b>botond varga</b>, what type of Outlook account do you use (POP3/IMAP/Exch&#173;ange/...)? Also, what is your Windows/Outlook versions?</td></tr></table><br />
+<br />
+- Exchange of course with public folder, Outlook 2007 (on win XP)<br />
+- I'm trying to remove old messages from public folder to pst as backup. User rights=Owner.<br />
+We have limit on public folders, and I would like to not loose old posts and messages.<br />
+Deleting manually after copying, it's not so elegant in all sub folders.<br />
+Thanks for fast reaction]]></description>
+      <author><![CDATA[botond varga]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:681</guid>
+      <pubDate>Thu, 06 Mar 2014 03:17:35 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/680/#post680</link>
+      <description><![CDATA[<b>botond varga</b>, what type of Outlook account do you use (POP3/IMAP/Exchange/...)? Also, what is your Windows/Outlook versions?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:680</guid>
+      <pubDate>Thu, 06 Mar 2014 02:17:31 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/679/#post679</link>
+      <description><![CDATA[Hi,<br />
+I got the EXPORT OUTLOOK ITEMS TO PST FORMAT tool. Running from within Outlook / Favorits.<br />
+1)The copy only items is working fine, but<br />
+2)Using &quot;Move exported items instead of copy&quot; I get this error: &quot;External component has thrown an exception. (System.Runtime.InteropService.SEException)&quot;<br />
+<br />
+What could be the problem, How it can be solved? Thanks in advance!]]></description>
+      <author><![CDATA[botond varga]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:679</guid>
+      <pubDate>Thu, 06 Mar 2014 00:57:22 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/654/#post654</link>
+      <description><![CDATA[<b>Tim</b>, how to you run the tool? In Outlook or using standalone launcher application?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:654</guid>
+      <pubDate>Thu, 06 Feb 2014 04:16:03 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/653/#post653</link>
+      <description><![CDATA[Have a problem...<br />
+Here is the code I am getting...<br />
+Any ideas?<br />
+<br />
+************** Exception Text **************<br />
+System.Exception: Storage collision: Personal Folders<br />
+   at ReliefJet.Engine.Component.Outlook.OutlookItemsConverter.CreateItemsFromStrings(IOutlookServices services, String[] strings, Boolean ignoreErrors)<br />
+...]]></description>
+      <author><![CDATA[Tim McNabola]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:653</guid>
+      <pubDate>Thu, 06 Feb 2014 00:09:03 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/401/#post401</link>
+      <description><![CDATA[<b>Joe</b>, this tool can be run from right-click menu in your Outlook.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:401</guid>
+      <pubDate>Fri, 04 May 2012 23:00:36 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/397/#post397</link>
+      <description><![CDATA[This utility is great, but I was hoping to find one that would export folders from a right click menu.  Is that feasible?  Thanks]]></description>
+      <author><![CDATA[Joe Johnson]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:397</guid>
+      <pubDate>Fri, 04 May 2012 04:45:49 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/387/#post387</link>
+      <description><![CDATA[You can, but with our commercial product: <!--noindex--><a href="http://www.reliefjet.com/" rel="nofollow">ReliefJet Essentials for Outlook</a><!--/noindex-->. Professional Edition provides command line utility than can be scheduled at your will.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:387</guid>
+      <pubDate>Mon, 16 Apr 2012 17:17:06 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/384/#post384</link>
+      <description><![CDATA[Can i scedule it daily,weekly etc. ?]]></description>
+      <author><![CDATA[Jacob Wainshtein]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:384</guid>
+      <pubDate>Sun, 15 Apr 2012 21:32:49 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Export Outlook Items to PST Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/40/40/#post40</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Outlook Items to PST Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:40</guid>
+      <pubDate>Fri, 01 Oct 2010 19:59:20 UT</pubDate>
+    </item>
+  </channel>
+</rss>

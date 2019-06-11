@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[ReliefJet Tweaker for Outlook: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/211</link>
+    <description><![CDATA[New posts in the topic "ReliefJet Tweaker for Outlook" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:52 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[ReliefJet Tweaker for Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/211/826/#post826</link>
+      <description><![CDATA[Discuss this tool here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[ReliefJet Tweaker for Outlook]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:826</guid>
+      <pubDate>Wed, 06 May 2015 04:32:21 UT</pubDate>
+    </item>
+  </channel>
+</rss>

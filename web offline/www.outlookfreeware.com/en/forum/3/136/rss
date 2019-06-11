@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Stand-Alone Utility?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/136</link>
+    <description><![CDATA[New posts in the topic "Stand-Alone Utility?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:04:07 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Stand-Alone Utility?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/136/264/#post264</link>
+      <description><![CDATA[You do not need to download it separately. After installing the runtime, you will be able to run this application from Windows' Start Menu (OutlookFreeware.com Utilities group in All Programs).]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Stand-Alone Utility?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:264</guid>
+      <pubDate>Thu, 29 Sep 2011 22:51:26 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Stand-Alone Utility?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/136/263/#post263</link>
+      <description><![CDATA[In many of your add-in descriptions it mentions the stand-alone utility.<br />
+Where am I able to download the stand-alone utility?  Thanks.<br />
+<br />
+<img src="http://www.outlookfreeware.com/en/products/screens/OutlookMessagesImportEML.png" alt="" style="border: none;"/><br />
+<i>&quot;Another way to run utilities is a stand-alone application&quot;</i>]]></description>
+      <author><![CDATA[William Bell]]></author>
+      <category><![CDATA[Stand-Alone Utility?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:263</guid>
+      <pubDate>Thu, 29 Sep 2011 22:32:49 UT</pubDate>
+    </item>
+  </channel>
+</rss>

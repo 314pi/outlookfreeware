@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Remove Attachments from Outlook Items and EML/MSG Files: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/10</link>
+    <description><![CDATA[New posts in the topic "Remove Attachments from Outlook Items and EML/MSG Files" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:24:08 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Remove Attachments from Outlook Items and EML/MSG Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/10/1105/#post1105</link>
+      <description><![CDATA[If you are moving from Lotus Notes to EML to MSG file format, you can go for EML to MSG  software that export EML  files to MSG. effortlessly.]]></description>
+      <author><![CDATA[fantry enter]]></author>
+      <category><![CDATA[Remove Attachments from Outlook Items and EML/MSG Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1105</guid>
+      <pubDate>Fri, 27 Jul 2018 11:59:04 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Attachments from Outlook Items and EML/MSG Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/10/1066/#post1066</link>
+      <description><![CDATA[<b>Christopher Mann</b>, <br />
+<br />
+Attachments are deleted permanently.<br />
+Please note that you have to select a folder where utility will delete attchments.<br />
+You have selected the whole mailbox if it deleted attachment from the mailbox.<br />
+Also, you can use Advanced version which has additional options and filters.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Attachments from Outlook Items and EML/MSG Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1066</guid>
+      <pubDate>Fri, 26 Jan 2018 11:21:03 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Attachments from Outlook Items and EML/MSG Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/10/1065/#post1065</link>
+      <description><![CDATA[I'm interested to know what happens to the deleted attachments. The utility is much more powerful than I expected and it's removed every attachment in my mailbox. It's not a drama because my mail file is backed up, but what happens to these attachments?<br />
+<br />
+Thanks,<br />
+<br />
+Chris Mann]]></description>
+      <author><![CDATA[Christopher Mann]]></author>
+      <category><![CDATA[Remove Attachments from Outlook Items and EML/MSG Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1065</guid>
+      <pubDate>Fri, 26 Jan 2018 10:42:44 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Remove Attachments from Outlook Items and EML/MSG Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/10/10/#post10</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Attachments from Outlook Items and EML/MSG Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:10</guid>
+      <pubDate>Fri, 01 Oct 2010 19:46:51 UT</pubDate>
+    </item>
+  </channel>
+</rss>

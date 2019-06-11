@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Combined Spit/Merge Utility: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/158</link>
+    <description><![CDATA[New posts in the topic "Combined Spit/Merge Utility" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:02:26 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Combined Spit/Merge Utility]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/158/618/#post618</link>
+      <description><![CDATA[Generally, Merge Storages utility can do this.<br />
+<br />
+If you need to have more automation or repeat this process from time to time then we have a commercial version of utilities called ReliefJet Essentials for Outlook:<br />
+<!--noindex--><a href="http://www.reliefjet.com/" rel="nofollow">http://www.reliefjet.com/</a><!--/noindex--><br />
+With professional version of it you can create a command file to automate the process.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Combined Spit/Merge Utility]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:618</guid>
+      <pubDate>Mon, 30 Dec 2013 23:06:08 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Combined Spit/Merge Utility]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/158/617/#post617</link>
+      <description><![CDATA[I have the same need.<br />
+Did you find any tool?]]></description>
+      <author><![CDATA[zorro3210]]></author>
+      <category><![CDATA[Combined Spit/Merge Utility]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:617</guid>
+      <pubDate>Mon, 30 Dec 2013 18:16:55 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Combined Spit/Merge Utility]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/158/486/#post486</link>
+      <description><![CDATA[My users have a need to be able to take several PST files and split them into combined PSTs based on the year or even better, 1/2 year.<br />
+<br />
+Example:<br />
+User has Outlook Auto Archive Turned on.  He has at one time copied the autoarchive to a new file and outlook created a new AutoArchive.pst<br />
+Outlook.pst contains items for the past 6 months ex. from Oct-2011 to Apr-2012 (Items spanning 2011 &amp; 2012)<br />
+Archive.pst contains items from Jan-2010 to Sep-2011 (Items spanning 2010 &amp; 2011)<br />
+OldArchive.pst contains items from Aug-2009 to Jan-2012 (Items spanning 2009 to 2012)<br />
+<br />
+I need to be able to designate ALL of these PST at one time as the source and then designate the target folder to create (or using existing) PST files based on either 1/year 2/year) and designate the begin and ending years to process.<br />
+<br />
+The result would be that all the items in the source Outlook PST's would be re-combined into PST's for each year (in the case of 1/year) or for each half year (int the case of 2/year)<br />
+<br />
+The ability to re-use the target files should be available for when you need to re-process the Outlook.pst later in the year and you need to move data for the year into the correct target PST.<br />
+<br />
+This functionality seems to be available independently with the spit and merge tools.  It just needs to be combined  with a few other log options.  I would bet that this is functionality that would be very useful for others too and if the ability to define these rules as an auto-running Outlook addin were made available would be a great product to sell.]]></description>
+      <author><![CDATA[skydiver]]></author>
+      <category><![CDATA[Combined Spit/Merge Utility]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:486</guid>
+      <pubDate>Tue, 11 Dec 2012 04:05:27 UT</pubDate>
+    </item>
+  </channel>
+</rss>

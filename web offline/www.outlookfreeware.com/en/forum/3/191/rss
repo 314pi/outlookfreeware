@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[how to edit subject':-) :-)  line of sent/received emails?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/191</link>
+    <description><![CDATA[New posts in the topic "how to edit subject':-) :-)  line of sent/received emails?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:59:58 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: how to edit subject':-) :-)  line of sent/received emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/191/733/#post733</link>
+      <description><![CDATA[It is possible with the help of <!--noindex--><a href="/en/products/all/OutlookHeadersSet/" rel="nofollow">Set Header Value</a><!--/noindex--> utility. Just specify <i>Subject</i> as a header's name and your desired subject text as a header's value.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[how to edit subject':-) :-)  line of sent/received emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:733</guid>
+      <pubDate>Thu, 12 Jun 2014 21:37:08 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[how to edit subject':-) :-)  line of sent/received emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/191/732/#post732</link>
+      <description><![CDATA[in order to be able to find easily And rapidly saved mails I'd love to be able to edit the subject line. Is it possible and how?]]></description>
+      <author><![CDATA[sam lub]]></author>
+      <category><![CDATA[how to edit subject':-) :-)  line of sent/received emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:732</guid>
+      <pubDate>Thu, 12 Jun 2014 18:27:03 UT</pubDate>
+    </item>
+  </channel>
+</rss>

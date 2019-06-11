@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Blind copies: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/159</link>
+    <description><![CDATA[New posts in the topic "Blind copies" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:52:08 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Blind copies]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/159/492/#post492</link>
+      <description><![CDATA[<b>Mike</b>, actually Outlook shows BCC for sent messages. But this is true for your messages only. You can't see other sender's BCC. You can't also see BCC if you Sent folder in an IMAP folder. To workaround IMAP issue, use local Sent Items folder.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Blind copies]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:492</guid>
+      <pubDate>Thu, 10 Jan 2013 19:00:10 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Blind copies]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/159/491/#post491</link>
+      <description><![CDATA[In Outlook 2010, I can send an email with blind copies and although I can later view the message in the Sent folder, it doesn’t show blind copy addressees. Displaying Bcc settings isn’t offered in Advanced View Settings. Is there a solution (or a possible add-on for this)?<br />
+My compliments to those running this site.]]></description>
+      <author><![CDATA[Mike Brayshaw]]></author>
+      <category><![CDATA[Blind copies]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:491</guid>
+      <pubDate>Tue, 08 Jan 2013 15:21:54 UT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Most Active Senders: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/37</link>
+    <description><![CDATA[New posts in the topic "Most Active Senders" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:52 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Most Active Senders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/37/667/#post667</link>
+      <description><![CDATA[<b>Greg Middleton,</b> please try to recreate the issue with smaller number of messages in some folder. Make a screenshot from Outlook with such folder grouped by sender. Make a screenshot with utility configuration before a run. Run it. Save result to a file. Send screenshots and the result to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>.<br />
+We will try to help you.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Most Active Senders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:667</guid>
+      <pubDate>Fri, 14 Feb 2014 16:14:36 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Most Active Senders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/37/665/#post665</link>
+      <description><![CDATA[I used Cache mode; however, the folder that I selected (in Configuration) to count from is actually in a PST file on my local computer. None of the emails are on the Exchange server proper.]]></description>
+      <author><![CDATA[Greg Middleton]]></author>
+      <category><![CDATA[Most Active Senders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:665</guid>
+      <pubDate>Fri, 14 Feb 2014 06:38:46 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Most Active Senders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/37/659/#post659</link>
+      <description><![CDATA[Greg Middleton,<br />
+<br />
+Are you using an Exchange cached mode?<br />
+Please note that by default Outlook 2013 download not all messages from Exchange server. Our utility count only cached emails in such mode.<br />
+If you need to count all messages you need to switch Outlook to online mode or set Sync Slider (the <b>Mail to keep offline</b> slider in the Outlook 2013 Server Settings dialog box) to cache all emails.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Most Active Senders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:659</guid>
+      <pubDate>Wed, 12 Feb 2014 17:20:55 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Most Active Senders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/37/658/#post658</link>
+      <description><![CDATA[I was excited about this utility but seem to have a discrepancy in the results.<br />
+<br />
+I'm running Outlook 2013 and have pointed it to a specific folder. <br />
+<br />
+For some &quot;from&quot; addresses I'm getting in accurate results.<br />
+<br />
+In Outlook, I go to the folder and organize by From and then collapse all groups.<br />
+For My own email address, Outlook shows 182 items.<br />
+<br />
+But the Most Active Senders report only shows 44 items for that same email address?<br />
+<br />
+I have identified a few of these in the report.<br />
+<br />
+Any ideas on how to troubleshoot this?]]></description>
+      <author><![CDATA[Greg Middleton]]></author>
+      <category><![CDATA[Most Active Senders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:658</guid>
+      <pubDate>Wed, 12 Feb 2014 03:12:46 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Most Active Senders]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/37/37/#post37</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Most Active Senders]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:37</guid>
+      <pubDate>Fri, 01 Oct 2010 19:58:36 UT</pubDate>
+    </item>
+  </channel>
+</rss>

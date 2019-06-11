@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/13</link>
+    <description><![CDATA[New posts in the topic "Save Attachments from Outlook Items and MSG/EML/MBOX Files" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:23:54 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/1269/#post1269</link>
+      <description><![CDATA[<b>Jeffrey</b>, automatic processing is available in the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookAttachmentsSave" rel="nofollow">advanced version of Save Attachments</a><!--/noindex--> utility, thanks to integration with Outlook rules.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1269</guid>
+      <pubDate>Fri, 24 May 2019 15:50:09 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/1260/#post1260</link>
+      <description><![CDATA[Question about the Save Attachment utility.  It installed and set up fine.  When I &quot;run&quot; the utility from Outlook, it does exactly what I want it to do.  But I want this process to be automatic, and it's not.  I have to &quot;run&quot; it to get the utility to move attachments to the specified folder.  How do I set it up so that the files are moved automatically as soon as the email is received?<br />
+<br />
+I'm running Win 7 and Outlook 2010, although I could set this up on an Outlook 2013 machine if needed.<br />
+<br />
+Thanks!]]></description>
+      <author><![CDATA[Jeffrey Watts]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1260</guid>
+      <pubDate>Sun, 19 May 2019 16:06:37 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/792/#post792</link>
+      <description><![CDATA[<b>bebseh,</b><br />
+<br />
+We have a few utilities which are working with email attachments.<br />
+Saves attachments - only saves attachments to disk without deleting them from an email. So, they are accessible from email itself.<br />
+Replace Attachments with Links - saves attachments to disk and delete them from an email. So, they are accessible from email through links.<br />
+Remove Attachments - delete attachments from an email. So, they are NOT accessible from email.<br />
+Remove Duplicate Attachments -  saves only duplicate attachments to disk and delete all but one attachment from emails. So, they are accessible from one email directly and from all other emails through links.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:792</guid>
+      <pubDate>Thu, 23 Oct 2014 15:21:50 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/791/#post791</link>
+      <description><![CDATA[If it saves all attachments to a particular folder, can i still access those attachments from within the mail itself ?<br />
+<br />
+I mean does it create a link or anything pointing to the attachment in the folder?<br />
+<br />
+sorry for my bad English.]]></description>
+      <author><![CDATA[bebseh]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:791</guid>
+      <pubDate>Thu, 23 Oct 2014 04:49:29 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/784/#post784</link>
+      <description><![CDATA[<b>Francesco Cesco,</b><br />
+<br />
+They are renamed by adding a counter after the file name.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:784</guid>
+      <pubDate>Tue, 30 Sep 2014 21:14:52 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/783/#post783</link>
+      <description><![CDATA[Hello,<br />
+what happens if there are duplicates with the same name? Are they skipped or are they renamed?]]></description>
+      <author><![CDATA[Francesco Cesco]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:783</guid>
+      <pubDate>Tue, 30 Sep 2014 20:50:38 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/614/#post614</link>
+      <description><![CDATA[<b>Brian Gregory,</b><br />
+<br />
+No, it doesn't remove attachments.<br />
+We have another utility for this - <!--noindex--><a href="/en/products/all/OutlookAttachmentsRemove/" rel="nofollow">Remove Attachments</a><!--/noindex-->]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:614</guid>
+      <pubDate>Thu, 19 Dec 2013 15:34:18 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/613/#post613</link>
+      <description><![CDATA[Hello.  I have a question about the &quot;Save Attachments&quot; addin.  When the addin saves the attachments from Outlook does it remove the attachments from the emails?  I would like to be able to extract all attachments from a folder in Outlook but I don't want to remove the attachments from the emails themselves.<br />
+<br />
+Thank you.]]></description>
+      <author><![CDATA[Brian Gregory]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:613</guid>
+      <pubDate>Thu, 19 Dec 2013 01:05:51 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/13/13/#post13</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Attachments from Outlook Items and MSG/EML/MBOX Files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:13</guid>
+      <pubDate>Fri, 01 Oct 2010 19:47:51 UT</pubDate>
+    </item>
+  </channel>
+</rss>

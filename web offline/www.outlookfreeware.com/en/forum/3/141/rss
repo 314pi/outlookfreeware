@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Splash Screen: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/141</link>
+    <description><![CDATA[New posts in the topic "Splash Screen" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:53 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Splash Screen]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/141/345/#post345</link>
+      <description><![CDATA[Unfortunately, there is no way to do that in normal view :(]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Splash Screen]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:345</guid>
+      <pubDate>Thu, 23 Feb 2012 18:43:24 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Splash Screen]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/141/344/#post344</link>
+      <description><![CDATA[Thanks, I was hoping it could be done in normal view but minimised is better than nothing.]]></description>
+      <author><![CDATA[Alan Wade]]></author>
+      <category><![CDATA[Splash Screen]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:344</guid>
+      <pubDate>Thu, 23 Feb 2012 15:38:14 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Splash Screen]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/141/343/#post343</link>
+      <description><![CDATA[This is quite easy.<br />
+Just open Outlook shortcut's properties and select <i>Run:</i> <b>Minimized</b> on <i>Shortcut</i> tab. That's it!]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Splash Screen]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:343</guid>
+      <pubDate>Thu, 23 Feb 2012 03:09:11 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Splash Screen]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/141/342/#post342</link>
+      <description><![CDATA[Is it possible to disable the Outlook Splash Screen?<br />
+This has been annoying me for years now.<br />
+<br />
+Regards<br />
+<br />
+Alan]]></description>
+      <author><![CDATA[Alan Wade]]></author>
+      <category><![CDATA[Splash Screen]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:342</guid>
+      <pubDate>Thu, 23 Feb 2012 02:35:55 UT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Headers Report: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/183</link>
+    <description><![CDATA[New posts in the topic "Headers Report" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:48 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Headers Report]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/183/690/#post690</link>
+      <description><![CDATA[Discuss the utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Headers Report]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:690</guid>
+      <pubDate>Wed, 02 Apr 2014 02:01:08 UT</pubDate>
+    </item>
+  </channel>
+</rss>

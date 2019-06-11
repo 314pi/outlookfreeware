@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Redirect Messages: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/138</link>
+    <description><![CDATA[New posts in the topic "Redirect Messages" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:12 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Redirect Messages]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/138/467/#post467</link>
+      <description><![CDATA[<b>Jonathan</b>, it can be achieved by using the command line of our commercial product: <!--noindex--><a href="http://www.ReliefJet.com/Professional" rel="nofollow">ReliefJet Essentials Professional Edition</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Redirect Messages]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:467</guid>
+      <pubDate>Sat, 17 Nov 2012 20:34:29 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Redirect Messages]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/138/466/#post466</link>
+      <description><![CDATA[Is it possible to have this utility auto-execute at a set interval?  For example, run every 30 minutes? and not include items previously synced?  Command line possibly?]]></description>
+      <author><![CDATA[Jonathan McCann]]></author>
+      <category><![CDATA[Redirect Messages]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:466</guid>
+      <pubDate>Fri, 16 Nov 2012 01:24:01 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Redirect Messages]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/138/419/#post419</link>
+      <description><![CDATA[<b>Kris</b>, please try to set &quot;Continue execution on errors&quot; option by clicking &quot;Configure&quot; button on the tool's main window. It looks like you have recipients without email addresses in your messages.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Redirect Messages]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:419</guid>
+      <pubDate>Wed, 13 Jun 2012 18:53:46 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Redirect Messages]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/138/417/#post417</link>
+      <description><![CDATA[Hi <br />
+<br />
+I have configured the redirect utility as per your example. <br />
+<br />
+But in the main window I get message<br />
+<br />
+' Cannot open address entry. '<br />
+<br />
+Any ideas?<br />
+<br />
+Many thanks]]></description>
+      <author><![CDATA[kris bennett]]></author>
+      <category><![CDATA[Redirect Messages]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:417</guid>
+      <pubDate>Wed, 13 Jun 2012 01:00:07 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Redirect Messages]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/138/284/#post284</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Redirect Messages]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:284</guid>
+      <pubDate>Fri, 14 Oct 2011 20:36:46 UT</pubDate>
+    </item>
+  </channel>
+</rss>

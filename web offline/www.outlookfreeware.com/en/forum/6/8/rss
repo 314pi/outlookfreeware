@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Add Attachments: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/8</link>
+    <description><![CDATA[New posts in the topic "Add Attachments" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:18:56 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Add Attachments]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/8/1187/#post1187</link>
+      <description><![CDATA[<b>Lucian Turcu</b>, <br />
+<br />
+You can't add different attachments with this utility.<br />
+If you need to add different attachments for every contact in the list in mailings you can use the advanced version of <!--noindex--><a href="/en/products/all/OutlookMessagesMailMerge" rel="nofollow">Mail Merge with Attachments utility</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Add Attachments]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1187</guid>
+      <pubDate>Tue, 29 Jan 2019 13:39:56 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Add Attachments]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/8/1186/#post1186</link>
+      <description><![CDATA[Can I add a different attachment for every contact in the list?]]></description>
+      <author><![CDATA[Lucian Turcu]]></author>
+      <category><![CDATA[Add Attachments]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1186</guid>
+      <pubDate>Tue, 29 Jan 2019 10:58:07 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Add Attachments]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/8/8/#post8</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Add Attachments]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:8</guid>
+      <pubDate>Fri, 01 Oct 2010 19:43:12 UT</pubDate>
+    </item>
+  </channel>
+</rss>

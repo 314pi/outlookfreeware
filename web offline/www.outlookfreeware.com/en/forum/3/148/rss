@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Error with Remove Duplicate contacts: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/148</link>
+    <description><![CDATA[New posts in the topic "Error with Remove Duplicate contacts" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:00:41 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/744/#post744</link>
+      <description><![CDATA[<b>Elwyn Frey,</b><br />
+<br />
+What type of account do you have?<br />
+You can try to use <!--noindex--><a href="/en/products/all/OutlookMessagesMarkDuplicates" rel="nofollow">Marks duplicates messages</a><!--/noindex--> to mark duplicates with a category and review them using search folder.<br />
+You can look at such example on our <!--noindex--><a href="http://www.youtube.com/watch?v=6XUqdeT4qr4" rel="nofollow">video</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:744</guid>
+      <pubDate>Wed, 25 Jun 2014 16:21:21 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/742/#post742</link>
+      <description><![CDATA[I keep getting the error message &quot;Unable to open folder for deleted duplicates&quot;. I don't want to permanently delete items before I've had a chance to review them.  What am I doing wrong?]]></description>
+      <author><![CDATA[Elwyn Frey]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:742</guid>
+      <pubDate>Wed, 25 Jun 2014 04:24:24 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/425/#post425</link>
+      <description><![CDATA[<b>Brian</b>, do you have any other Outlook add-ins installed?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:425</guid>
+      <pubDate>Tue, 17 Jul 2012 16:28:41 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/424/#post424</link>
+      <description><![CDATA[I'm having the same problem. I updated the .NET framework and re-installed the Runtime, but am getting the same error message. Any idea what the problem is? I'm also running Windows 7, Outlook 2010.]]></description>
+      <author><![CDATA[Brian Petros]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:424</guid>
+      <pubDate>Tue, 17 Jul 2012 05:13:11 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/420/#post420</link>
+      <description><![CDATA[<b>Charlene</b>, it seems like your .NET Framework or OutlookFreeware.com Runtime installation is corrupted. Try to install .NET using the download page at Microsoft: <!--noindex--><a href="http://www.microsoft.com/download/details.aspx?id=17851" rel="nofollow">http://www.microsoft.com/download/details.aspx?id=17851</a><!--/noindex--><br />
+After that you can try to re-download and re-install our runtime using the download page: <!--noindex--><a href="/en/runtime.aspx" rel="nofollow"><!--noindex--><a href="http://www.outlookfreeware.com/en/runtime.aspx" rel="nofollow">http://www.outlookfreeware.com/en/runtime.aspx</a><!--/noindex--></a><!--/noindex-->]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:420</guid>
+      <pubDate>Wed, 13 Jun 2012 18:56:35 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/418/#post418</link>
+      <description><![CDATA[Outlook is 2010 and Windows 7, thanks]]></description>
+      <author><![CDATA[Charlene]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:418</guid>
+      <pubDate>Wed, 13 Jun 2012 04:00:25 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/416/#post416</link>
+      <description><![CDATA[<b>Charlene</b>, can you please tell us your Outlook and Windows versions?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:416</guid>
+      <pubDate>Tue, 12 Jun 2012 13:45:52 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Error with Remove Duplicate contacts]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/148/415/#post415</link>
+      <description><![CDATA[Hi, I downloaded the add in to remove duplicate contacts, but when I click on it, a message appears saying &quot;Can not create outlook runtime loader. Can't find setup. Failed to load Outlook addin with code: 0X80131602&quot;. What can I do? thanks]]></description>
+      <author><![CDATA[Charlene]]></author>
+      <category><![CDATA[Error with Remove Duplicate contacts]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:415</guid>
+      <pubDate>Tue, 12 Jun 2012 12:11:42 UT</pubDate>
+    </item>
+  </channel>
+</rss>

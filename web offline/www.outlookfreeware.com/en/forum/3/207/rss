@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Compacting PST files: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/207</link>
+    <description><![CDATA[New posts in the topic "Compacting PST files" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:01:29 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Compacting PST files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/207/801/#post801</link>
+      <description><![CDATA[<b>John Barker,</b><br />
+<br />
+a) It happens some times. One of the reason that the PST file is corrupt. You can try to fix it using ScanPST utility and then to compact again.<br />
+b) Compacting a database is a complicate task. The more mails you have deleted then longer compressing will be. It is recommended to compact more often.<br />
+c) Generally, compacting should transfer less data. But creating a new data file and copy there the information is better sometimes. But this method is not always useful. As you need to detach an old storage and attach a new one. You will need to re-create Outlook rules which work with the store and export/import Master Category List as it stored in the storage, etc.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Compacting PST files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:801</guid>
+      <pubDate>Mon, 29 Dec 2014 19:38:56 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Compacting PST files]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/207/800/#post800</link>
+      <description><![CDATA[Every December I archive the year's emails for all the users at one of my clients.<br />
+<br />
+After using the Archive utility, I use Compact Now to reclaim the space freed up by the archiving procedure. However, I have found that, apart from taking several hours to run on large (&gt;5GB) PST files, it doesn't always reduce the file size as much as it should.<br />
+<br />
+This year I found one user's data was particularly troublesome. The PST file size before archiving and compacting was about 4.5GB - after processing, it came down to 2.7GB.  However, if I run a Folder Size query from the folder properties dialogue, it shows the total contents of the folder as a few hundred KB.  The first compacting operation took about two hours. I repeated the operation, which completed in a few seconds and made no difference to the file size.  I then Exported the entire contents of the compacted folder to a new PST.  This took a few minutes and the resulting file size was a few MB - exactly what I would have expected after archiving.<br />
+<br />
+I'm now wondering:<br />
+a) Why the Compact Now process doesn't always seem to work as expected<br />
+b) Why it takes so long<br />
+and<br />
+c) Is Exporting the datafile contents to a new PST (which takes a fraction of the time it takes to compact) a valid substitute for compaction?]]></description>
+      <author><![CDATA[John Barker]]></author>
+      <category><![CDATA[Compacting PST files]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:800</guid>
+      <pubDate>Sat, 27 Dec 2014 22:01:35 UT</pubDate>
+    </item>
+  </channel>
+</rss>

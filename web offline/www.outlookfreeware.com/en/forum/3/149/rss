@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/149</link>
+    <description><![CDATA[New posts in the topic "OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:00:33 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/149/430/#post430</link>
+      <description><![CDATA[<b>Jackie</b>, unfortunately this is not possible. This is because &quot;File As&quot; is an Outlook contact's property. And address picker works with any registered address book. Many of them do not provide &quot;File As&quot; property.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:430</guid>
+      <pubDate>Tue, 24 Jul 2012 16:26:43 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/149/429/#post429</link>
+      <description><![CDATA[How true if anything came up.<br />
+New laptop, no previous choices.<br />
+I do have the contacts completed so want them to sort in the To: choices by &quot;FILE AS&quot;<br />
+Not by name.]]></description>
+      <author><![CDATA[jackidance]]></author>
+      <category><![CDATA[OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:429</guid>
+      <pubDate>Mon, 23 Jul 2012 16:36:12 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/149/428/#post428</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>Outlook Freeware:<br />
+<b>Jackie</b>, basically you just start typing your contact's email or name right in to the text box next to the &quot;To...&quot; button and Outlook will suggest you the appropriate contact. This is the most common way to increase your productivity while selecting recipients.</td></tr></table>]]></description>
+      <author><![CDATA[jackidance]]></author>
+      <category><![CDATA[OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:428</guid>
+      <pubDate>Mon, 23 Jul 2012 16:35:05 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/149/427/#post427</link>
+      <description><![CDATA[<b>Jackie</b>, basically you just start typing your contact's email or name right in to the text box next to the &quot;To...&quot; button and Outlook will suggest you the appropriate contact. This is the most common way to increase your productivity while selecting recipients.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:427</guid>
+      <pubDate>Mon, 23 Jul 2012 16:17:26 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/149/426/#post426</link>
+      <description><![CDATA[I need some help in changing the order of the popup box choices I am given when sending a new email and i want to send it to one of my contacts using the To: choices.<br />
+the contact I send to most frequently is way down in the middle of the pack. I have it listed as #1 and the email address is info1.... yet, as you can see the info is an &quot;I&quot; so down in the middle someplace. <br />
+How can I set up this contact choice so that the &quot;FILE AS&quot; column is the sorted column and comes up first?<br />
+I can't seem to get it changed from &quot;NAME&quot; as the first and sorted column!!!! UGH.<br />
+thanks for any help anyone can suggest.<br />
+This is in Outlook 2010 so hopefully someone using this program will be able to go to the new email/and choose the To: to see what I am talking about.<br />
+thanks again....]]></description>
+      <author><![CDATA[Jackie Koetz]]></author>
+      <category><![CDATA[OUTLOOK 2010 / Sending a new email using the To:  and the choices this gives me]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:426</guid>
+      <pubDate>Mon, 23 Jul 2012 15:21:54 UT</pubDate>
+    </item>
+  </channel>
+</rss>

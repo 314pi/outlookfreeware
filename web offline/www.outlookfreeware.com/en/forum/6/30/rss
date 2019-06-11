@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Folders with the Largest Number of Messages: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/30</link>
+    <description><![CDATA[New posts in the topic "Folders with the Largest Number of Messages" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:04 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Folders with the Largest Number of Messages]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/30/30/#post30</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Folders with the Largest Number of Messages]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:30</guid>
+      <pubDate>Fri, 01 Oct 2010 19:56:37 UT</pubDate>
+    </item>
+  </channel>
+</rss>

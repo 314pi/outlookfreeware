@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Save All Headers: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/20</link>
+    <description><![CDATA[New posts in the topic "Save All Headers" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:26:29 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Save All Headers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/20/1072/#post1072</link>
+      <description><![CDATA[<b>Sunny Bentley</b>, <br />
+<br />
+The runtime and the utiltiy should be the same version.<br />
+The best method to do it, is to download them at the same time from the website and install.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save All Headers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1072</guid>
+      <pubDate>Tue, 30 Jan 2018 17:40:23 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save All Headers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/20/1070/#post1070</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+I have downloaded the latest version of runtime and installed it.  I'm still receiving the error in Outlook.  Do I need to rerun the &quot;OutlookHeadersSaveAllSetup.exe&quot; at this point?]]></description>
+      <author><![CDATA[Sunny Bentley]]></author>
+      <category><![CDATA[Save All Headers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1070</guid>
+      <pubDate>Tue, 30 Jan 2018 17:18:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save All Headers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/20/1062/#post1062</link>
+      <description><![CDATA[<b>Sunny Bentley</b>, <br />
+<br />
+You can download the latest version of runtime here:<br />
+<!--noindex--><a href="https://www.outlookfreeware.com/en/runtime.aspx" rel="nofollow">https://www.outlookfreeware.com/en/runtime.aspx</a><!--/noindex-->]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save All Headers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1062</guid>
+      <pubDate>Tue, 23 Jan 2018 17:47:01 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save All Headers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/20/1061/#post1061</link>
+      <description><![CDATA[I have installed &quot;Save All Field Values&quot; (free) without error.  In Outlook, when I click the &quot;Save All Field Values&quot; link, I receive an error:<br />
+<br />
+Installed Runtime version is incompatible with this utility.  Do you want to visit our website to download the compatible version?<br />
+<br />
+When I click Yes, I'm directed to this page:<br />
+<!--noindex--><a href="https://www.outlookfreeware.com/en/" rel="nofollow">https://www.outlookfreeware.com/en/</a><!--/noindex--><br />
+<br />
+Not sure what to do at this point?]]></description>
+      <author><![CDATA[Sunny Bentley]]></author>
+      <category><![CDATA[Save All Headers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1061</guid>
+      <pubDate>Tue, 23 Jan 2018 17:30:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save All Headers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/20/735/#post735</link>
+      <description><![CDATA[<b>Janis Stiprais,</b><br />
+<br />
+It is possible that email message doesn't contain any IP.<br />
+&quot;Save All Headers&quot; utility save information from all email headers]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save All Headers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:735</guid>
+      <pubDate>Mon, 16 Jun 2014 21:56:42 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save All Headers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/20/734/#post734</link>
+      <description><![CDATA[How to see IP adress in Outlook 2010 in Save all headers file? I can see everything except IP address? Thank you.]]></description>
+      <author><![CDATA[Janis Stiprais]]></author>
+      <category><![CDATA[Save All Headers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:734</guid>
+      <pubDate>Mon, 16 Jun 2014 00:26:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Save All Headers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/20/20/#post20</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save All Headers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:20</guid>
+      <pubDate>Fri, 01 Oct 2010 19:53:01 UT</pubDate>
+    </item>
+  </channel>
+</rss>

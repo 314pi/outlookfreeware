@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[How to manage Outlook properly?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/170</link>
+    <description><![CDATA[New posts in the topic "How to manage Outlook properly?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:58:26 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: How to manage Outlook properly?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/170/1236/#post1236</link>
+      <description><![CDATA[Thank you! Now I can easily Split my Large size pst file into multiple Small PST file without any problem just using your OutlookFreeware.com Split PST Files tool.]]></description>
+      <author><![CDATA[Madyson swift]]></author>
+      <category><![CDATA[How to manage Outlook properly?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1236</guid>
+      <pubDate>Thu, 28 Mar 2019 13:40:28 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: How to manage Outlook properly?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/170/597/#post597</link>
+      <description><![CDATA[Anndy Margaret,<br />
+<br />
+Unfortunately, most Outlook features work only with default folders (Inbox, Contacts, Journals, etc.).<br />
+So, usually, PSTs are split by date. The Archive PST file is created and old items are moved there.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[How to manage Outlook properly?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:597</guid>
+      <pubDate>Mon, 18 Nov 2013 17:16:31 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to manage Outlook properly?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/170/596/#post596</link>
+      <description><![CDATA[For last few year, I have been using same PST files with Outlook and now its grows quite big ( 2.6 GB). To speed up Outlook performance and to manage Outlook properly , i thought about splitting PST files . Can I split my PST files into smaller parts - journals, contacts, calendars, task etc.]]></description>
+      <author><![CDATA[anndy margaret]]></author>
+      <category><![CDATA[How to manage Outlook properly?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:596</guid>
+      <pubDate>Mon, 18 Nov 2013 13:25:48 UT</pubDate>
+    </item>
+  </channel>
+</rss>

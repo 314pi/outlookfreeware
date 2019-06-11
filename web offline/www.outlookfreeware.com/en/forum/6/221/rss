@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Backup Outlook Folders and Items: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/221</link>
+    <description><![CDATA[New posts in the topic "Backup Outlook Folders and Items" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:20:04 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Backup Outlook Folders and Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/221/1166/#post1166</link>
+      <description><![CDATA[<b>Art Malin</b>, <br />
+<br />
+This option available in the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookFolderBackup?src=fw" rel="nofollow">Advanced version of the utility</a><!--/noindex--> only.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Backup Outlook Folders and Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1166</guid>
+      <pubDate>Wed, 09 Jan 2019 13:18:20 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Backup Outlook Folders and Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/221/1162/#post1162</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, I can't find the 'CSV backup report file', where can I find it or specify its location?]]></description>
+      <author><![CDATA[Art Malin]]></author>
+      <category><![CDATA[Backup Outlook Folders and Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1162</guid>
+      <pubDate>Fri, 04 Jan 2019 03:53:36 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Backup Outlook Folders and Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/221/890/#post890</link>
+      <description><![CDATA[<b>zbx,</b><br />
+<br />
+It is not possible with free utilities.<br />
+We have a commercial product called <!--noindex--><a href="http://www.reliefjet.com/Essentials" rel="nofollow">ReliefJet Essentials</a><!--/noindex-->.<br />
+It has such possibility using Outlook 2007/2010 <!--noindex--><a href="http://www.reliefjet.com/Essentials/Help/WorkingWith-AddIn.htm#_Toc394077126" rel="nofollow">rules integration</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Backup Outlook Folders and Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:890</guid>
+      <pubDate>Wed, 02 Mar 2016 16:17:01 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Backup Outlook Folders and Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/221/888/#post888</link>
+      <description><![CDATA[Hello,<br />
+I need to back up all sent and received messages to eml files in the background or by scheduler without any user actions. Is it possible?]]></description>
+      <author><![CDATA[zbx]]></author>
+      <category><![CDATA[Backup Outlook Folders and Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:888</guid>
+      <pubDate>Tue, 01 Mar 2016 19:13:43 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Backup Outlook Folders and Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/221/860/#post860</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Backup Outlook Folders and Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:860</guid>
+      <pubDate>Thu, 17 Sep 2015 19:15:15 UT</pubDate>
+    </item>
+  </channel>
+</rss>

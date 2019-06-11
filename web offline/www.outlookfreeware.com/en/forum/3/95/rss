@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Exporting emails?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/95</link>
+    <description><![CDATA[New posts in the topic "Exporting emails?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:51:51 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Exporting emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/95/162/#post162</link>
+      <description><![CDATA[<b>chereena</b>, you can export messages as eml in Entourage. To do that just drag them to a folder on Desktop. Look <!--noindex--><a href="http://www.entourage.mvps.org/faq_topic/import_export.html#export2" rel="nofollow">here</a><!--/noindex--> for details.<br />
+After that you can easily import resulting EMLs using our <!--noindex--><a href="http://www.outlookfreeware.com/en/products/all/OutlookMessagesImportEML/" rel="nofollow">Import Messages from EML Format</a><!--/noindex--> tool.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Exporting emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:162</guid>
+      <pubDate>Thu, 24 Feb 2011 17:23:52 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Exporting emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/95/161/#post161</link>
+      <description><![CDATA[I am trying to export my mail from Entourage 2007 to Outlook 2010.  When I use the export feature in Entourage, the file is saved in .rge format.  I have no idea how to turn that into a .msg or .eml.  Anyone know how to help?<br />
+Thank you.]]></description>
+      <author><![CDATA[chereena]]></author>
+      <category><![CDATA[Exporting emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:161</guid>
+      <pubDate>Tue, 22 Feb 2011 05:41:05 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Exporting emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/95/116/#post116</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>Jim Rudnick:<br />
+have d/l both and will give them a try...</td></tr></table>I hope everything is OK now. By the way, we updated all our utilities and runtime.]]></description>
+      <author><![CDATA[Alexey Kuznetsov]]></author>
+      <category><![CDATA[Exporting emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:116</guid>
+      <pubDate>Tue, 16 Nov 2010 02:43:17 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Exporting emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/95/100/#post100</link>
+      <description><![CDATA[If you will be able to export problem messages to MSG and/org EML and send them to us, we will try to find the root of the issue.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Exporting emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:100</guid>
+      <pubDate>Wed, 10 Nov 2010 23:58:25 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Exporting emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/95/99/#post99</link>
+      <description><![CDATA[have d/l both and will give them a try...too bad that Outlook itself suffers from this problem...sigh...<br />
+<br />
+:-(<br />
+<br />
+Jim]]></description>
+      <author><![CDATA[Jim Rudnick]]></author>
+      <category><![CDATA[Exporting emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:99</guid>
+      <pubDate>Wed, 10 Nov 2010 23:14:08 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Exporting emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/95/97/#post97</link>
+      <description><![CDATA[Nice to see you here, Jim,<br />
+First of all try to export using <!--noindex--><a href="http://www.outlookfreeware.com/en/products/all/OutlookMessagesExportMSG" rel="nofollow">Export Messages to MSG Format</a><!--/noindex-->. You can run this utility as a stand-alone tool from Start menu. After that, select folder with this corrupted message(s) and export this folder to file folder of your choice. Then try to open MSG file(s). If it will crash your Outlook also, try another tool: <!--noindex--><a href="http://www.outlookfreeware.com/en/products/all/OutlookMessagesExportEML/" rel="nofollow">Export Messages to EML Format</a><!--/noindex-->. Follow the same steps.]]></description>
+      <author><![CDATA[Alexey Kuznetsov]]></author>
+      <category><![CDATA[Exporting emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:97</guid>
+      <pubDate>Wed, 10 Nov 2010 22:58:48 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Exporting emails?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/95/96/#post96</link>
+      <description><![CDATA[Someone pointed me here, to try to help me with the following problem of corrupted emails shutting down Outlook 2001...<br />
+<br />
+I got an email from a contact over at seomoz.com. It was in response to an email I'd sent him. I just got it like 5 mintues ago..<br />
+<br />
+But every time I try to see the message, using Reading Pane&gt;Bottom....it crashes Outlook2010....and I then click on the damn 'sure, tell MS about this and restart..'<br />
+<br />
+All of which it does - but it reopens Outlook with no Reading Pane. And soon as I add one, then try to read, it's the same old 'crash loop' over and over.<br />
+<br />
+Also, I can not find a way to do anything else in the right/click optional popup pane - I cant print it, forward it, reply to it....save it even as a .txt file --- nada!<br />
+<br />
+IS there an export tool here, that I can use to save out the email as say a plain txt file so that I can still read it? And if so, which one?<br />
+<br />
+Jim]]></description>
+      <author><![CDATA[Jim Rudnick]]></author>
+      <category><![CDATA[Exporting emails?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:96</guid>
+      <pubDate>Wed, 10 Nov 2010 04:38:46 UT</pubDate>
+    </item>
+  </channel>
+</rss>

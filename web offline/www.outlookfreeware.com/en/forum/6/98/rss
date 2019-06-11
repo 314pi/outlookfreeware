@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Export Master Category List: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/98</link>
+    <description><![CDATA[New posts in the topic "Export Master Category List" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:25:29 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Export Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/98/346/#post346</link>
+      <description><![CDATA[That worked.  Thanks!]]></description>
+      <author><![CDATA[RPalm]]></author>
+      <category><![CDATA[Export Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:346</guid>
+      <pubDate>Fri, 24 Feb 2012 15:11:52 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/98/341/#post341</link>
+      <description><![CDATA[<b>RPalm</b>, just export your desktop's Master Category List to an XML file using this utility and then import that XML file on your laptop using <!--noindex--><a href="/en/products/all/OutlookCategoryImport/" rel="nofollow">Import Master Category List</a><!--/noindex--> tool. That's all!]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:341</guid>
+      <pubDate>Wed, 22 Feb 2012 23:40:16 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/98/340/#post340</link>
+      <description><![CDATA[I'm using Outlook 2010 on my desktop, and use mutliple color coded categories on my calendar.  However, when logging in to my laptop none of the categories show up.  I'm assuming the &quot;Export Master Category List&quot; utility addresses this issue?  I've downloaded the utility, but don't know what to do next.  Is there a tutorial on the Outlook Freeware site to walk me through this, or can someone help?]]></description>
+      <author><![CDATA[RPalm]]></author>
+      <category><![CDATA[Export Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:340</guid>
+      <pubDate>Wed, 22 Feb 2012 12:43:49 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/98/193/#post193</link>
+      <description><![CDATA[<b>bkstuart10</b>, try to create at least one category on your win7 desktop. After that assign it to some item. And then try to import with Import Master Category List for Outlook 2007/2010 tool.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:193</guid>
+      <pubDate>Tue, 03 May 2011 20:05:42 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/98/191/#post191</link>
+      <description><![CDATA[I have used the utils to export categories from Outlook 2003 on and XP Pro  desktop the the xml file it creates. I thne copied the file to anohter desktop with WIn 7, 64 bit and Outlook 2010, 32bit.  When i tried to import with the import categories util it gave me error that it could not import and no other info.<br />
+<br />
+ANyyone know what i need to look for or try next?<br />
+<br />
+thanks]]></description>
+      <author><![CDATA[bkstuart10]]></author>
+      <category><![CDATA[Export Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:191</guid>
+      <pubDate>Sat, 30 Apr 2011 01:49:50 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Export Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/98/107/#post107</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:107</guid>
+      <pubDate>Mon, 15 Nov 2010 22:47:29 UT</pubDate>
+    </item>
+  </channel>
+</rss>

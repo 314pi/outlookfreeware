@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[OutlookFreeware Blog]]></title>
+    <link>https://www.outlookfreeware.com/en/blog/rss</link>
+    <description><![CDATA[OutlookFreeware Blog]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 04:57:39 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::iblock.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[How to Remove Duplicates Quickly and Safely in Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-794</link>
+      <description><![CDATA[In this article, you'll find out why you get duplicate messages, contacts, and other Outlook items. We'll tell you how to prevent duplicates from appearing. And most importantly, we'll describe ways to automatically find and remove Outlook duplicates.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:794</guid>
+      <pubDate>Thu, 07 Dec 2017 08:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Convert Outlook MSG to EML Files]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-748</link>
+      <description><![CDATA[Step by step tutorial on converting files from Outlook MSG to EML format files recognizable by all major email clients.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:748</guid>
+      <pubDate>Tue, 25 Oct 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Export Outlook Folders to PST File]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-747</link>
+      <description><![CDATA[This step by step tutorial shows how to export Outlook folders, emails and other items to PST data files easily.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:747</guid>
+      <pubDate>Fri, 30 Sep 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Convert EML to MSG for Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-745</link>
+      <description><![CDATA[Step by step tutorial on converting files of EML or Apple EMLX format to Outlook MSG files with a single click of a mouse.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:745</guid>
+      <pubDate>Fri, 16 Sep 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Export Outlook Contacts to vCard VCF]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-742</link>
+      <description><![CDATA[This step by step tutorial shows how to export Outlook contact folders into vCard (VCF) files for backup and migration purposes.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:742</guid>
+      <pubDate>Fri, 09 Sep 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Answers to Your Questions About Outlook #1]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-741</link>
+      <description><![CDATA[Lately, we have received a large number of questions, comments, suggestions, and kind words. Thank you very much for these! In this post we present you a new regular blog rubric: answers to most frequently asked questions about Outlook.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:741</guid>
+      <pubDate>Tue, 06 Sep 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Split Large Outlook PST File into Smaller Parts]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-739</link>
+      <description><![CDATA[This step by step tutorial shows how to safely and quickly split large Outlook mailboxes and PST files into PST files of smaller size.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:739</guid>
+      <pubDate>Fri, 02 Sep 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Avoid Common Mistakes When Replying to Outlook Conversations]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-736</link>
+      <description><![CDATA[A few tips on how to avoid common mistakes when replying to Outlook email messages. These tips will help you to look more professional and will make your life easier.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:736</guid>
+      <pubDate>Tue, 30 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Remove Duplicate Contacts from Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-735</link>
+      <description><![CDATA[This step by step tutorial shows how to safely delete duplicate contacts in Outlook contact folders and be able to restore deleted contacts.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:735</guid>
+      <pubDate>Fri, 26 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Outlook Performance Optimization]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-733</link>
+      <description><![CDATA[Many users wonder - why Outlook became so slow, although previously everything was OK? Others are simply unhappy with the performance of Outlook when working with Exchange/Office 365/IMAP and other mailboxes. How to speed up Outlook using the simplest methods?]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:733</guid>
+      <pubDate>Tue, 23 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Remove Duplicate Messages from Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-731</link>
+      <description><![CDATA[This step by step tutorial shows how to delete duplicate email messages in Outlook folders in an easy and safe manner.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:731</guid>
+      <pubDate>Fri, 19 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Optimize Routine Operations in Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-727</link>
+      <description><![CDATA[Several basic ways to simplify and speed up the work with email in Outlook that will help to save your precious time every day.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:727</guid>
+      <pubDate>Tue, 16 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Export Outlook Email Messages to EML Files]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-725</link>
+      <description><![CDATA[This step by step tutorial shows how to export Outlook email messages to files of EML format from selected Outlook folders to the folder on your disk or network share.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:725</guid>
+      <pubDate>Fri, 12 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Removing Duplicate Outlook Attachments]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-723</link>
+      <description><![CDATA[This is the story of one of our managers who decided to get rid of duplicate attachments in his Outlook mailbox. Removing duplicate attachments saves a lot of mailbox space and makes Outlook to perform fast and more reliable.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:723</guid>
+      <pubDate>Tue, 09 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Import EML Files into Outlook]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-721</link>
+      <description><![CDATA[This step by step tutorial shows how to import email messages from EML and EMLX files into selected Outlook folder.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:721</guid>
+      <pubDate>Fri, 05 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Assessing the Productivity When Working with Outlook Email]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-719</link>
+      <description><![CDATA[The easy way to measure the information worker performance when working with email in Outlook is to count the number of actions, measure the average reaction time and get the required reports and charts.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:719</guid>
+      <pubDate>Tue, 02 Aug 2016 07:00:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[All About Outlook Auto-Complete Lists]]></title>
+      <link>https://www.outlookfreeware.com/en/blog/0/post-716</link>
+      <description><![CDATA[Outlook Auto-Complete Lists under the hood. You will learn how to save, load, edit and make a backup of Outlook AutoComplete lists. We'll show you where Outlook stores Auto-Complete lists and files. You will be able to view all AutoComplete data, including names and email addresses.]]></description>
+      <guid isPermaLink="false">urn:bitrix:iblockelement:716</guid>
+      <pubDate>Wed, 27 Jul 2016 07:00:00 UT</pubDate>
+    </item>
+  </channel>
+</rss>

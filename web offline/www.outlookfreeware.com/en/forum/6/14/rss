@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Unpack Attachments: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/14</link>
+    <description><![CDATA[New posts in the topic "Unpack Attachments" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:08 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Unpack Attachments]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/14/14/#post14</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Unpack Attachments]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:14</guid>
+      <pubDate>Fri, 01 Oct 2010 19:49:47 UT</pubDate>
+    </item>
+  </channel>
+</rss>

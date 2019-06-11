@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Export All Master Category Lists for Outlook 2007/2010: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/117</link>
+    <description><![CDATA[New posts in the topic "Export All Master Category Lists for Outlook 2007/2010" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:22:43 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Export All Master Category Lists for Outlook 2007/2010]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/117/153/#post153</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>jandersonceevapgh:<br />
+Am I missing something here? Do I need to upgrade the boss, and import the categories on his Outlook, so she can see them in her Outlook?</td></tr></table>Hi <b>jandersonceevap&#173;gh</b>,<br />
+Since Outlook 2007/2010 uses mailbox to store Master Category List (MCT) (in opposite to Oulook 2003 wich uses Registry for that purpose), she sees MCT taken locally from her storage (not globally from Registry). And her bosses mailbox doesn't contain MCT since he/she still uses Outlook 2003.<br />
+So you're right. After upgrading her bosses Outlook to 2010 and importing MCT there categories should become available.<br />
+Alternatively (if it's possible) she can open her bosses mailbox as <i>default storage</i> and import MCT again.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export All Master Category Lists for Outlook 2007/2010]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:153</guid>
+      <pubDate>Thu, 27 Jan 2011 22:51:04 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export All Master Category Lists for Outlook 2007/2010]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/117/152/#post152</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, Hi - I've got a question about this.  I've got an Exchange 2003 server (for about another 3 weeks, then it's 2010 time), anyway, I have a user that adds categories to her bosses contacts.<br />
+<br />
+I recently upgrade her to Office 2010.  I exported the categories from Outlook 2003, and imported them into 2010.  I now see the categories available for her contacts, but not her bosses.<br />
+<br />
+Am I missing something here?   Do I need to upgrade the boss, and import the categories on his Outlook, so she can see them in her Outlook?<br />
+<br />
+Seems a little weird to me.<br />
+<br />
+Thanks.]]></description>
+      <author><![CDATA[jandersonceevapgh]]></author>
+      <category><![CDATA[Export All Master Category Lists for Outlook 2007/2010]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:152</guid>
+      <pubDate>Thu, 27 Jan 2011 08:38:48 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Export All Master Category Lists for Outlook 2007/2010]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/117/130/#post130</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export All Master Category Lists for Outlook 2007/2010]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:130</guid>
+      <pubDate>Wed, 01 Dec 2010 00:06:16 UT</pubDate>
+    </item>
+  </channel>
+</rss>

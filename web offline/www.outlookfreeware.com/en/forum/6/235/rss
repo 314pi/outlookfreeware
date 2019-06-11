@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Change Contact Fields: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/235</link>
+    <description><![CDATA[New posts in the topic "Change Contact Fields" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:20:17 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Change Contact Fields]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/235/903/#post903</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Change Contact Fields]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:903</guid>
+      <pubDate>Mon, 30 May 2016 20:32:48 UT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Rotating schedule: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/135</link>
+    <description><![CDATA[New posts in the topic "Rotating schedule" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:04:13 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Rotating schedule]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/135/250/#post250</link>
+      <description><![CDATA[<b>Michael</b>, from what we understand, you want to create a separate schedule for each class by using recurring events? If so, what do you want to avoid? Just create recurring events for each class.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Rotating schedule]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:250</guid>
+      <pubDate>Thu, 01 Sep 2011 00:16:47 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rotating schedule]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/135/249/#post249</link>
+      <description><![CDATA[Our school is changing to a rotating class schedule with a 6 day rotation.  This rotation will need to be adjusted to accomodate holidays and school closings.  We're using Outlook 2010.  Is there a way to use recurring events to avoid entering each class on each day?]]></description>
+      <author><![CDATA[Michael Blase]]></author>
+      <category><![CDATA[Rotating schedule]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:249</guid>
+      <pubDate>Wed, 31 Aug 2011 00:58:07 UT</pubDate>
+    </item>
+  </channel>
+</rss>

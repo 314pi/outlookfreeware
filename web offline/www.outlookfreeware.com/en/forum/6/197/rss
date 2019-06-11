@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Find and Remove Duplicate Attachments: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/197</link>
+    <description><![CDATA[New posts in the topic "Find and Remove Duplicate Attachments" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:22:34 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Find and Remove Duplicate Attachments]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/197/758/#post758</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Find and Remove Duplicate Attachments]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:758</guid>
+      <pubDate>Fri, 22 Aug 2014 17:26:03 UT</pubDate>
+    </item>
+  </channel>
+</rss>

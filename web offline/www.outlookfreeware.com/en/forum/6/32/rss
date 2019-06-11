@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Message Statistics: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/32</link>
+    <description><![CDATA[New posts in the topic "Message Statistics" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:50 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Message Statistics]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/32/32/#post32</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Message Statistics]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:32</guid>
+      <pubDate>Fri, 01 Oct 2010 19:57:10 UT</pubDate>
+    </item>
+  </channel>
+</rss>

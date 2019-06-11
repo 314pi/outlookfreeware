@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Can help me to change from OST to MBOX file: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/276</link>
+    <description><![CDATA[New posts in the topic "Can help me to change from OST to MBOX file" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:49:47 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Can help me to change from OST to MBOX file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/276/1202/#post1202</link>
+      <description><![CDATA[Hi, I understand that you want to know about the best third party software to convert OST to MBOX. If you search on Google you will come up with many third-party software that you can use to convert OST to MBOX. Unfortunately, most of them don't work.]]></description>
+      <author><![CDATA[Karsyn Camren]]></author>
+      <category><![CDATA[Can help me to change from OST to MBOX file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1202</guid>
+      <pubDate>Mon, 04 Mar 2019 08:55:58 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Can help me to change from OST to MBOX file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/276/1103/#post1103</link>
+      <description><![CDATA[<b>BENNET TRANDY</b>, <br />
+<br />
+You can use <!--noindex--><a href="/en/products/all/OutlookMessagesExportMBOX" rel="nofollow">Export Messages to MBOX File</a><!--/noindex--> if your OST is connected to Outlook.<br />
+Unfortunately, we have no utilities to convert disconnected OST files to MBOX.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Can help me to change from OST to MBOX file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1103</guid>
+      <pubDate>Thu, 19 Jul 2018 12:45:37 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Can help me to change from OST to MBOX file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/276/1102/#post1102</link>
+      <description><![CDATA[reply my question]]></description>
+      <author><![CDATA[BENNET TRANDY]]></author>
+      <category><![CDATA[Can help me to change from OST to MBOX file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1102</guid>
+      <pubDate>Wed, 18 Jul 2018 09:42:40 UT</pubDate>
+    </item>
+  </channel>
+</rss>

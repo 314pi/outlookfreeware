@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[remove duplicate calendar items - not working: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/145</link>
+    <description><![CDATA[New posts in the topic "remove duplicate calendar items - not working" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:01:08 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: remove duplicate calendar items - not working]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/145/393/#post393</link>
+      <description><![CDATA[<b>Mark</b>, please uninstall your version of OutlookFreeware.com Runtime, then download and install both: <!--noindex--><a href="/en/runtime.aspx" rel="nofollow">OurlookFreeware.com Runtime</a><!--/noindex--> <i>and</i> <!--noindex--><a href="/en/products/all/OutlookAppointmentsRemoveDuplicates" rel="nofollow">Remove Duplicate Calendar Items</a><!--/noindex--> utility.<br />
+<br />
+It looks like you have old Runtime version and new utility version on your machine.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[remove duplicate calendar items - not working]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:393</guid>
+      <pubDate>Wed, 25 Apr 2012 20:06:03 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[remove duplicate calendar items - not working]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/145/392/#post392</link>
+      <description><![CDATA[when i try to run 'remove duplicate calendar items', i get a msg saying &quot;installed runtime version is incompatible with this utility.&quot; Help.]]></description>
+      <author><![CDATA[Mark Cooper]]></author>
+      <category><![CDATA[remove duplicate calendar items - not working]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:392</guid>
+      <pubDate>Wed, 25 Apr 2012 02:43:27 UT</pubDate>
+    </item>
+  </channel>
+</rss>

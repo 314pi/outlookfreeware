@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[upgarde outlook pst file: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/295</link>
+    <description><![CDATA[New posts in the topic "upgarde outlook pst file" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:49:22 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: upgarde outlook pst file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/295/1179/#post1179</link>
+      <description><![CDATA[this is very simple, you can easily search google there are multiple pst to pst converter software, but only few tools works with outlook 2013 and outlook 2016. i check a tool with outlook 2016 only this tool is working fine with outlook 2016.]]></description>
+      <author><![CDATA[Lyra Gilbert]]></author>
+      <category><![CDATA[upgarde outlook pst file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1179</guid>
+      <pubDate>Mon, 28 Jan 2019 12:07:09 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: upgarde outlook pst file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/295/1178/#post1178</link>
+      <description><![CDATA[<b>Antoine Oliver</b>, <br />
+<br />
+The 2GB limit applies to ANSI format .pst file. This format was used in Outlook 2002/XP or previous.<br />
+You can create a new PST file if you have a newer Outlook.<br />
+By default, a Unicode .pst can grow as large as 20GB in Outlook 2007 and 50GB in Outlook 2010, 2013, 2016, 2019 and Office 365.<br />
+You can use <!--noindex--><a href="/en/products/all/OutlookItemsExportPST" rel="nofollow">Export Outlook Items to PST File</a><!--/noindex--> utility to copy all items to a Unicode PST file.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[upgarde outlook pst file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1178</guid>
+      <pubDate>Mon, 28 Jan 2019 11:51:20 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[upgarde outlook pst file]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/295/1177/#post1177</link>
+      <description><![CDATA[I have an Outlook PST file that stores data up to 2GB, after which there is no mail. There is no such thing which will help to extend its limit or be unlimited.]]></description>
+      <author><![CDATA[Antoine Oliver]]></author>
+      <category><![CDATA[upgarde outlook pst file]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1177</guid>
+      <pubDate>Mon, 28 Jan 2019 09:49:11 UT</pubDate>
+    </item>
+  </channel>
+</rss>

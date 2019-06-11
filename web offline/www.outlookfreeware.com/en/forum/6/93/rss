@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Storage Report: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/93</link>
+    <description><![CDATA[New posts in the topic "Storage Report" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:43 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Storage Report]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/93/93/#post93</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Storage Report]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:93</guid>
+      <pubDate>Thu, 28 Oct 2010 19:49:12 UT</pubDate>
+    </item>
+  </channel>
+</rss>

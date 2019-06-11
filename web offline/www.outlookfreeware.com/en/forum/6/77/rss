@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Save URLs: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/77</link>
+    <description><![CDATA[New posts in the topic "Save URLs" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:26:57 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Save URLs]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/77/720/#post720</link>
+      <description><![CDATA[<b>Rob Ayers,</b><br />
+<br />
+Thank you for a feedback.<br />
+We will add such option in the future version.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save URLs]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:720</guid>
+      <pubDate>Fri, 23 May 2014 20:21:57 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save URLs]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/77/719/#post719</link>
+      <description><![CDATA[Can you add a switch/option to only parse the urls in the actual body of the message? It appears to be parsing all of the urls from the entire message.<br />
+<br />
+Thanks<br />
+Robert]]></description>
+      <author><![CDATA[Rob Ayers]]></author>
+      <category><![CDATA[Save URLs]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:719</guid>
+      <pubDate>Fri, 23 May 2014 03:30:10 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Save URLs]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/77/77/#post77</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save URLs]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:77</guid>
+      <pubDate>Tue, 12 Oct 2010 20:24:08 UT</pubDate>
+    </item>
+  </channel>
+</rss>

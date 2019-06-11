@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Backward compatibility of utilities: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/192</link>
+    <description><![CDATA[New posts in the topic "Backward compatibility of utilities" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:01:39 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Backward compatibility of utilities]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/192/745/#post745</link>
+      <description><![CDATA[<b>Andrzej Hirszowski,</b><br />
+<br />
+We have re-write our internal engine in 3.0.0 version. This cause incompatibility of a new runtime with old utilities. But this also allow to us to create a &quot;some new really useful utilities&quot; and also improve stability and performance of old utilities.<br />
+<br />
+If you don't want to re-download 30 utilities then you can use our commercial product <!--noindex--><a href="http://www.reliefjet.com/" rel="nofollow">ReliefJet Essentials for Outlook</a><!--/noindex-->. It has a single download file and include all OutlookFreeware utilities with Advanced versions and few additional utilities.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Backward compatibility of utilities]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:745</guid>
+      <pubDate>Wed, 25 Jun 2014 16:34:17 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Backward compatibility of utilities]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/192/743/#post743</link>
+      <description><![CDATA[I’ll tell you what I did and how I got shocked. <br />
+<br />
+I had seamlessly working runtime and ca 30 utilities downloaded on Jan. 19, 2014. Today I visited your site and found some new really useful utilities which I downloaded and tried to install. The soft informed that runtime update is needed. So I downloaded an updated version of your runtime setup, installed (i.e. the soft quite logically required unistallation of the previous version and then could be installed). Then I installed newly downloaded utilities. Installation went fine. And then? Whenever I open your software whether as Outlook addin, or in a standalone version, I find that actually all utilities from January this year are outdated and cannot be used. My version of Outlook (2003) and system environment have not changed since the first download. <br />
+Three big questions: <br />
+1) is it really true that your runtime update is not backward compatible with the previous version so that utilities using the previous version get inoperable under the runtime in a new version? <br />
+2) do I really need to re-download all my 30 utilities downloaded only 6 months ago??? If so, it’s really disappointing because I am used to qualified software which is mostly backward compatible when used in the same environment, except exceptionally important updates. Downloading and installing some 30 utilities is a time-consuming operation and I cherish my time;<br />
+3) is there a workaround of the issue, that could save time of mine and of other users? <br />
+<br />
+Your assistance will be really appreciated.<br />
+<br />
+Regards<br />
+Andy Hirszowski]]></description>
+      <author><![CDATA[Andrzej Hirszowski]]></author>
+      <category><![CDATA[Backward compatibility of utilities]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:743</guid>
+      <pubDate>Wed, 25 Jun 2014 06:24:46 UT</pubDate>
+    </item>
+  </channel>
+</rss>

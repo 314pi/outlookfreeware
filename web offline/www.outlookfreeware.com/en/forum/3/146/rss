@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Export / import Profile settings: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/146</link>
+    <description><![CDATA[New posts in the topic "Export / import Profile settings" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:01:02 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Export / import Profile settings]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/146/541/#post541</link>
+      <description><![CDATA[Andrea, unfortunately, we have no exact time when this utility will be available.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Export / import Profile settings]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:541</guid>
+      <pubDate>Mon, 19 Aug 2013 22:15:33 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export / import Profile settings]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/146/540/#post540</link>
+      <description><![CDATA[Hello Developers...<br />
+<br />
+any news about a tool to export / import account's settings?<br />
+<br />
+Thanks in advance.<br />
+<br />
+Andrea.]]></description>
+      <author><![CDATA[brenta1977]]></author>
+      <category><![CDATA[Export / import Profile settings]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:540</guid>
+      <pubDate>Sat, 17 Aug 2013 17:31:08 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export / import Profile settings]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/146/399/#post399</link>
+      <description><![CDATA[<b>vhe vhe</b>, we'll definitely implement this kind of tool in the future.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export / import Profile settings]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:399</guid>
+      <pubDate>Fri, 04 May 2012 22:57:47 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Export / import Profile settings]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/146/396/#post396</link>
+      <description><![CDATA[Hello developers<br />
+<br />
+Don't you plan to make a utility for exporting Outlook's profiles with all settings to a file (best in xml format) ? It would by very helpful in situations like reinstalation of OS, moving outlook to a new computer and so. Even in case this utility wasn't able to decrypt paswords, it would save a lot of work anyway. I searched for such a utility some time ago and found only big demand for it in forums, but not a working tool, nor a procedure.]]></description>
+      <author><![CDATA[vhe vhe]]></author>
+      <category><![CDATA[Export / import Profile settings]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:396</guid>
+      <pubDate>Fri, 04 May 2012 03:19:58 UT</pubDate>
+    </item>
+  </channel>
+</rss>

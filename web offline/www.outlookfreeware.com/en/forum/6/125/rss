@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Hide and Unhide Fax Numbers: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/125</link>
+    <description><![CDATA[New posts in the topic "Hide and Unhide Fax Numbers" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:09 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Hide and Unhide Fax Numbers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/125/370/#post370</link>
+      <description><![CDATA[<b>Michael</b>, it actually prefixes fax numbers and Outlook will not show these numbers as separate address book entries in the &quot;Select Names&quot; dialog (Outlook shows this dialog when you click on &quot;To&quot;, &quot;Cc&quot; and other email fields). If you want to completely hide fax numbers, just set &quot;Completely hide fax numbers&quot; option.<br />
+<br />
+The operation can always be undone by using the <!--noindex--><a href="/en/products/all/OutlookContactsUnhideFaxNumbers" rel="nofollow">Unhide Fax Numbers</a><!--/noindex--> utility.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Hide and Unhide Fax Numbers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:370</guid>
+      <pubDate>Thu, 29 Mar 2012 17:40:16 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Hide and Unhide Fax Numbers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/125/366/#post366</link>
+      <description><![CDATA[The description of &quot;HIde Fax Numbers&quot; states that this utlity &quot;Hides fax numbers in the Select Names dialog.&quot;<br />
+<br />
+I'm not sure what dialogue that is. The utility appears to simply insert &quot;Fax: &quot; before the contents of any field that is labeled as containing a fax number; those numbers still appear in the address book, in the resolution of names entered in the To: field, and in the contact records.<br />
+<br />
+Can you please describe in more detail what &quot;Hide Fax Numbers&quot; does and what the effect should be?]]></description>
+      <author><![CDATA[Michael Meyers-Jouan]]></author>
+      <category><![CDATA[Hide and Unhide Fax Numbers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:366</guid>
+      <pubDate>Thu, 29 Mar 2012 06:41:36 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hide and Unhide Fax Numbers]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/125/211/#post211</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Hide and Unhide Fax Numbers]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:211</guid>
+      <pubDate>Tue, 21 Jun 2011 17:49:26 UT</pubDate>
+    </item>
+  </channel>
+</rss>

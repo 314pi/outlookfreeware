@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Outlook Plugin: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/152</link>
+    <description><![CDATA[New posts in the topic "Outlook Plugin" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:03:49 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Outlook Plugin]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/152/438/#post438</link>
+      <description><![CDATA[<b><script type="text/javascript">document.write('<a href="mailto:'+'g'+'w'+'1'+'0'+'9'+'9'+'@'+'y'+'a'+'h'+'o'+'o'+'.'+'c'+'o'+'m'+'">'+'g'+'w'+'1'+'0'+'9'+'9'+'@'+'y'+'a'+'h'+'o'+'o'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript></b>, <br />
+<br />
+Never mind, it was staring me right in the face.]]></description>
+      <author><![CDATA[gw1099@yahoo.com]]></author>
+      <category><![CDATA[Outlook Plugin]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:438</guid>
+      <pubDate>Sat, 25 Aug 2012 03:16:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Outlook Plugin]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/152/437/#post437</link>
+      <description><![CDATA[How do you use your products as Outlook add-ins? So they show up on one of the menu bars.<br />
+<br />
+Thanks,<br />
+<br />
+Geoffrey]]></description>
+      <author><![CDATA[gw1099@yahoo.com]]></author>
+      <category><![CDATA[Outlook Plugin]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:437</guid>
+      <pubDate>Sat, 25 Aug 2012 03:15:36 UT</pubDate>
+    </item>
+  </channel>
+</rss>

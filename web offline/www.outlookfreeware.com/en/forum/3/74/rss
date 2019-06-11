@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Any Questions Forum: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/74</link>
+    <description><![CDATA[New posts in the topic "Any Questions Forum" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:57:26 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Any Questions Forum]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/74/74/#post74</link>
+      <description><![CDATA[Please, read <!--noindex--><a href="/en/forum/rules/" rel="nofollow">forum rules</a><!--/noindex--> before asking a question.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Any Questions Forum]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:74</guid>
+      <pubDate>Fri, 01 Oct 2010 22:00:03 UT</pubDate>
+    </item>
+  </channel>
+</rss>

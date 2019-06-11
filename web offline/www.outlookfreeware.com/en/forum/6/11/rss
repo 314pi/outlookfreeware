@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Replace Attachments with Links and Back: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/11</link>
+    <description><![CDATA[New posts in the topic "Replace Attachments with Links and Back" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:27:54 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/753/#post753</link>
+      <description><![CDATA[<b>Leif Mogensen,</b><br />
+We have removed ReliefJet Tweaker from ReliefJet Essentials.<br />
+<br />
+Now, you can download it from ReliefJet website:<br />
+<!--noindex--><a href="http://www.reliefjet.com/Download/ReliefJetOutlookTweaker.exe" rel="nofollow">ReliefJet Tweaker for Outlook</a><!--/noindex--><br />
+No installation is required.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:753</guid>
+      <pubDate>Thu, 31 Jul 2014 22:29:35 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/752/#post752</link>
+      <description><![CDATA[hello  where can i find the tool for unblocking attachment in Outlokk 2013 ?+<br />
+ The free Outlook Tweaker<br />
+<br />
+I downloaded Reliefjet but cant find the tool !!]]></description>
+      <author><![CDATA[Leif Mogensen]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:752</guid>
+      <pubDate>Thu, 31 Jul 2014 17:42:54 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/525/#post525</link>
+      <description><![CDATA[Great utility! After you run the utility, you must compact your pst file to see a reduction in file size. I went from a 4 gig pst to a 1 gig pst file. The attachment folder was 3 gigs. Math works. <br />
+<br />
+All this takes hours. The initial &quot;detachment&quot; and subsequent compression. Patience helps.<br />
+<br />
+The attachments can no longer be previewed. They must be opened with the helper application. I opened a pdf and the properties box showed me that the file was located in the new attachments folder. <br />
+<br />
+The registry fix for enabling opening of Outlook attachments worked. It's easy to do it manually.]]></description>
+      <author><![CDATA[super melodrama]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:525</guid>
+      <pubDate>Sat, 13 Apr 2013 18:53:52 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/451/#post451</link>
+      <description><![CDATA[Thanks for sharing! This is actually a <!--noindex--><a href="http://support.microsoft.com/kb/2271150" rel="nofollow">Microsoft KB2271150</a><!--/noindex-->. Tweaker simplifies this procedure allowing user not to edit registry by hands.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:451</guid>
+      <pubDate>Thu, 27 Sep 2012 23:56:38 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/450/#post450</link>
+      <description><![CDATA[Here's a fix:<br />
+<br />
+To configure the AllowAttachByRef registry entry, add a DWORD value named AllowAttachByRef that has a value of 1. To add this registry entry, follow these steps:<br />
+<br />
+1. Click Start, click Run, type regedit in the Open box, and then click OK.<br />
+<br />
+2. Locate and then click one of the following subkeys in the registry:<br />
+<br />
+        <b>Outlook 2010 (version 14.0)</b><br />
+        <i>HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Outlook\Security</i><br />
+        Or:<br />
+        <i>HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\14.0\Outlook\Security</i><br />
+        <br />
+        <b>Outlook 2007 (version 12.0)</b><br />
+        <i>HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Outlook\Security</i><br />
+        Or:<br />
+        <i>HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\12.0\Outlook\Security</i><br />
+        <br />
+        <b>Outlook 2003 (version 11.0)</b><br />
+        <i>HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Outlook\Security</i><br />
+        Or:<br />
+        <i>HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\11.0\Outlook\Security</i><br />
+        <br />
+        <b>Outlook 2002 (version 10.0)</b><br />
+        <i>HKEY_CURRENT_USER\Software\Microsoft\Office\10.0\Outlook\Security</i><br />
+        Or:<br />
+        <i>HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\10.0\Outlook\Security</i><br />
+    <br />
+3. On the Edit menu, point to New, and then click DWORD Value.<br />
+<br />
+4. Type AllowAttachByRef for the name of the DWORD, and then press ENTER.<br />
+<br />
+5. Right-click AllowAttachByRef, and then click Modify.<br />
+    <br />
+6. In the Value data box, type 1, and then click OK.<br />
+<br />
+7. Exit Registry Editor, and then restart the computer.]]></description>
+      <author><![CDATA[dansajd]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:450</guid>
+      <pubDate>Tue, 25 Sep 2012 22:01:15 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/449/#post449</link>
+      <description><![CDATA[I'm having this same issue on Outlook 2010 and Outlook 2003. I tried following the advice above, but I get this error when trying to install ReliefJet:<br />
+<br />
+<img src="https://dl.dropbox.com/u/12943123/ReliefJet_Error.jpg" alt="" style="border: none;"/>]]></description>
+      <author><![CDATA[dansajd]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:449</guid>
+      <pubDate>Tue, 25 Sep 2012 21:30:41 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/236/#post236</link>
+      <description><![CDATA[<b>Ali</b>, install the <i>ReliefJet Essentials for Outlook</i> software product. It provides a free <i>Outlook Tweaker</i> which allows to <!--noindex--><a href="http://www.reliefjet.com/Product/Features/OutlookTweaks#Attachments" rel="nofollow">enable linked attachments</a><!--/noindex--> (just check the <i>Allow linked attachments</i> and restart the Outlook).]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:236</guid>
+      <pubDate>Mon, 08 Aug 2011 22:36:24 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/235/#post235</link>
+      <description><![CDATA[Hi, after I run the utility, the attachment were removed, saved on the right folders but the Outlook would not let me the links because of Security limitations. Any advice?]]></description>
+      <author><![CDATA[Ali Issa]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:235</guid>
+      <pubDate>Mon, 08 Aug 2011 22:25:02 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Replace Attachments with Links and Back]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/11/11/#post11</link>
+      <description><![CDATA[Discuss utility related to linked attachments here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Replace Attachments with Links and Back]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:11</guid>
+      <pubDate>Fri, 01 Oct 2010 19:47:13 UT</pubDate>
+    </item>
+  </channel>
+</rss>

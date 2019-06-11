@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Duplicate Entries Created in Outlook Ribbon: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/139</link>
+    <description><![CDATA[New posts in the topic "Duplicate Entries Created in Outlook Ribbon" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 06:04:00 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Duplicate Entries Created in Outlook Ribbon]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/139/296/#post296</link>
+      <description><![CDATA[THANKS !!!<br />
+<br />
+Problem Resolved !!!]]></description>
+      <author><![CDATA[Dean Kruger]]></author>
+      <category><![CDATA[Duplicate Entries Created in Outlook Ribbon]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:296</guid>
+      <pubDate>Mon, 24 Oct 2011 18:23:29 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate Entries Created in Outlook Ribbon]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/139/295/#post295</link>
+      <description><![CDATA[Yes, there is a registry key:<br />
+<div class="forum-code-box"><pre class="text">HKEY_CURRENT_USER\Software\OutlookFreeware.com\Profiles\Outlook\Utils</pre></div><!--ForumCodeBoxEnd-->You can completely delete it. After that you will need to re-configure and re-mark as favorites your utilities.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Duplicate Entries Created in Outlook Ribbon]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:295</guid>
+      <pubDate>Mon, 24 Oct 2011 17:49:04 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate Entries Created in Outlook Ribbon]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/139/294/#post294</link>
+      <description><![CDATA[Sorry, no luck they are still there...<br />
+<br />
+<img src="https://lh6.googleusercontent.com/-lAmi0rjGiYo/TqUHKVvH92I/AAAAAAAAAUU/AKXSwkWoywI/s144/SNAG-0051.jpg" alt="" style="border: none;"/><br />
+<br />
+<!--noindex--><a href="https://picasaweb.google.com/lh/photo/_T4Hq_C_cNZ89ix0lKliolI0jUxytb5jngtuC47yzIs?feat=directlink" rel="nofollow">https://picasaweb.google.com/lh/photo/...directlink</a><!--/noindex--><br />
+<br />
+I have tried using the stand-alone utility as well to remove the duplicate entries.<br />
+<br />
+Are the add-in entries saved as registry entries or an XML file I can edit?]]></description>
+      <author><![CDATA[Dean Kruger]]></author>
+      <category><![CDATA[Duplicate Entries Created in Outlook Ribbon]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:294</guid>
+      <pubDate>Mon, 24 Oct 2011 14:42:16 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Duplicate Entries Created in Outlook Ribbon]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/139/293/#post293</link>
+      <description><![CDATA[<b>Dean</b>, thank your for the info! Try to click <i>Customize</i> button on the ribbon and then just click <i>OK</i>.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Duplicate Entries Created in Outlook Ribbon]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:293</guid>
+      <pubDate>Mon, 24 Oct 2011 13:42:54 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Duplicate Entries Created in Outlook Ribbon]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/139/292/#post292</link>
+      <description><![CDATA[Hi guys<br />
+<br />
+Great freeware !!!<br />
+<br />
+I have upgraded from 2.1 to 2.2 and encountered the following issue:<br />
+<br />
+I now have the old add in entries and the new ones listed in the favourites panel on the OutlookFreeware.com tab in my Outlook Ribbon.<br />
+<br />
+I am running Windows 7 and Office 2010 and followed the following steps during upgrade:<br />
+<br />
+1. installed new version runtime<br />
+2. installed individual add-ins<br />
+<br />
+Thanks]]></description>
+      <author><![CDATA[Dean Kruger]]></author>
+      <category><![CDATA[Duplicate Entries Created in Outlook Ribbon]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:292</guid>
+      <pubDate>Sat, 22 Oct 2011 14:52:15 UT</pubDate>
+    </item>
+  </channel>
+</rss>

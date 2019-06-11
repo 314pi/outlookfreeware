@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Outlook 2016 Compatability: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/223</link>
+    <description><![CDATA[New posts in the topic "Outlook 2016 Compatability" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:52:29 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Outlook 2016 Compatability]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/223/865/#post865</link>
+      <description><![CDATA[<b>Brian Gregory,</b><br />
+<br />
+The latest version of the utility should work with Outlook 2016.<br />
+<br />
+Please try to uninstall the OutlookFreeware.Com utility manager, download the latest version from our <!--noindex--><a href="/download/OutlookFreewareSetup.exe" rel="nofollow">website</a><!--/noindex--> and install it.<br />
+<br />
+Please contact the support at <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> if you will still have the issue.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Outlook 2016 Compatability]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:865</guid>
+      <pubDate>Mon, 19 Oct 2015 16:19:35 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Outlook 2016 Compatability]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/223/864/#post864</link>
+      <description><![CDATA[Good morning.  I recently upgraded to Outlook 2016 and now the addins won't load due to a runtime error.  Is there something I can do to get the addin working?<br />
+<br />
+Thanks.]]></description>
+      <author><![CDATA[Brian Gregory]]></author>
+      <category><![CDATA[Outlook 2016 Compatability]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:864</guid>
+      <pubDate>Sun, 18 Oct 2015 22:14:05 UT</pubDate>
+    </item>
+  </channel>
+</rss>

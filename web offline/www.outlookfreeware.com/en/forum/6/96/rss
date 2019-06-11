@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Import Master Category List: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/96</link>
+    <description><![CDATA[New posts in the topic "Import Master Category List" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:26:05 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/1190/#post1190</link>
+      <description><![CDATA[<b>Peter Watz</b>, <br />
+<br />
+Please send your .xml file to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> for testing.<br />
+We will try to help you.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1190</guid>
+      <pubDate>Tue, 05 Feb 2019 16:50:35 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/1189/#post1189</link>
+      <description><![CDATA[Hi.<br />
+<br />
+I'm transitioning from ol2003 to o365, and there was a lot of categories missing from my mcl.<br />
+Specifically all the categories associated with my messages.<br />
+<br />
+I've exported and imported the mcl &quot;successfully&quot;...<br />
+&quot;Successsfully&quot; is an overstatement because I ran into some snag...<br />
+<br />
+What I had to do was to export from my ol2003 system, otherwise it wouldn't recognize the categories.<br />
+This was due to the fact that my categories are connected to the messages, not contacts, calender or the other stuff that O365 recognizes.<br />
+It exported 1787 categories, and when inspecting the xml, it all looked good.<br />
+<br />
+When importing the list in to my O365 system a lot of the categories was &quot;corrupted&quot; due to a lot of locale spesific letters like &#216;&#198;&#197; in the Norwegian language. When I say corrupted I mean that &quot;&#197;ssiden skolekorps&quot; ended up like &quot;&amp;#x00C5;ssiden skolekorps&quot;...<br />
+<br />
+Is there any way to get this the right way?<br />
+All my messages are tagged with the proper categories, but they're not in the mcl and if I rename the import manually I end up with double sets of categories...<br />
+<br />
+Any feedback will be appreciated!<br />
+<br />
+Peter]]></description>
+      <author><![CDATA[Peter Watz]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1189</guid>
+      <pubDate>Tue, 05 Feb 2019 14:01:14 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/701/#post701</link>
+      <description><![CDATA[<b>Paul Foster,</b><br />
+<br />
+Could you send you edited .xml file to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> for some tests?<br />
+Are you able to import exported .xml file without changing it?]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:701</guid>
+      <pubDate>Wed, 16 Apr 2014 17:47:48 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/697/#post697</link>
+      <description><![CDATA[I am having difficulty importing the MCL XML file produced with the export utility (and after manually adding a category). <br />
+<br />
+I am getting the following ERROR message after running the IMPORT MCL utility which reads, <br />
+ <br />
+        &quot;Error: System(-2147221233): Exception from HRESULT: Ox8004010F&quot;.<br />
+<br />
+Anything I can do to fix this??]]></description>
+      <author><![CDATA[Paul Foster]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:697</guid>
+      <pubDate>Wed, 16 Apr 2014 00:07:21 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/592/#post592</link>
+      <description><![CDATA[Ryan Rolands,<br />
+<br />
+I have tested Import Outlook Master Category List on Outlook 2013 with outlook.com account and it it is working fine.<br />
+Could you send you categories.xml to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> for some tests?]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:592</guid>
+      <pubDate>Wed, 13 Nov 2013 19:03:34 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/591/#post591</link>
+      <description><![CDATA[Hi,<br />
+<br />
+I am not having any luck importing a 2010 xml file to 2013 (hotmail account).  <br />
+<br />
+1)I ran the export utility on a Win 7 machine with 2010 and it stated 22 categories were exported.  <br />
+2)I ran the import utility on a Win 7 machine with 2013 and the utility stated it imported 22 categories with the 'Overwrite..' mode selected. No luck. Closed and re-opened Outlook.  Still no luck.<br />
+3) read post about creating a new category to be able to import. Created 'test' category.<br />
+4) I ran the import utility again and the utility stated it imported 22 categories with the 'Overwrite..' mode selected. No luck. Closed and re-opened Outlook.  Still no luck.<br />
+5) I ran the import utility again and the utility stated it imported 22 categories with the 'Update..' mode selected. No luck. Closed and re-opened Outlook.  Still no luck.<br />
+<br />
+Any help would be appreciated!<br />
+<br />
+Ryan]]></description>
+      <author><![CDATA[ryan rolands]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:591</guid>
+      <pubDate>Wed, 13 Nov 2013 09:34:40 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/414/#post414</link>
+      <description><![CDATA[<b>Michael</b>, the utility imports Master Category List right to the default account's storage so the list be usable in Outlook. If you want to import the list to another (non-default) account, just make it default and then import Master Category List.<br />
+<br />
+Please note that in <!--noindex--><a href="http://www.reliefjet.com/Product/Features/CommandLine" rel="nofollow">ReliefJet Essentials for Outlook Professional</a><!--/noindex--> target account can be specified in the command line.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:414</guid>
+      <pubDate>Thu, 07 Jun 2012 16:34:35 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/413/#post413</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+<br />
+Thx for the great Outlook utilities. Very helpful and at least in the case of &quot;Export/Import Categories&quot; the only utility I was able to find anywhere at any price.<br />
+<br />
+I run OL 2010 with 3 different hosted exchange mailboxes. The Export utility allows you to select which acct to pull the export from but the Import Utility does not have an option to designate which acct to import to.<br />
+<br />
+So how do I export from one acct and import into a different acct?<br />
+<br />
+Thx<br />
+<br />
+Michael]]></description>
+      <author><![CDATA[Michael Wachholz]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:413</guid>
+      <pubDate>Thu, 07 Jun 2012 00:58:09 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/329/#post329</link>
+      <description><![CDATA[<b>Albert</b>, thank you very much for your support, we really appreciate it!]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:329</guid>
+      <pubDate>Tue, 03 Jan 2012 00:55:34 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/327/#post327</link>
+      <description><![CDATA[Thank you for a great utility!<br />
+<br />
+I'm running Outlook 2010 under Windows 7 and every so often my MCL disappears.  A week or so ago I downloaded your Export &amp; Import MCL utilities and immediately Exported the list and yesterday, after my MCL went away again, I successfully restored it using Import.<br />
+<br />
+I haven't been able to determine the trigger that's causing the list to go away, but I've recently bought an Android phone and have installed some programs that &quot;touch&quot; Outlook, although I have them all set to sync in the outbound direction only, never writing to Outlook.  I'm now using Google Calendar Sync and MilkSync and probably other Google-related programs.<br />
+<br />
+Thanks again - I'm definitely going to donate some money for your excellent utilities.]]></description>
+      <author><![CDATA[Albert Iapicca]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:327</guid>
+      <pubDate>Mon, 02 Jan 2012 01:44:16 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/308/#post308</link>
+      <description><![CDATA[<b>G S</b>, you can't. Master Category List (MCL) is stored in the user mailbox. It is possible to automatically distribute MCL across mailboxes however. Command line support is required in this case. OutlookFreeware.com Utilities do not provide this feature.<br />
+<br />
+If you want to setup automatic MCL distribution, you will need to use the <!--noindex--><a href="http://www.ReliefJet.com/Product/Features/CommandLine" rel="nofollow">command line</a><!--/noindex--> of ReliefJet Essentials for Outlook Professional.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:308</guid>
+      <pubDate>Thu, 24 Nov 2011 18:38:43 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/307/#post307</link>
+      <description><![CDATA[How i can update this that all users in echange server can use same list?]]></description>
+      <author><![CDATA[G S]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:307</guid>
+      <pubDate>Thu, 24 Nov 2011 18:05:07 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/246/#post246</link>
+      <description><![CDATA[<b>Pontus</b>, for now it is required to create at least one category manually in your Outlook before importing a Master Category List file. We'll document this in the next version of our utilities.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:246</guid>
+      <pubDate>Thu, 25 Aug 2011 16:58:53 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/243/#post243</link>
+      <description><![CDATA[I am running the import category plug-in on Outlook 2010, but get an error message &quot;System: Cannot update master Category List&quot;. How can I solve the problem?<br />
+<br />
+The export plug-in worked very smoothly.<br />
+<br />
+Many thanks for your help.]]></description>
+      <author><![CDATA[Pontus Ohrstedt]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:243</guid>
+      <pubDate>Thu, 25 Aug 2011 03:18:26 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Import Master Category List]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/96/105/#post105</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Import Master Category List]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:105</guid>
+      <pubDate>Mon, 15 Nov 2010 22:46:46 UT</pubDate>
+    </item>
+  </channel>
+</rss>

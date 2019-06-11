@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Plugin Error: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/271</link>
+    <description><![CDATA[New posts in the topic "Plugin Error" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:59:23 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Plugin Error]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/271/1064/#post1064</link>
+      <description><![CDATA[<b>Corrado Tumminia</b>, <br />
+<br />
+Please contact our support by email at <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript> about this issue and we will try to help you.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Plugin Error]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1064</guid>
+      <pubDate>Thu, 25 Jan 2018 16:24:58 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Plugin Error]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/271/1063/#post1063</link>
+      <description><![CDATA[Hi,<br />
+I tried to install the Add-in, but in File-&gt;Options-&gt;Add-Ins i found the plugin between &quot;Disabled Application&quot;.<br />
+<br />
+If i try to load manually the plugin, i recive an error like &quot;Not Loaded, There is a Runtime error during Add-in loading&quot;<br />
+<br />
+Sorry I have an italian version of Outlook 2016, I hope you understand that error.]]></description>
+      <author><![CDATA[Corrado Tumminia]]></author>
+      <category><![CDATA[Plugin Error]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1063</guid>
+      <pubDate>Thu, 25 Jan 2018 13:56:54 UT</pubDate>
+    </item>
+  </channel>
+</rss>

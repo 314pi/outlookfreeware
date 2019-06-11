@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Save Attached Items: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/85</link>
+    <description><![CDATA[New posts in the topic "Save Attached Items" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:59:46 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Save Attached Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/85/457/#post457</link>
+      <description><![CDATA[<b>sendesh</b>, our free tools do not provide such a functionality. But you can do something like this (even automatically) using <!--noindex--><a href="http://www.reliefjet.com/Product/Features#Attachments" rel="nofollow">ReliefJet Essentials for Outlook</a><!--/noindex-->. In ReliefJet Essentials you can create an Outlook rule that checks for sender and/or word in subject and runs Save Attachments utility (configured for *.xl* files).]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Attached Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:457</guid>
+      <pubDate>Fri, 12 Oct 2012 15:35:51 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attached Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/85/456/#post456</link>
+      <description><![CDATA[Hi, I am new here and looking for a add-ins which save the excel file from outlook mail with a specific sender or with specific word in subject line or in attachment.<br />
+<br />
+Do we have anything for me here.<br />
+<br />
+Thanks<br />
+Sandy]]></description>
+      <author><![CDATA[sandesh dsouza]]></author>
+      <category><![CDATA[Save Attached Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:456</guid>
+      <pubDate>Fri, 12 Oct 2012 06:55:41 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attached Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/85/444/#post444</link>
+      <description><![CDATA[<b>Andre</b>, this is a strange situation we've never heard of. You can try to delete the %LocalAppData%\OutlookFreeware.com\Executor\Settings.xml file.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Attached Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:444</guid>
+      <pubDate>Fri, 07 Sep 2012 19:08:25 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attached Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/85/443/#post443</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+Good Morning to you....<br />
+For a while now I've been using the OutlookAttchementsave utility.. ran fine untill it stopped - when I launch the exe, it minimizes to the task bar, can't restore to full view - thus my automated pricess that runs this app manually does not run and automation fails... I've tried uninstalling and re-installing the app, still same thing... any advise please? why does it not open in full view?<br />
+thanks a mill<br />
+andre]]></description>
+      <author><![CDATA[Andre Booysen]]></author>
+      <category><![CDATA[Save Attached Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:443</guid>
+      <pubDate>Thu, 06 Sep 2012 14:46:59 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attached Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/85/275/#post275</link>
+      <description><![CDATA[<b>jrfdz</b>, its setup file is now called OutlookAttachme&#173;ntsItemSaveS&#173;etup.exe because the utility itself was renamed to Save Attached Outlook Items. This utility can now process any Outlook item type (like Tasks, Appointments, Contacts etc), not only messages.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Attached Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:275</guid>
+      <pubDate>Thu, 06 Oct 2011 15:18:55 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Attached Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/85/274/#post274</link>
+      <description><![CDATA[What happened to OutlookAttachmentsMessageSaveSetup.exe ?]]></description>
+      <author><![CDATA[jrfdz]]></author>
+      <category><![CDATA[Save Attached Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:274</guid>
+      <pubDate>Thu, 06 Oct 2011 04:01:31 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Save Attached Items]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/85/85/#post85</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Attached Items]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:85</guid>
+      <pubDate>Thu, 28 Oct 2010 02:01:32 UT</pubDate>
+    </item>
+  </channel>
+</rss>

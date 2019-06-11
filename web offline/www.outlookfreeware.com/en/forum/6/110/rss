@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Remove Subject Prefixes: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/110</link>
+    <description><![CDATA[New posts in the topic "Remove Subject Prefixes" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:28:19 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Remove Subject Prefixes]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/110/790/#post790</link>
+      <description><![CDATA[<b>Michael Olesnicki,</b><br />
+<br />
+The program is removing a redundant prefixes only starting from 3.0 version. If you need to remove *all* prefixes you can use <!--noindex--><a href="http://www.reliefjet.com/Essentials" rel="nofollow">ReliefJet Essentials for Outlook</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Remove Subject Prefixes]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:790</guid>
+      <pubDate>Mon, 13 Oct 2014 15:32:43 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Subject Prefixes]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/110/787/#post787</link>
+      <description><![CDATA[I had the same experience as Vincent (see above).  Before, the utility removed *all* instances of &quot;Re&quot; and &quot;Fw&quot;.  After reinstalling the software (after being told by the program that I needed to reinstall the runtime utility), the program now removes only cases where the &quot;Re&quot; and &quot;Fw&quot; are duplicated, but it leaves the original &quot;Re&quot; and &quot;Fw&quot; in place.  I'm not sure if this was deliberate or unintended, but it is a pity.]]></description>
+      <author><![CDATA[Michael Olesnicki]]></author>
+      <category><![CDATA[Remove Subject Prefixes]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:787</guid>
+      <pubDate>Sat, 11 Oct 2014 15:07:31 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Subject Prefixes]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/110/780/#post780</link>
+      <description><![CDATA[<b>Mike Jones,</b><br />
+<br />
+Please make a screenshot of the utility configuration. Send it and an example email in msg or eml format to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>.<br />
+We will try to help you.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Remove Subject Prefixes]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:780</guid>
+      <pubDate>Tue, 30 Sep 2014 15:36:54 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Subject Prefixes]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/110/774/#post774</link>
+      <description><![CDATA[I have happily used the remove subject utility for a couple of years but have just had to reinstall.  The name of the utility is now slightly different and it doesn't work at all.  I can't see what I am doing wrong.]]></description>
+      <author><![CDATA[Mike Jones]]></author>
+      <category><![CDATA[Remove Subject Prefixes]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:774</guid>
+      <pubDate>Mon, 22 Sep 2014 16:17:31 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Subject Prefixes]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/110/220/#post220</link>
+      <description><![CDATA[<b>vincent</b>, you can automate any utility by using <!--noindex--><a href="http://www.reliefjet.com/Product/Features/Integration#Rules" rel="nofollow">ReliefJet Essentials for Outlook</a><!--/noindex-->.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Subject Prefixes]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:220</guid>
+      <pubDate>Mon, 27 Jun 2011 17:29:17 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Remove Subject Prefixes]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/110/219/#post219</link>
+      <description><![CDATA[How can I automate the utility to run each time I send an email ?<br />
+<br />
+My very basic objective is to remove FW: or RE: prefixes Outlook adds automaticaly to emails.<br />
+<br />
+BR,]]></description>
+      <author><![CDATA[vincent echo]]></author>
+      <category><![CDATA[Remove Subject Prefixes]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:219</guid>
+      <pubDate>Sun, 26 Jun 2011 16:45:44 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Remove Subject Prefixes]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/110/121/#post121</link>
+      <description><![CDATA[Discuss this utility here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Remove Subject Prefixes]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:121</guid>
+      <pubDate>Fri, 19 Nov 2010 23:32:08 UT</pubDate>
+    </item>
+  </channel>
+</rss>

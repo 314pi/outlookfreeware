@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/24</link>
+    <description><![CDATA[New posts in the topic "Export Messages to EML, HTML, PDF, TXT and MBOX Formats" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:23:18 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1114/#post1114</link>
+      <description><![CDATA[<b>Dieter Mueller</b>, <br />
+<br />
+Could you export such message to MSG (using our utility or drag and drop from Outlook to a folder on a disk), ZIP it and sent to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>?<br />
+We will try to help you.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1114</guid>
+      <pubDate>Thu, 23 Aug 2018 11:14:42 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1113/#post1113</link>
+      <description><![CDATA[Hi,<br />
+<br />
+I'm exporting a single email from Outlook 2016 to .eml format. <br />
+<br />
+The email seems to be encoded with GB18030 (Chinese) but the exported file seems to change the coding to &quot;westeuropean&quot; and the email cannot be read anymore. <br />
+<br />
+Is there a way to export the message in the correct coding?<br />
+<br />
+PS: I know the coding can manually be changed when opening the .eml message in e.g. Outlook. But especially on a mobile device I cannot change the coding. Besides that it is very inconvenient to change coding every time after opening the eml file.<br />
+<br />
+Cheers!]]></description>
+      <author><![CDATA[Dieter Mueller]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1113</guid>
+      <pubDate>Thu, 23 Aug 2018 06:28:54 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1098/#post1098</link>
+      <description><![CDATA[<b>Geert Bakker</b>, <br />
+<br />
+Folder structure supported by the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesExportEML" rel="nofollow">Advanced version of the utility</a><!--/noindex--> only.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1098</guid>
+      <pubDate>Mon, 28 May 2018 11:14:29 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1097/#post1097</link>
+      <description><![CDATA[<b>Outlook Freeware Export Messages to EML Files</b>, <br />
+<br />
+Hi,<br />
+I use  Export Messages to EML Files for the first time and it works great.<br />
+But .... it says  &quot; It is possible to retain the original folder structure. &quot;<br />
+When I select all folders of the Outlook account and ran export to d the destinationfolder all<br />
+emails are there together in one folder.<br />
+The folder structure is not there.]]></description>
+      <author><![CDATA[Geert Bakker]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1097</guid>
+      <pubDate>Sun, 27 May 2018 14:44:42 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1096/#post1096</link>
+      <description><![CDATA[<b>Bo Berglund</b>, <br />
+<br />
+Each .mbox is a single folder.<br />
+The free version of &quot;Export messages to MBOX&quot; utility doesn't support an exporting of the folder structure. You can export folder by folder to get different .mbox files for each subfolder or use the <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesExportMBOX" rel="nofollow">Advanced version of the utility</a><!--/noindex--> which will do it automatically.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1096</guid>
+      <pubDate>Thu, 24 May 2018 15:44:11 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1095/#post1095</link>
+      <description><![CDATA[<b>Exported PST to MBOX but lost folder structure</b><br />
+<br />
+I am migrating my Outlook 2003 email client to Thunderbird and need to keep the PST  folders I have set up in OL2003 to hold my emails. Outlook is configured for POP3 on all accounts (I have 4 mail accounts).<br />
+In total I have 6 PST files at a combined size of about 10 GB holding all of my email dating back to 1998.<br />
+<br />
+Yesterday I used the &quot;Export messages to MBOX&quot; utility to create the MBOX files. It worked even though it took a while to finish.<br />
+Today I have attached these MBOX files to Thunderbird using the following method from a blog page:<br />
+- Looked up the location of my TBird profile under AppData<br />
+- Shut down Thunderbird<br />
+- Copied the MBOX files into the Mail/Local Folders directory below the profile<br />
+- Opened Thunderbird again and noticed that the new folders had appeared<br />
+- When I clicked one of them Thunderbird started a process, probably to index<br />
+- After it was done I could see the mail content in Thunderbird.<br />
+<br />
+So it looked good so far....<br />
+<br />
+But now to the problem:<br />
+The original PST files were organized in <u>many</u> sub-folders for different kinds of email like all mail belonging to a certain project etc. Or mail from a specific year etc.<br />
+<br />
+Nothing of that is shown in Thunderbird, so now I wonder if I have missed some setting in the conversion/export process to include the sub-folders?<br />
+<br />
+As it is now I face scrapping the conversion work done so far because I MUST have the structure, each PST file holds something like 50-100000 messages so it is impossible to navigate without the folder structure.<br />
+<br />
+Please advice what to do to resurrect the folders!]]></description>
+      <author><![CDATA[Bo Berglund]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1095</guid>
+      <pubDate>Wed, 23 May 2018 11:59:00 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1083/#post1083</link>
+      <description><![CDATA[<b>Ian Campbell</b>, <br />
+<br />
+You will get an mbox file with these messages if you stop the process.<br />
+You can try to run <!--noindex--><a href="/en/products/all/OutlookReportFolders" rel="nofollow">Folder Report</a><!--/noindex--> utility on this PST to check the number of messages in different folders.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1083</guid>
+      <pubDate>Thu, 01 Mar 2018 11:31:52 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/1082/#post1082</link>
+      <description><![CDATA[I'm trying to convert back-up pst files to MBox.<br />
+The programme has been running for 2 days, and says it has converted 445 folders and over 42000 items. These numbers are far in excess of my files. Can anyone explain what is going on, and what might happen if I stop the process?]]></description>
+      <author><![CDATA[Ian Campbell]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1082</guid>
+      <pubDate>Wed, 28 Feb 2018 22:09:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/940/#post940</link>
+      <description><![CDATA[All messages produce this error.<br />
+Seems to have started after an update to outlook 2016 in the recent months. <br />
+I have a couple of independent systems with outlook 2016 from 365 and this did it on both..<br />
+Both were working prior to that.<br />
+<br />
+will email the message as requested]]></description>
+      <author><![CDATA[David Barnes]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:940</guid>
+      <pubDate>Tue, 13 Sep 2016 21:48:27 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/939/#post939</link>
+      <description><![CDATA[<b>David Barnes,</b><br />
+<br />
+Do you get such error on all messages?<br />
+Could you export such message to MSG (using our utility or drag and drop from Outlook to a folder on a disk), ZIP it and sent to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:939</guid>
+      <pubDate>Tue, 13 Sep 2016 21:21:28 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/935/#post935</link>
+      <description><![CDATA[Exporting individual email from outlook<br />
+open the email, click on outlookfreeware.com, run, select export to eml, run...<br />
+says error :(<br />
+if I 'click here to show details' the error says: 'error converting message'<br />
+<br />
+Server is exchange 2010 (local/in-house)<br />
+<br />
+see linked screen-shots<br />
+<br />
+[img]<!--noindex--><a href="https://1drv.ms/i/s!AjY7NAAuhX1anIhdGFsdAYrpTVIOxw" rel="nofollow">https://1drv.ms/i/s!AjY7NAAuhX1anIhdGFsdAYrpTVIOxw</a><!--/noindex-->[/img]<br />
+<br />
+[img]<!--noindex--><a href="https://1drv.ms/i/s!AjY7NAAuhX1anIhe1NlEHeyOdN1_pQ" rel="nofollow">https://1drv.ms/i/s!AjY7NAAuhX1anIhe1NlEHeyOdN1_pQ</a><!--/noindex-->[/img]<br />
+<br />
+[img]<!--noindex--><a href="https://1drv.ms/i/s!AjY7NAAuhX1anIhbEJJAIKjDk1zioQ" rel="nofollow">https://1drv.ms/i/s!AjY7NAAuhX1anIhbEJJAIKjDk1zioQ</a><!--/noindex-->[/img]<br />
+<br />
+[img]<!--noindex--><a href="https://1drv.ms/i/s!AjY7NAAuhX1anIha4-BgDRbkCDjFoQ" rel="nofollow">https://1drv.ms/i/s!AjY7NAAuhX1anIha4-BgDRbkCDjFoQ</a><!--/noindex-->[/img]<br />
+<br />
+[img]<!--noindex--><a href="https://1drv.ms/i/s!AjY7NAAuhX1anIhZQaifQKZuW32qTQ" rel="nofollow">https://1drv.ms/i/s!AjY7NAAuhX1anIhZQaifQKZuW32qTQ</a><!--/noindex-->[/img]]]></description>
+      <author><![CDATA[David Barnes]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:935</guid>
+      <pubDate>Tue, 13 Sep 2016 01:53:47 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/934/#post934</link>
+      <description><![CDATA[<b>David Barnes,</b><br />
+<br />
+Could you give more information about the issue?<br />
+What happens?<br />
+Did you get an error?<br />
+Do you trying to export from Outlook or from standalone app?<br />
+What account type do you have IMAP,POP3, Exchange?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:934</guid>
+      <pubDate>Tue, 13 Sep 2016 00:52:04 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/933/#post933</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, Export Messages to EML Files<br />
+<br />
+This refuses to work after upgrading to Outlook 2016<br />
+Windows: Win 10 Pro<br />
+<br />
+Tried:<br />
+ Uninstall &quot;outlookfreeware.com utilities&quot; in control panel<br />
+ restart outlook<br />
+ install outlookfreeware.com utilities <br />
+ - still fails<br />
+<br />
+Help... What am I doing wrong<br />
+Thanks]]></description>
+      <author><![CDATA[David Barnes]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:933</guid>
+      <pubDate>Mon, 12 Sep 2016 20:41:09 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/781/#post781</link>
+      <description><![CDATA[<b>paolo paoletti,</b><br />
+<br />
+Sorry for the delay in answering your request.<br />
+<br />
+If it possible provide 2-3 samples of such emails. Just drag and drop them to some folder on disk, pack them using ZIP or any other packer and send this archive to <script type="text/javascript">document.write('<a href="mailto:'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'">'+'s'+'u'+'p'+'p'+'o'+'r'+'t'+'@'+'o'+'u'+'t'+'l'+'o'+'o'+'k'+'f'+'r'+'e'+'e'+'w'+'a'+'r'+'e'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>.<br />
+<br />
+Also please pack same emails in EML format exported by our utility and sent them also.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:781</guid>
+      <pubDate>Tue, 30 Sep 2014 15:43:13 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/779/#post779</link>
+      <description><![CDATA[the program run very well, no errors.. but i dont't find the attachments (eml file and xml file...) in the .EML file created...]]></description>
+      <author><![CDATA[paolo paoletti]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:779</guid>
+      <pubDate>Fri, 26 Sep 2014 18:05:37 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/552/#post552</link>
+      <description><![CDATA[My 'Arrange by:' option is set to 'Folder' already (I guess that's by default).<br />
+But, this with &quot;open file location&quot; really works.<br />
+<br />
+Thanks! :)]]></description>
+      <author><![CDATA[jane1909]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:552</guid>
+      <pubDate>Sat, 31 Aug 2013 03:53:29 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/551/#post551</link>
+      <description><![CDATA[This is strange behavior of Windows with .eml files.<br />
+<br />
+You can right click on the .eml file and select &quot;open file location&quot;. The folder opens in a new window and then you will be able to right click on the same .eml file and there will be &quot;delete&quot; option.<br />
+<br />
+You can also try to change 'Arrange by:' option to Folder.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:551</guid>
+      <pubDate>Fri, 30 Aug 2013 21:20:46 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/550/#post550</link>
+      <description><![CDATA[Yes, my files are on a hard drive, in a folder in My Documents.<br />
+I checked, they don't have read only attribute. And I tried deleting them with Outlook closed - no result.<br />
+<br />
+Actually, I don't get any error. When I select a file and press &quot;Delete&quot;, nothing happens (my &quot;delete&quot; button on keyboard works, I checked). I can't drag and drop it to my Recycle Bin either, some small icon of red circle with line appears (like the operation is forbbiden). When I right-click the file, there's no option &quot;delete&quot;, as it should be.<br />
+I can only delete the whole folder with .eml files...<br />
+I aslo noticed I can't move nor rename the files.<br />
+<br />
+Everything I do, I do with my Administrator account, so there shouldn't be any problems with permissions, etc.<br />
+<br />
+And, yes, I have Avast antivirus installed and running.]]></description>
+      <author><![CDATA[jane1909]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:550</guid>
+      <pubDate>Fri, 30 Aug 2013 19:25:14 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/549/#post549</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>jane1909:<br />
+Hey,<br />
+<br />
+I tried this utility and I really like it, but I'm having trouble with it and the other one I tried (Convert .msg to .eml). The problem is that I can't delete files after extracting/conv&#173;erting (I don't need some mails in .eml format). Why?<br />
+I'm using MS Office Outlook 2010 on Windows 7 Professional 64-bit.</td></tr></table><br />
+<br />
+Jane,<br />
+<br />
+Are you trying to delete .eml files from a hard drive?<br />
+What error do you get?<br />
+<br />
+Please check that these files don't have Read Only attribute.<br />
+You can also try to close Outlook before deleting the files.<br />
+<br />
+Do you have any AV software installed?]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:549</guid>
+      <pubDate>Fri, 30 Aug 2013 16:36:59 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/24/548/#post548</link>
+      <description><![CDATA[Hey,<br />
+<br />
+I tried this utility and I really like it, but I'm having trouble with it and the other one I tried (Convert .msg to .eml). The problem is that I can't delete files after extracting/converting (I don't need some mails in .eml format). Why?<br />
+I'm using MS Office Outlook 2010 on Windows 7 Professional 64-bit.]]></description>
+      <author><![CDATA[jane1909]]></author>
+      <category><![CDATA[Export Messages to EML, HTML, PDF, TXT and MBOX Formats]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:548</guid>
+      <pubDate>Fri, 30 Aug 2013 02:48:54 UT</pubDate>
+    </item>
+  </channel>
+</rss>

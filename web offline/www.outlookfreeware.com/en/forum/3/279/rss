@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[How to Convert MSG to Vcard file Format?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/279</link>
+    <description><![CDATA[New posts in the topic "How to Convert MSG to Vcard file Format?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:49:41 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: How to Convert MSG to Vcard file Format?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/279/1223/#post1223</link>
+      <description><![CDATA[I understand your situation and that why recommending you Export to VCF utility. Last Month, I used this tool on the advice of my technical friend and solve my problem.So my advise is use this tool.]]></description>
+      <author><![CDATA[KANE  WILLIAMSON]]></author>
+      <category><![CDATA[How to Convert MSG to Vcard file Format?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1223</guid>
+      <pubDate>Tue, 26 Mar 2019 09:10:06 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: How to Convert MSG to Vcard file Format?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/279/1118/#post1118</link>
+      <description><![CDATA[<b>Joel Lewis</b>, <br />
+<br />
+You can <!--noindex--><a href="/en/products/all/OutlookMessagesImportMSG" rel="nofollow">Import MSG to Outlook</a><!--/noindex--> first and then <!--noindex--><a href="/en/products/all/OutlookContactsExportVCF" rel="nofollow">Export contacts to VCF</a><!--/noindex-->.<br />
+Just a few clicks.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[How to Convert MSG to Vcard file Format?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1118</guid>
+      <pubDate>Fri, 07 Sep 2018 17:28:51 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to Convert MSG to Vcard file Format?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/279/1117/#post1117</link>
+      <description><![CDATA[Hello guy,<br />
+<br />
+I Want to convert msg to vcard file format. I will get the flexibility of converting those specific MSG databases that i find necessary. Please suggest the process of conversion needs just a few simple clicks. Recommends me....   Thanks]]></description>
+      <author><![CDATA[Joel Lewis]]></author>
+      <category><![CDATA[How to Convert MSG to Vcard file Format?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1117</guid>
+      <pubDate>Thu, 06 Sep 2018 15:46:11 UT</pubDate>
+    </item>
+  </channel>
+</rss>

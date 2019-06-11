@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Export Outlook Items to MSG Format: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/25</link>
+    <description><![CDATA[New posts in the topic "Export Outlook Items to MSG Format" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:22:47 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/25/951/#post951</link>
+      <description><![CDATA[You try various tools regarding EML to MSG conversion now my recommendation is OutlookFreeware.com. It is best conversion EML to MSG file to extract data from EML file to MSG file and also provide free EML converter.]]></description>
+      <author><![CDATA[max timberlake]]></author>
+      <category><![CDATA[Export Outlook Items to MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:951</guid>
+      <pubDate>Tue, 29 Nov 2016 17:15:23 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/25/287/#post287</link>
+      <description><![CDATA[Thanks - I eagerly await developments.]]></description>
+      <author><![CDATA[Mike Brayshaw]]></author>
+      <category><![CDATA[Export Outlook Items to MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:287</guid>
+      <pubDate>Wed, 19 Oct 2011 19:29:05 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/25/286/#post286</link>
+      <description><![CDATA[<b>Mike</b>, for now there is an <!--noindex--><a href="/en/products/all/OutlookMessagesExportTXT" rel="nofollow">Export Messages to Text Files</a><!--/noindex--> utility only. But we're planning to release utilities for exporting other Outlook item types (like <b>Tasks</b>, Notes, Calendar items, etc) to text in the nearest future. Watch our news!]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Outlook Items to MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:286</guid>
+      <pubDate>Sat, 15 Oct 2011 19:46:54 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Export Outlook Items to MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/25/285/#post285</link>
+      <description><![CDATA[Can anyone advise, please, whether it's possible to export Tasks to text (or Word or Excel) format?]]></description>
+      <author><![CDATA[Mike Brayshaw]]></author>
+      <category><![CDATA[Export Outlook Items to MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:285</guid>
+      <pubDate>Sat, 15 Oct 2011 13:44:39 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Export Outlook Items to MSG Format]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/25/25/#post25</link>
+      <description><![CDATA[Discuss these utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Export Outlook Items to MSG Format]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:25</guid>
+      <pubDate>Fri, 01 Oct 2010 19:54:49 UT</pubDate>
+    </item>
+  </channel>
+</rss>

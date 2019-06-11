@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[Save Email Addresses: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/6/23</link>
+    <description><![CDATA[New posts in the topic "Save Email Addresses" of the forum "Discussions About Free Outlook Add-Ins & Utilities" of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:26:37 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/910/#post910</link>
+      <description><![CDATA[<b>squizzy,</b><br />
+<br />
+Thank you for your feedback.<br />
+<br />
+This functionality is now available in <!--noindex--><a href="https://www.reliefjet.com/Essentials/Features/OutlookMessagesEmailSave?src=fw" rel="nofollow">the advanced version</a><!--/noindex--> of the utility only.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:910</guid>
+      <pubDate>Tue, 07 Jun 2016 16:40:51 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/909/#post909</link>
+      <description><![CDATA[Hi, <br />
+<br />
+This utility has been very useful, thank you! I've been using it on Outlook 2007 however have just got a new computer and upgraded to Outlook 2013. I've downloaded and installed the latest version of the plugin and utility but it no longer gathers email addresses from the email text, just the from field. <br />
+<br />
+Do you have any advice on how I can get this to retrieve the email addresses from the email body? As this is the reason I have been using this utility. <br />
+<br />
+Thankyou in advance for any help!<br />
+<br />
+<b>EDIT:</b> I'm trying to run it on a local folder from a pop3 account, stored in a local PST file. I've tried running it from within outlook and also using the utility with outlook closed.]]></description>
+      <author><![CDATA[squizzy]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:909</guid>
+      <pubDate>Tue, 07 Jun 2016 08:03:16 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/716/#post716</link>
+      <description><![CDATA[<b>Zubin Malhotra,</b><br />
+<br />
+Please note, that this is not our program related issue.<br />
+<br />
+But you can try to install the following Windows XP update:<br />
+<!--noindex--><a href="http://support.microsoft.com/kb/943232" rel="nofollow">http://support.microsoft.com/kb/943232</a><!--/noindex--><br />
+<br />
+And the following article might be helpful also:<br />
+&quot;How to troubleshoot a &quot;STOP 0xC000021A&quot; error&quot;<br />
+<!--noindex--><a href="http://support.microsoft.com/kb/156669" rel="nofollow">http://support.microsoft.com/kb/156669</a><!--/noindex-->]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:716</guid>
+      <pubDate>Mon, 19 May 2014 15:26:03 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/715/#post715</link>
+      <description><![CDATA[<b>Outlook Freeware</b>, <br />
+Hi!<br />
+<br />
+I tried installing the Save Email Addresses on a Win XP PC but repeatedly keep getting a BSOD with the following message:<br />
+<br />
+Stop: c000021a {fatal system error} <br />
+The windows SubSystem system process terminated unexpectedly with a status of 0xc0000005 (0x7c9106c3 0x0069ec24)<br />
+The system has been shut down.<br />
+<br />
+Prior to installing the above program I installed the Microsoft .Net 4 and then the outlookfreeware runtime installer.<br />
+<br />
+Any idea why this may be happening?<br />
+<br />
+Cheers,<br />
+Zubin]]></description>
+      <author><![CDATA[Zubin Malhotra]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:715</guid>
+      <pubDate>Sat, 17 May 2014 22:15:19 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/706/#post706</link>
+      <description><![CDATA[<b>U2Forever</b>, we just updated our <!--noindex--><a href="/en/runtime.aspx" rel="nofollow">Runtime</a><!--/noindex--> to address this issue. Thanks for reporting!]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:706</guid>
+      <pubDate>Wed, 30 Apr 2014 01:06:04 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/705/#post705</link>
+      <description><![CDATA[Good evening,<br />
+I am trying some of yr utilities and I have to say that some are really INCREDIBLE!<br />
+For example I was searching and looking for a long time a good utility to extract email addresses from messages and put them all together in a contact folder. Woh...in just a few minutes I had over 3000 contacts in a folder !!<br />
+So that was really working GREAT.<br />
+<br />
+I only found it was not working the same with :<br />
+&quot;SAVE ADDRESSES FROM MESSAGES TO CONTACT GROUP&quot;<br />
+The utility started well, but after short while it made my Outlook 2007 and I was forced to restart Outlook.<br />
+Any idea what the problem can be ?<br />
+My O.S. is Windows 7<br />
+Hope somebody can help me ?]]></description>
+      <author><![CDATA[U2Forever]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:705</guid>
+      <pubDate>Sat, 26 Apr 2014 07:54:02 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/564/#post564</link>
+      <description><![CDATA[Rick,<br />
+<br />
+Contacts are stored in contacts folders in PST files. Be default, there is Contacts folder in the root folder. But you can add any contacts folders as Address book. To do this, you need to open a contact folder properties (via right mouse click), point to Outlook Address Book tab and select 'Show this folder as Outlook Address Book' option. You can copy your old contacts folder from old PST to a new one using Outlook copy folder option or using our utilities: Merge Folders or Merge Storages.<br />
+<br />
+Or you can search old PST for contact and add them to a contacts folder in the new PST using our utilities: Save Addresses from Contacts to Contact Folder and Save Addresses from Messages to Contact Folder.<br />
+<br />
+Exchange has its own Address book which is stored on the server. You can download it using Load Address Book option on the Send/Receive menu or tab. Exactly position of this option depends on Outlook version and you can find it on the Internet.<br />
+<br />
+Please also note that Outlook have different view modes, such as Mail and Contacts. You can also select Show All folders option. This can help you to locate a correct contacts folder when browsing through the old PST file. Or you can use 'Save Addresses from Contacts to Contact Folder' utility and select the root folder or the old PST file and the utility will find all contacts folder automatically.]]></description>
+      <author><![CDATA[Jouri Serdioukov]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:564</guid>
+      <pubDate>Thu, 05 Sep 2013 15:40:19 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/563/#post563</link>
+      <description><![CDATA[This should be interesting - I will be a regular - 18 GB of PST files. <br />
+<br />
+My first issue since Outlook imploded and I had to move my .pst files out is that the new .pst file does not contain by comprehensive address book. Where can I find the last address book/contact list from the prior install. <br />
+<br />
+I saved the current Outlook file and can open it but do not know how to bring all those e-Mail addresses into my current .pst or exchange contact folder.<br />
+<br />
+I am fairly computer literate but as anyone will tell you I know enough to be dangerous.<br />
+<br />
+Will one of these utilities help me.  <br />
+<br />
+Fanks.<br />
+<br />
+Rick.]]></description>
+      <author><![CDATA[RICK COLLINS]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:563</guid>
+      <pubDate>Thu, 05 Sep 2013 04:49:49 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/324/#post324</link>
+      <description><![CDATA[<b>Randy</b>, we just found the cause of the issue. The updated version of the utility will be available this week.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:324</guid>
+      <pubDate>Tue, 13 Dec 2011 23:42:03 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/321/#post321</link>
+      <description><![CDATA[When I use the export option from Outlook; export to file (excel). I don't know if this is the problem... I only suspect that.]]></description>
+      <author><![CDATA[Randy Schwidder]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:321</guid>
+      <pubDate>Thu, 08 Dec 2011 17:59:58 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/320/#post320</link>
+      <description><![CDATA[<b>Randy</b>, in order to get all these &quot;/O=XXX/OU=EXCHA&#173;NGE ADMINISTRATIVE GROUP (FYDIxxxxxxxx)/&#173;CN=RECIPIENTS/C&#173;N=xxxxxxx&quot; kind of addresses, how exactly did you export to Excel? By using Outlook or our tool?]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:320</guid>
+      <pubDate>Thu, 08 Dec 2011 01:00:28 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/319/#post319</link>
+      <description><![CDATA[<table class="forum-quote" cellspacing="0"><tr><th>Quote</th></tr><tr><td>Outlook Freeware:<br />
+<b>Randy</b>, please update <!--noindex--><a href="/en/runtime.aspx" rel="nofollow">OutlookFreeware Runtime</a><!--/noindex--> and after that all utilities that you have installed, one by one, including <!--noindex--><a href="/en/products/all/OutlookMessagesEmailSave/" rel="nofollow">Save Email Addresses</a><!--/noindex-->.<br />
+<br />
+Seems like you have an old version of our utilities.</td></tr></table><br />
+<br />
+Already Done that<br />
+<br />
+Runtime version: 2.2.1<br />
+Utility version: 2.2<br />
+<br />
+Still the same result...]]></description>
+      <author><![CDATA[Randy Schwidder]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:319</guid>
+      <pubDate>Wed, 07 Dec 2011 23:56:30 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/318/#post318</link>
+      <description><![CDATA[<b>Randy</b>, please update <!--noindex--><a href="/en/runtime.aspx" rel="nofollow">OutlookFreeware Runtime</a><!--/noindex--> and after that all utilities that you have installed, one by one, including <!--noindex--><a href="/en/products/all/OutlookMessagesEmailSave/" rel="nofollow">Save Email Addresses</a><!--/noindex-->.<br />
+<br />
+Seems like you have an old version of our utilities.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:318</guid>
+      <pubDate>Wed, 07 Dec 2011 00:45:54 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Re: Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/317/#post317</link>
+      <description><![CDATA[Today I tried this add-on in my Outlook 2007. Somehow it does not work. If I use it on an Exchange (2007) shared mailbox received messages (200+ messages), it finds just 10 addresses. It should be at least 100 unique addresses. I think it has something to do with that most emailaddresses are addresses hosted by the Exchange server. If I do an export to Excel they show up like: /O=XXX/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIxxxxxxxx)/CN=RECIPIENTS/CN=xxxxxxx. When I look in Outlook in the header it shows up like: &quot;From: user &lt;<script type="text/javascript">document.write('<a href="mailto:'+'u'+'s'+'e'+'r'+'@'+'d'+'o'+'m'+'e'+'i'+'n'+'.'+'c'+'o'+'m'+'">'+'u'+'s'+'e'+'r'+'@'+'d'+'o'+'m'+'e'+'i'+'n'+'.'+'c'+'o'+'m'+'</a>');</script><noscript>Turn javascript on to display e-mail.</noscript>&gt;&quot;.]]></description>
+      <author><![CDATA[Randy Schwidder]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:317</guid>
+      <pubDate>Tue, 06 Dec 2011 23:48:22 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Save Email Addresses]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/6/23/23/#post23</link>
+      <description><![CDATA[Discuss these free utilities here.]]></description>
+      <author><![CDATA[Outlook Freeware]]></author>
+      <category><![CDATA[Save Email Addresses]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:23</guid>
+      <pubDate>Fri, 01 Oct 2010 19:54:01 UT</pubDate>
+    </item>
+  </channel>
+</rss>

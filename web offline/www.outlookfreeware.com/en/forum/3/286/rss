@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[How can I  open Zimbra email file this not open in MS Outlook email?: New Posts]]></title>
+    <link>https://www.outlookfreeware.com/en/forum/3/286</link>
+    <description><![CDATA[New posts in the topic "How can I  open Zimbra email file this not open in MS Outlook email?" of the forum "General Questions About Outlook and Related..." of "Outlook Freeware"]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Jun 2019 05:59:13 UT</lastBuildDate>
+    <generator><![CDATA[bitrix::forum.rss]]></generator>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Re: How can I  open Zimbra email file this not open in MS Outlook email?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/286/1155/#post1155</link>
+      <description><![CDATA[Zimbra email client is not properly working in my computer. Some data has not been found in the email. I find data offline and online mode but not found. Therefore I decided migrate all data in MS Outlook email client. But .tgz file save in Zimbra email client that not open in MS Outlook email client. Because MS Outlook email client supported pst file format. If you have any solutions please give me a suggestion.]]></description>
+      <author><![CDATA[fatrin led]]></author>
+      <category><![CDATA[How can I  open Zimbra email file this not open in MS Outlook email?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1155</guid>
+      <pubDate>Mon, 17 Dec 2018 12:36:16 UT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How can I  open Zimbra email file this not open in MS Outlook email?]]></title>
+      <link>https://www.outlookfreeware.com/en/forum/3/286/1154/#post1154</link>
+      <description><![CDATA[MS Outlook provides some new feature that another email client does not provide. MS Outlook saves the file in an offline and online mode so that we can easily access data any time. MS Outlook provides many options such as calendar, contact, notes, journal, items etc. Therefore, I want to switch from my old Zimbra email client. But I face some problem that my old important data save in TGZ file format. How to convert TGZ into PST file format.]]></description>
+      <author><![CDATA[entry led]]></author>
+      <category><![CDATA[How can I  open Zimbra email file this not open in MS Outlook email?]]></category>
+      <guid isPermaLink="false">urn:bitrix:forum:post:1154</guid>
+      <pubDate>Sat, 15 Dec 2018 14:06:07 UT</pubDate>
+    </item>
+  </channel>
+</rss>
